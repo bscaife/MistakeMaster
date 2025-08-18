@@ -1,0 +1,11 @@
+Question,Choice A,Choice B,Choice C,Choice D,Correct Answer,Explanation
+Does torque only do work after one full rotation?,"No, work accumulates continuously with angle","Yes, full revolutions are required",Only if ω is constant,Only if torque is large,A,"Work = τ·θ builds with any angular displacement, not just full revolutions."
+How is rotational work calculated?,W = τ·ω,W = τ·r,W = τ·θ,W = τ²,C,Rotational work depends on torque and angular displacement: W = τ·θ.
+A torque acts through a small angle. Is work done?,No,"Yes, because θ is nonzero",Only if θ > 180°,Only for constant τ,B,Any nonzero angular displacement with torque means work is done: W = τ·θ.
+What angle is used in W = τ·θ?,Degrees,Rotations,Radians,Torque units,C,θ in W = τ·θ must be in radians to match SI units and calculate work in joules.
+What happens to rotational work if θ = π/4 radians?,No work occurs,Work only occurs at θ = 2π,Work is partial but real,θ must be converted to degrees first,C,W = τ·θ works for any θ in radians — even fractions of a full rotation.
+Which scenario shows work being done without full rotation?,A wheel locked in place,Balanced beam at rest,Friction stopping a wheel,Torque applied through 1 radian,D,Work is done any time torque causes angular displacement — even if less than 2π.
+Which variable causes work to build gradually as rotation occurs?,Friction,Radius,Speed,Angular displacement (θ),D,W = τ·θ shows that angular displacement causes energy to accumulate.
+How much work is done by 5 N·m torque over 1 rad?,5 J,1 J,0,10 J,A,"W = τ·θ = 5·1 = 5 J, even for a single radian."
+Why is it wrong to say torque only works after full turns?,Because work depends on each bit of angle,Because work needs angular velocity,Because θ is a constant,Because only force matters,A,Every bit of angular displacement contributes to work: W = τ·θ.
+What does a small angular displacement with torque represent?,No energy added,Partial but real work,Work that will vanish,Energy with no torque,B,Work increases as θ increases — any nonzero angle adds energy to the system.

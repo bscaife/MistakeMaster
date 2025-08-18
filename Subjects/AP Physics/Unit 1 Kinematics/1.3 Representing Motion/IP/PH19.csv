@@ -1,0 +1,11 @@
+Question,Choice A,Choice B,Choice C,Choice D,Correct Answer,Explanation
+What does the slope of a tangent to an x–t graph represent?,Position,Instantaneous velocity,Acceleration,Time,B,Slope of a tangent to a position–time graph gives instantaneous velocity.
+What does the slope of a tangent to a v–t graph represent?,Instantaneous acceleration,Instantaneous position,Speed,Displacement,A,Slope of a velocity–time graph gives acceleration.
+Why use tangent lines on graphs in physics?,To find instantaneous rates,To compare curves,To find area,To eliminate direction,A,Tangents are used to find instantaneous velocity and acceleration (rate of change).
+"If an x–t graph is curved, how do you find velocity at a point?",Find tangent slope,Take average over whole time,Use curvature,Measure total area,A,The slope of a tangent line gives the velocity at a specific moment.
+What is the meaning of a changing slope in a v–t graph?,Oscillation,Zero velocity,Changing acceleration,Flat motion,C,Changing slope in a v–t graph means changing acceleration.
+When is tangent slope on an x–t graph zero?,At maximum velocity,At turning points,At max acceleration,Never,B,"At turning points, velocity is zero, so slope of x–t is zero."
+What does a steep tangent line in an x–t graph mean?,High acceleration,Flat motion,Turning point,High speed,D,Steeper tangent = greater instantaneous velocity.
+An x–t graph has a tangent with slope 3 m/s. What is velocity at that point?,0 m/s,9 m/s,1 m/s,3 m/s,D,Slope of position–time tangent gives instantaneous velocity.
+Tangent to a v–t graph has slope 2 m/s². What is acceleration?,4 m/s,2 m/s²,6 m/s²,0 m/s²,B,Slope of v–t graph = acceleration.
+"At the peak of motion, x–t graph flattens. What is tangent slope?",Infinity,0,1,9.8,B,"At the top of a curve, velocity = 0 → slope = 0."

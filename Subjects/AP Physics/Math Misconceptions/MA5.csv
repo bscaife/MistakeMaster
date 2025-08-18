@@ -1,0 +1,41 @@
+Question,Choice A,Choice B,Choice C,Choice D,Correct Answer,Explanation
+Solve for t from the equation v = v₀ + a·t.,t = v₀/a,t = v/a,t = (v - v₀)/a,t = v₀/v,C,"Starting from v = v₀ + a·t, subtract v₀ from both sides and divide by a: t = (v - v₀)/a."
+Solve for v₀ from the equation x = v₀·t + ½·a·t².,v₀ = (x - a·t²)/t,v₀ = x/(½·a·t²),v₀ = (x - ½·a·t²)/t,v₀ = (x + ½·a·t²)/t,C,"Starting from x = v₀·t + ½·a·t², subtract ½·a·t² and divide by t to isolate v₀."
+Solve for m from the equation F = m·a.,m = F - a,m = F/a,m = F/a²,m = F·a,B,"Starting from F = m·a, divide both sides by a to isolate m: m = F/a."
+Solve for a from the equation v² = v₀² + 2·a·Δx.,a = (v² - v₀²)/(2·Δx),a = (v - v₀)/Δx,a = (v² + v₀²)/2Δx,a = (v² - v₀²)/(Δx),A,Subtract v₀² from both sides and divide by 2Δx: a = (v² - v₀²)/(2·Δx).
+Solve for k from the equation Uₛ = ½·k·x².,k = ½·Uₛ/x,k = Uₛ/x²,k = 2·Uₛ/x,k = 2·Uₛ/x²,D,Multiply both sides by 2 and divide by x² to isolate k: k = 2·Uₛ/x².
+Solve for F in the equation τ = r·F·sinθ.,F = τ/(r·sinθ),F = τ/r,F = τ·r·sinθ,F = τ/(r·cosθ),A,"Starting from τ = r·F·sinθ, divide both sides by (r·sinθ) to solve for F."
+Solve for r from the equation F = G·(m₁·m₂)/r².,r = √(F/G·m₁·m₂),r = √(G·m₁·m₂/F),r = F/(G·m₁·m₂),r = (G·m₁·m₂)/F,B,"Multiply both sides by r², divide by F, then take the square root: r = √(G·m₁·m₂/F)."
+Solve for v from the equation KE = ½·m·v².,v = √(2·KE/m),v = √(KE/2m),v = √(KE/m),v = KE/½m,A,"Multiply both sides by 2, divide by m, then take the square root: v = √(2·KE/m)."
+Solve for h from the equation PE = m·g·h.,h = m·g/PE,h = PE/(m·g),h = PE/m,h = PE·g,B,Divide both sides by (m·g) to solve for h: h = PE/(m·g).
+Solve for ω from the equation L = I·ω.,ω = L/I²,ω = L/I,ω = L·I,ω = I/L,B,Divide both sides by I to solve for ω: ω = L/I.
+Solve for T from the equation T = 2π√(m/k).,T = 2π√(m/k),T = 2π(m/k),T = 2π·k/m,T = √(2π·m/k),A,T is already isolated. It is important to recognize that T = 2π√(m/k) without dropping the square root.
+Solve for m from the equation T = 2π√(m/k).,m = (T²)/(2π·k),m = (T·k)/2π,m = (T²·k)/2π,m = (T²·k)/(4π²),D,"Square both sides, then solve for m: T² = (4π²m)/k, so m = (T²·k)/(4π²)."
+Solve for a from the equation Δx = v₀·t + ½·a·t².,a = (Δx - v₀·t)/t²,a = (Δx)/(v₀·t²),a = (2(Δx - v₀·t))/t²,a = (2Δx - v₀·t)/t²,C,"Subtract v₀·t from both sides, multiply by 2, and divide by t² to isolate a."
+Solve for Δx from the equation v² = v₀² + 2·a·Δx.,Δx = (v² - v₀²)/a,Δx = (v² - v₀²)/(2·a),Δx = (v - v₀)/(2a),Δx = (v² + v₀²)/2a,B,Subtract v₀² and divide by 2a to solve for Δx.
+Solve for θ from the equation τ = r·F·sinθ.,θ = sin(τ/rF),θ = sin(τ)/(rF),θ = τ/(r·F),θ = sin⁻¹(τ/(r·F)),D,Divide by r·F and then take inverse sine: θ = sin⁻¹(τ/(r·F)).
+Solve for v₀ from the equation v² = v₀² + 2·a·Δx.,v₀ = (v² - a·Δx)/2,v₀ = √(v² + 2·a·Δx),v₀ = v - 2·a·Δx,v₀ = √(v² - 2·a·Δx),D,"Subtract 2aΔx from v², then take the square root to solve for v₀."
+Solve for g from the equation F_g = m·g.,g = F_g·m,g = F_g/m,g = F_g/m²,g = m/F_g,B,Divide both sides by m to solve for g: g = F_g/m.
+Solve for Δx from the equation PE = m·g·Δx.,Δx = m/PE·g,Δx = PE/(m·g),Δx = PE/g,Δx = PE/m,B,Divide by m·g to isolate Δx: Δx = PE/(m·g).
+Solve for k from the period equation T = 2π√(m/k).,k = (4π²·m)/T²,k = m/4π²T,k = (m·T²)/4π²,k = (4π·m)/T,A,"Square both sides, rearrange to isolate k: k = (4π²·m)/T²."
+Solve for a from the equation F = m·a.,a = F/m,a = m/F,a = F·m,a = F/m²,A,Divide both sides by m to solve for a: a = F/m.
+Solve for t from the equation x = x₀ + v₀·t + ½·a·t² (assuming a = 0).,t = v₀/(x - x₀),t = (x - x₀)/v₀,t = (x + x₀)/v₀,t = (x₀ - x)/v₀,B,"With a = 0, the equation simplifies to x = x₀ + v₀·t. Solve for t: t = (x - x₀)/v₀."
+Solve for v from the equation p = m·v.,v = p·m,v = m/p,v = p²/m,v = p/m,D,Divide both sides by m to solve for v: v = p/m.
+Solve for F in the equation W = F·d.,F = W/d²,F = W·d,F = d/W,F = W/d,D,Divide both sides by d to isolate F: F = W/d.
+Solve for v₀ from the equation v = v₀ + a·t.,v₀ = v/a·t,v₀ = v - a·t,v₀ = a·t - v,v₀ = v + a·t,B,Subtract a·t from v to solve for v₀: v₀ = v - a·t.
+Solve for θ from the projectile equation R = (v₀²·sin2θ)/g.,θ = sin⁻¹(R·g/v₀²),θ = ½·sin⁻¹(R·g/v₀²),θ = sin(R·g/v₀²),θ = (v₀²)/(R·g),B,"First multiply by g and divide by v₀², then apply inverse sine and divide by 2: θ = ½·sin⁻¹(R·g/v₀²)."
+Solve for F in the equation P = F·v.,F = P·v,F = v/P,F = P/v,F = v²/P,C,Divide both sides by v to solve for F: F = P/v.
+Solve for v from the equation KE = ½·m·v².,v = √(KE/m),v = (2·KE)/m,v = √(2·KE/m),v = KE/(½m),C,"Multiply by 2, divide by m, then take the square root: v = √(2·KE/m)."
+Solve for t from the equation θ = ω₀·t + ½·α·t² (assuming α = 0).,t = θ²/ω₀,t = θ·ω₀,t = θ/ω₀,t = ω₀/θ,C,"With α = 0, θ = ω₀·t. Solve by dividing both sides by ω₀: t = θ/ω₀."
+Solve for α from the equation τ = I·α.,α = τ/I²,α = τ·I,α = τ/I,α = I/τ,C,Divide both sides by I to isolate α: α = τ/I.
+Solve for R from the equation T² = (4π²·r³)/(G·M).,r = (T²·G·M)/4π²,r = (T²·G·M)^(1/2),r = (4π²)/(T²·G·M),r = [(T²·G·M)/(4π²)]^(1/3),D,"Multiply by G·M, divide by 4π², then take the cube root: r = [(T²·G·M)/(4π²)]^(1/3)."
+Solve for F in the equation p = F·Δt.,F = Δt/p,F = p/Δt,F = p²/Δt,F = p·Δt,B,Divide both sides by Δt to solve for F: F = p/Δt.
+Solve for ω from the equation KEᵣₒₜ = ½·I·ω².,ω = √(2·KEᵣₒₜ/I),ω = KEᵣₒₜ/(2·I),ω = √(KEᵣₒₜ/I),ω = 2·KEᵣₒₜ/I,A,"Multiply by 2, divide by I, then take the square root: ω = √(2·KEᵣₒₜ/I)."
+Solve for x from the equation Fₛ = k·x.,x = Fₛ·k,x = Fₛ/k²,x = k/Fₛ,x = Fₛ/k,D,Divide both sides by k to isolate x: x = Fₛ/k.
+Solve for θ from the arc length formula s = r·θ.,θ = r/s,θ = s/r²,θ = s·r,θ = s/r,D,Divide both sides by r to isolate θ: θ = s/r.
+Solve for G from the gravitational force formula F = G·(m₁·m₂)/r².,G = (r²)/(F·m₁·m₂),G = (F·r²)/(m₁·m₂),G = (m₁·m₂)/(F·r²),G = (F·m₁·m₂)/r²,B,"Multiply both sides by r², then divide by (m₁·m₂) to solve for G: G = (F·r²)/(m₁·m₂)."
+Solve for v₀ from the projectile range formula R = (v₀²·sin2θ)/g.,v₀ = √(R·g/sin2θ),v₀ = √(R·sin2θ/g),v₀ = (sin2θ)/(R·g),v₀ = (R·g)/sin2θ,A,"Multiply by g, divide by sin2θ, then take the square root: v₀ = √(R·g/sin2θ)."
+Solve for m from the equation KE = ½·m·v².,m = KE/v²,m = 2·KE/v²,m = KE/2v,m = v²/2·KE,B,"Multiply by 2, divide by v² to solve for m: m = 2·KE/v²."
+Solve for P from the equation W = P·t.,P = W/t,P = t/W,P = W/t²,P = W·t,A,Divide both sides by t to isolate P: P = W/t.
+Solve for F_b from the buoyant force formula F_b = ρ·V·g.,F_b = ρ/V·g,F_b = ρ·g/V,F_b = V·g/ρ,F_b = ρ·V·g,D,F_b is already correctly isolated; it's important not to incorrectly rearrange or drop variables.
+Solve for T from the pendulum formula T = 2π√(L/g).,T = 2π·L/g,T = 2π√(L/g),T = √(2π·L/g),T = √(L/g²),B,"Recognize the original form: T = 2π√(L/g), maintaining the correct placement of the square root."

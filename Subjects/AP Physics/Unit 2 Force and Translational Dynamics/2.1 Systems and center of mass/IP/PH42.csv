@@ -1,0 +1,11 @@
+Question,Choice A,Choice B,Choice C,Choice D,Correct Answer,Explanation
+Can internal forces change a system’s center-of-mass motion?,"No, only external forces can",Only if acceleration is zero,Only if mass is large,"Yes, always",A,Internal forces cancel and cannot change the system’s momentum.
+Two skaters push off from rest. What is the total momentum afterward?,Positive only,Still zero,Depends on mass,Negative only,B,Initial momentum = 0 → final total momentum = 0 due to conservation.
+"If a force acts inside a system, what effect does it have on system motion?",It alters external force,None on COM motion,It accelerates the system,It changes net force,B,Internal forces cancel pairwise and don’t affect net motion.
+What is required to change a system’s net motion?,A rope,An explosion,An external force,A rotating part,C,Newton’s second law applies to systems only through external forces.
+A person walks across a boat. What happens to the boat?,It lifts upward,It speeds up,It stays still,It moves in the opposite direction,D,Internal push causes equal and opposite motion; total COM velocity unchanged.
+Two astronauts push each other in space. What happens to their system?,It accelerates,It changes mass,COM velocity stays constant,"One speeds up, the other stops",C,Internal push divides momentum but total COM motion remains unchanged.
+Why can't internal forces affect total motion?,They cancel within system,They act only during collisions,They reverse friction,They act only vertically,A,Newton’s third law ensures internal forces do not affect the net motion of the whole.
+Two 1 kg skaters push off. One moves at 3 m/s right. Other’s velocity?,3 m/s,0 m/s,−1.5 m/s,−3 m/s,D,Momentum conservation: equal and opposite if masses are equal.
+Person walks left at 2 m/s on 4 m/s rolling cart. Cart’s new speed?,0 m/s,> 4 m/s right,2 m/s left,< 4 m/s,B,Walking internally redistributes momentum; COM motion remains unaffected.
+System of mass 6 kg at rest. Two internal masses push apart. COM speed?,Varies,0 m/s,6 m/s,Unknown,B,No external force → COM velocity unchanged → 0 m/s.

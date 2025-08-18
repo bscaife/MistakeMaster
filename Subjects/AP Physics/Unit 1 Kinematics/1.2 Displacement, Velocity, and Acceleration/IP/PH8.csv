@@ -1,0 +1,11 @@
+Question,Choice A,Choice B,Choice C,Choice D,Correct Answer,Explanation
+Which of the following is true about displacement?,It is the total ground covered,It is the net change in position,It equals speed times time,It is always positive,B,Displacement is the vector change in position; not the total path traveled.
+Which of the following best defines distance?,Total ground covered,Net vertical motion,Negative velocity over time,Final position minus initial,A,Distance is the scalar total of the ground covered regardless of direction.
+"An object moves from 𝑥₀ = 0 to 𝑥 = 3 m, then back to 𝑥 = 1 m. What is its displacement?",4 m,0 m,3 m,1 m,D,Displacement = final − initial = 1 m − 0 m = 1 m.
+"If an object returns to its starting point, its displacement is:",Unknown,Negative,Equal to distance,0,D,Displacement is zero if the start and end points are the same.
+Which statement is true about distance and displacement?,Displacement is longer,Both are vectors,Distance = Displacement always,Distance ≥ Displacement,D,Distance is always greater than or equal to the magnitude of displacement.
+Which expression is valid only for displacement?,Δ𝑥 = 𝑥 − 𝑥₀,𝑣 = 𝑑/𝑡,𝑣 = √(𝑥² + 𝑦²),𝑑 = total path,A,Displacement is the difference between final and initial position: Δ𝑥 = 𝑥 − 𝑥₀.
+What distinguishes displacement from distance?,Displacement is always larger,Displacement includes time,Displacement is a scalar,Displacement includes direction,D,Displacement is a vector and includes direction; distance does not.
+"A student walks 3 m forward, then 2 m back. What is their distance and displacement?",5 m and 5 m,3 m and 2 m,5 m and 1 m,1 m and 5 m,C,Distance = 3 + 2 = 5 m; Displacement = 3 − 2 = 1 m.
+"A ball rolls 6 m east, then 6 m west. What is the displacement?",−6 m,6 m,0 m,12 m,C,Net change in position = 0 m; displacement is zero.
+You walk 2 laps around a 400 m track. What are your distance and displacement?,"800 m, 800 m","800 m, 0 m","0 m, 0 m","400 m, 400 m",B,Distance = 2×400 = 800 m; displacement = 0 since you end where you started.

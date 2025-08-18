@@ -1,0 +1,8 @@
+Code,Misconception,Explanation
+PH239,Satellites stay in orbit because there is no gravity,"Assumes gravity is absent in orbit, not realizing it is exactly gravity that provides the centripetal force to maintain the orbit."
+PH240,Orbits require constant engine thrust,"Thinks satellites must continuously fire engines to stay in orbit, rather than coasting under the influence of gravity alone."
+PH241,Satellites are weightless because gravity is zero,"Confuses 'apparent weightlessness' with lack of gravity, ignoring that satellites are in free fall."
+PH242,Circular orbits are the only kind of orbit,Fails to recognize that elliptical orbits are more common and governed by the same conservation principles.
+PH243,Higher orbits are always faster,Does not understand that orbital speed decreases with increasing altitude due to weaker gravitational pull.
+PH244,Gravitational potential energy is zero at Earth’s surface,"Ignores that potential energy is defined relative to infinity in orbital systems, not Earth’s surface."
+PH245,The satellite’s energy changes in circular orbit,"Thinks energy fluctuates during circular orbit, not realizing that both kinetic and potential energy remain constant unless acted upon."

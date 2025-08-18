@@ -1,0 +1,11 @@
+Question,Choice A,Choice B,Choice C,Choice D,Correct Answer,Explanation
+Which equation shows the relationship between impulse and momentum?,p = F·t,J = F·t = Δp,F = m·p,J = m·a,B,Impulse (J) is equal to force times time and is the cause of a change in momentum: J = Δp.
+Why is impulse needed to change momentum?,Impulse adds mass,Impulse stores energy,Impulse applies a force for a duration of time,Impulse eliminates friction,C,A force applied over time changes an object’s momentum. This is the definition of impulse.
+A student says 'you can change momentum without time.' What’s the correction?,Momentum changes only with time and force acting together,Time affects only velocity,Momentum doesn’t involve time at all,Mass changes are more important than time,A,A force must act over time to produce a change in momentum: Δp = F·t.
+Which variable directly connects impulse and momentum?,Mass,Time,Velocity,Acceleration,B,Impulse depends on both force and time. Time is critical for momentum change.
+Which situation clearly shows impulse causing a change in momentum?,A ball rolls without friction,A car sits at rest on a hill,A bat hits a baseball,A rock floats in space,C,"The bat applies a force over time, changing the ball’s momentum—a classic impulse example."
+Which graph area gives the impulse delivered to an object?,Area under a velocity vs. time graph,Area under a force vs. time graph,Slope of a force vs. time graph,Slope of a velocity vs. mass graph,B,"Impulse is the area under a force-time graph, representing F·t."
+"If two forces act for the same time, which delivers more impulse?",The one with lower mass,The shorter force,The larger force,Both are equal,C,"Impulse = F·t. If time is equal, the larger force delivers more impulse and changes momentum more."
+A 2 N force is applied for 5 seconds. What is the impulse delivered?,10 N·s,7 N·s,2.5 N·s,1 N·s,A,Impulse = F·t = 2 × 5 = 10 N·s.
+A 3 kg object changes velocity from 2 m/s to 6 m/s. What is the impulse delivered?,12 N·s,8 N·s,6 N·s,3 N·s,A,Δp = m·Δv = 3 × (6 - 2) = 12 N·s.
+A 5 kg object receives 15 N·s of impulse. What is the change in velocity?,2 m/s,3 m/s,5 m/s,15 m/s,B,Δv = J/m = 15 ÷ 5 = 3 m/s.

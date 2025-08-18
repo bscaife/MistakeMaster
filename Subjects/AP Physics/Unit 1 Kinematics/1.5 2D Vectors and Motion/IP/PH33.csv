@@ -1,0 +1,11 @@
+Question,Choice A,Choice B,Choice C,Choice D,Correct Answer,Explanation
+What is a resultant vector?,A perpendicular line,A chosen direction,A calculated sum of component vectors,A scalar total,C,"The resultant is determined by adding components, not by guesswork."
+How do you find the resultant of two perpendicular vectors?,Choose the longest one,Subtract the smaller from larger,Add their magnitudes directly,Use Pythagorean theorem,D,Pythagorean theorem gives the magnitude of a 2D resultant.
+Why is direction important in vector addition?,To cancel velocity,Because vectors are directional,To create acceleration,Because mass is involved,B,Vectors must be added using both magnitude and direction.
+Two forces act at right angles. How is the net force found?,By vector addition,By subtracting mass,By averaging,By selecting the stronger one,A,Only vector addition (with direction) yields correct net force.
+Which method gives the direction of a resultant vector?,Divide angles,Subtract magnitudes,Guess based on shape,Use tan⁻¹(opposite/adjacent),D,Inverse tangent gives the angle of resultant from components.
+Resultant vectors can be found using:,Component addition and geometry,Graph guessing,Assuming balance,Choosing random values,A,"Resultants are calculated, not guessed or chosen arbitrarily."
+"If a vector points diagonally, it comes from:",One large horizontal force,Rotation,Only acceleration,Two perpendicular components,D,Diagonal motion is from x and y combined.
+"vₓ = 3 m/s, vᵧ = 4 m/s. Resultant speed?",4 m/s,5 m/s,6 m/s,7 m/s,B,v = √(3² + 4²) = 5 m/s.
+"Vector A = 5 N right, B = 12 N up. Resultant force?",17 N,7 N,13 N,10 N,C,F = √(5² + 12²) = √169 = 13 N.
+Two perpendicular forces: 6 N and 8 N. Resultant?,10 N,12 N,7 N,14 N,A,F = √(6² + 8²) = √100 = 10 N.

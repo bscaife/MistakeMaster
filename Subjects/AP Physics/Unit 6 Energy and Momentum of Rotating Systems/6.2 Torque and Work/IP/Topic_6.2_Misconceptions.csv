@@ -1,0 +1,8 @@
+Code,Misconception,Explanation
+PH211,Work and torque are unrelated,"Fails to understand that work can be done by a torque, just as it can be done by a linear force over displacement."
+PH212,Rotational work depends only on torque,Ignores that both torque and angular displacement are required for calculating work done in rotational motion.
+PH213,Work in rotation is always positive,"Assumes torque always adds energy, not realizing torque in the opposite direction can remove energy."
+PH214,Work is the same regardless of the angle,"Does not consider that work varies with the angle of torque application, just as in linear work with force direction."
+PH215,Only complete rotations produce work,"Believes that torque must result in full revolutions to count as work, ignoring continuous accumulation of energy over small angular displacements."
+PH216,Rotational work is not energy,"Fails to recognize that work done by torque changes rotational kinetic energy, just as linear work affects translational energy."
+PH217,Area under a torque graph means nothing,"Overlooks that the area under a torque vs. angle graph equals work done, paralleling force vs. displacement graphs."

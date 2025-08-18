@@ -1,0 +1,29 @@
+Code,Misconception,Explanation
+PH274,Density is the same as weight,"Confuses density (mass per unit volume) with weight, which depends on gravitational force."
+PH275,Density depends on amount,"Thinks that more of a substance increases its density, rather than recognizing density as an intensive property."
+PH276,Objects float if they are lighter,"Believes that absolute weight determines floating, ignoring that density relative to fluid is the key factor."
+PH277,Mass and volume are interchangeable,Fails to distinguish between how much matter is in an object and how much space it occupies.
+PH278,Air has no density,Assumes gases are 'weightless' or 'massless' despite having measurable density.
+PH279,Solids can be compressed like fluids,Ignores that solids have fixed structure and negligible compressibility compared to fluids.
+PH280,Ideal fluids have the same behavior as real fluids,"Does not understand that ideal fluids ignore viscosity and compressibility, unlike real-world substances."
+PH281,Pressure is the same at all depths,Fails to recognize that pressure increases with depth due to the weight of the fluid above.
+PH282,Pressure acts only downward,Does not understand that fluid pressure acts equally in all directions at a point in a fluid.
+PH283,Only force affects pressure,Ignores the role of surface area in calculating pressure; doesn't apply the formula P = F/A correctly.
+PH284,Air pressure is only present when air is moving,"Thinks that still air doesn't exert pressure, rather than understanding atmospheric pressure exists regardless of motion."
+PH285,Liquids exert more pressure than gases due to weight alone,"Overgeneralizes liquid density and weight, without considering compressibility and depth-related variation in gases."
+PH286,Objects are crushed by fluid pressure only from above,"Fails to see that fluid pressure surrounds objects and acts in all directions, not just from the top."
+PH287,Larger objects exert more pressure,"Confuses force with pressure, neglecting the inverse relationship between pressure and area."
+PH288,Buoyant force only exists when objects float,"Thinks buoyant force is present only if an object floats, ignoring that it acts on all submerged or partially submerged objects."
+PH289,Buoyant force equals object weight,"Assumes buoyant force always matches the object's weight, not realizing it depends on the displaced fluid's weight."
+PH290,Fluids don't exert upward force,"Believes fluids only exert downward pressure, neglecting the net upward force due to pressure differences with depth."
+PH291,Heavier objects displace more fluid regardless of volume,"Confuses mass with volume in Archimedes’ principle, ignoring that fluid displacement depends on submerged volume."
+PH292,Buoyant force is due to gravity pulling up,"Misunderstands that buoyant force is a result of pressure difference, not upward gravitational attraction."
+PH293,Buoyancy applies only in water,"Thinks buoyant force doesn’t apply in other fluids like air, ignoring that the same principles apply to all fluids."
+PH294,Buoyant force depends on object's shape,Believes that shape determines buoyant force rather than volume of displaced fluid.
+PH295,Fluid flow requires energy input,"Assumes a pump or force is needed at all times for fluid to flow, ignoring that pressure and height differences can drive motion."
+PH296,Flow rate increases with narrower pipe,Confuses speed with flow rate; does not understand that flow rate stays constant (continuity equation) while velocity increases.
+PH297,Pressure increases in narrower regions,"Misinterprets Bernoulli's principle, believing higher speed corresponds to higher pressure instead of lower pressure."
+PH298,Bernoulli’s equation applies everywhere,"Applies Bernoulli’s equation blindly, including across elevations or locations with friction or energy loss, where it’s not valid."
+PH299,Torricelli’s theorem needs mass or force,"Thinks calculating exit speed of fluid requires knowledge of mass or force, instead of just height difference."
+PH300,Pressure and speed increase together,"Fails to understand that fluid speed increases where pressure drops, not rises, when applying Bernoulli."
+PH301,Conservation laws do not apply to fluids,"Thinks mass and energy conservation break down in flowing fluids, ignoring ideal flow assumptions."

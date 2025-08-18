@@ -1,0 +1,11 @@
+Question,Choice A,Choice B,Choice C,Choice D,Correct Answer,Explanation
+A car moves 300 cm in 2 seconds. What is its speed in meters per second (m/s)?,v = 0.015 m/s,v = 150 m/s,v = 15 m/s,v = 1.5 m/s,D,"First convert 300 cm to meters: 300 cm ÷ 100 = 3 m. Then, speed = distance/time = 3 m ÷ 2 s = 1.5 m/s."
+A mass of 2500 g is placed on a spring. What mass value should be used in calculations in SI units?,m = 25 kg,m = 2.5 kg,m = 0.25 kg,m = 250 kg,B,Grams must be converted to kilograms: 2500 g ÷ 1000 = 2.5 kg for correct SI unit usage.
+A force is calculated as F = 10 kg × 2 m/s². What is the correct unit for force?,kg,m/s²,kg·m,N (newtons),D,"Force in SI units is expressed in newtons (N), where 1 N = 1 kg·m/s²."
+An object travels 5 km. How many meters is this distance?,0.5 m,5000 m,500 m,50 m,B,"To convert kilometers to meters, multiply by 1000: 5 km × 1000 = 5000 m."
+You calculate a speed as v = 4.2 but do not write any unit. What is missing?,m,m²/s,m/s,s,C,Velocity must be expressed with units of meters per second (m/s); omitting units is incorrect.
+A measurement reads 1500 ms. What is this in seconds (s)?,150 s,1.5 s,15 s,0.15 s,B,Milliseconds must be converted to seconds: 1500 ms ÷ 1000 = 1.5 s.
+A student finds the kinetic energy as 250 but forgets the unit. What unit should be written?,W (watts),N (newtons),kg,J (joules),D,Kinetic energy is measured in joules (J); forgetting to include the unit makes the answer incomplete.
+Which unit correctly expresses work done in the SI system?,N (newtons),kg·m,J (joules),W (watts),C,"Work is measured in joules (J), not newtons or watts; watts measure power, not work."
+A mass is given as 0.003 kg. What is this mass in grams (g)?,0.03 g,30 g,3 g,300 g,C,"To convert kilograms to grams, multiply by 1000: 0.003 kg × 1000 = 3 g."
+Which of the following is the correct unit for pressure in the SI system?,Pa (pascals),W (watts),N (newtons),J (joules),A,"Pressure is measured in pascals (Pa), which equals N/m²."

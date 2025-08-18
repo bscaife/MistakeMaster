@@ -1,0 +1,11 @@
+Question,Choice A,Choice B,Choice C,Choice D,Correct Answer,Explanation
+What does rotational work do to a system?,Adds torque,Changes angular momentum,Increases moment of inertia,Transfers energy,D,Rotational work (W = τ·θ) changes the system’s rotational kinetic energy.
+Which equation shows energy added to rotation?,W = τ·θ,W = F·d,W = m·g·h,W = I·α,A,W = τ·θ represents the energy transferred by torque causing angular displacement.
+A torque spins up a wheel. What happens to its energy?,Rotational KE increases,It decreases,It stays the same,Mass increases,A,"Torque does positive work, increasing rotational kinetic energy: KE = ½·I·ω²."
+What kind of energy does torque produce through work?,Thermal energy,Rotational kinetic energy,Translational energy,Potential energy,B,Torque causes rotation — the energy increase shows up in ½·I·ω².
+Which variable increases as a result of rotational work?,ω,Radius,Mass,Height,A,"Work adds energy, increasing angular velocity (ω) and thus rotational KE."
+A student says torque doesn’t transfer energy. What’s the fix?,Only linear force does work,Torque changes rotational KE through work,Energy is only in mass,Torque stores momentum,B,Rotational work changes KE: W = τ·θ affects ½·I·ω².
+Which concept is rotational work directly tied to?,Acceleration,Friction,Energy transfer,Inertia,C,"Like linear work, rotational work represents energy transfer into or out of rotation."
+When is energy transferred to rotation?,Only when α = 0,Only when ω = 0,When τ and θ are both nonzero,Only when m increases,C,Work requires torque and angular displacement: W = τ·θ.
+How does torque increase an object’s energy?,By reducing mass,By changing radius,By doing work over an angle,By increasing inertia,C,Work = τ·θ adds energy by turning torque into motion.
+Which statement best connects torque to energy?,Torque does not affect energy,Only force changes energy,Energy only changes with mass,Rotational work transfers energy via τ·θ,D,Rotational work (W = τ·θ) transfers energy to or from rotational KE.

@@ -1,0 +1,8 @@
+Code,Misconception,Explanation
+PH92,Objects in circular motion have outward force,"Believes in a 'centrifugal force' pushing outward, rather than recognizing centripetal force as the inward force maintaining circular motion."
+PH93,Velocity and acceleration point in same direction,"Fails to recognize that in uniform circular motion, velocity is tangent to the path while acceleration is directed inward."
+PH94,Faster speed means greater outward force,"Thinks an outward force increases with speed, confusing reaction feeling (inertia) with actual inward centripetal force."
+PH95,Centripetal force is a new kind of force,"Treats centripetal force as a standalone force rather than the net inward force provided by gravity, tension, or friction."
+PH96,Acceleration means changing speed only,Does not understand that changing direction (even at constant speed) constitutes acceleration in circular motion.
+PH97,Object continues circular path if force is removed,"Thinks that removing centripetal force would keep the object moving in a circle, instead of moving in a straight tangent line."
+PH98,Tangential and centripetal acceleration are the same,"Confuses acceleration toward the center with changes in speed, not recognizing they are distinct components."

@@ -1,0 +1,11 @@
+Question,Choice A,Choice B,Choice C,Choice D,Correct Answer,Explanation
+What does power measure in physics?,Total energy used.,Force applied to an object.,Rate of doing work or transferring energy.,How long an object moves.,C,Power is defined as P = W/t — the rate at which work is done.
+Two people lift the same box to the same height. One takes twice as long. Who produces less power?,They produce equal power.,The faster one.,The slower one.,Power doesn’t depend on time.,C,P = W/t — longer time for same work means less power.
+"A student says 'if work is done, power must be high.' What’s the mistake?",Work and power are identical.,Power doesn’t involve time.,Power depends on how quickly work is done.,Power only applies to motion.,C,Power is about rate — same work over more time results in less power.
+Which scenario shows high work but low power?,Lifting a weight quickly.,Running up stairs.,Slowly raising a heavy box.,Jumping vertically.,C,"W = F·d can be large, but P = W/t will be low if t is large."
+"If the same work is done in less time, what happens to power?",It increases.,It stays the same.,It decreases.,It depends on force only.,A,P = W/t — decreasing t with constant W increases power.
+A crane lifts a crate 10 m in 5 s. Another crane does the same in 2 s. What is true?,Both have same power.,The second has greater power.,The first does more work.,Neither does work.,B,"Same W, less time ⇒ P = W/t is greater for the second crane."
+"If work is 500 J and time is 100 s, what is power?",5 W,50 W,0.2 W,100 W,A,P = W/t = 500 ÷ 100 = 5 W.
+Why can an object doing a lot of work still have low power?,Power depends on force.,Power is not related to work.,Power depends on how long the work takes.,Power is energy only.,C,P = W/t — same W done over more time lowers power.
+Which example shows low power output?,Running uphill.,Exploding rocket.,Holding a weight still.,Pushing a box slowly across the room.,D,Same W over longer time ⇒ low P.
+What happens to average power if more time is taken for the same task?,It increases.,It stays the same.,It decreases.,It becomes infinite.,C,"P = W/t — as t increases, P decreases for constant W."

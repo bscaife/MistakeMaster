@@ -1,0 +1,11 @@
+Question,Choice A,Choice B,Choice C,Choice D,Correct Answer,Explanation
+Does kinetic energy depend on total distance traveled?,"No, it depends only on the object’s mass and instantaneous speed","Yes, energy builds over distance",Only when moving upward,Only for constant motion,A,"KE = ½·m·v² — it is a function of speed, not path length or displacement."
+"Two objects travel the same distance, but one is faster. Which has more KE?",The faster one,The one traveling longer,Both are equal,The heavier one,A,"KE is about speed at a moment, not distance covered."
+Why is it incorrect to use distance to calculate kinetic energy?,"Because kinetic energy depends on velocity, not displacement",Because energy must cancel,Because mass is constant,Because time isn’t involved,A,Only instantaneous speed (magnitude of velocity) and mass determine KE.
+Which scenario results in more kinetic energy?,"Greater speed, regardless of distance",Greater distance with zero speed,More time,Heavier direction,A,KE = ½·m·v² — distance is irrelevant.
+How can two objects have the same KE even if they took different paths?,They have the same speed and mass,They traveled same distance,They moved in the same direction,They had equal acceleration,A,Kinetic energy doesn’t depend on path — only speed and mass.
+An object accelerates and then stops. What is its final KE?,0,Equal to the total distance,Mass times distance,Depends on the slope,A,Final speed = 0 → KE = 0.
+Which quantity directly affects kinetic energy?,Speed,Distance,Height,Angle,A,KE = ½·m·v² — distance is unrelated.
+"Mass = 3 kg, speed = 5 m/s. KE = ?",37.5 J,15 J,0,60 J,A,KE = ½·3·25 = 37.5 J.
+"Which of these gives highest KE: (a) m=4, v=2; (b) m=2, v=4; (c) m=1, v=6?",(a),(b),(c),All equal,C,KEₐ = 8 J; KEᵦ = 16 J; KE𝚌 = 18 J → (c) wins.
+Object goes 100 m at 2 m/s. KE depends on:,Time,Distance,Displacement,Velocity and mass,D,Distance doesn’t matter — only v and m.

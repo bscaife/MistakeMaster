@@ -1,0 +1,8 @@
+Code,Misconception,Explanation
+PH190,Rotational equilibrium means no forces,"Mistakes zero net torque for absence of force, ignoring that forces can be present but balanced."
+PH191,"If torque is zero, angular velocity must be zero","Assumes torque is required for motion to continue, overlooking that constant angular velocity requires zero net torque, not zero motion."
+PH192,Balanced torques mean balanced forces,"Confuses torque balance with force balance, not recognizing that torque depends on both force and lever arm."
+PH193,Only spinning objects can be in rotational equilibrium,Fails to understand that rotational equilibrium also applies to objects at rest with no net torque.
+PH194,Direction of torque doesn’t matter for balance,Ignores that clockwise and counterclockwise torques must cancel for equilibrium.
+PH195,Equilibrium means symmetric force placement,"Assumes forces must be placed symmetrically for balance, rather than based on torque conditions."
+PH196,Angular and linear equilibrium always occur together,"Fails to distinguish that an object can be in rotational equilibrium but still accelerating linearly, and vice versa."

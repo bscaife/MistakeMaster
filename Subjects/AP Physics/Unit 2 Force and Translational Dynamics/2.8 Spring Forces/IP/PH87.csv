@@ -1,0 +1,11 @@
+Question,Choice A,Choice B,Choice C,Choice D,Correct Answer,Explanation
+Does spring force depend directly on the mass of the attached object?,"Yes, heavier objects create more spring force automatically","No, spring force depends only on how much the spring is stretched or compressed",Only if Hooke's Law is broken,Only for vertical springs,B,"F = −k·x — mass only affects spring force through how much it stretches the spring, not directly."
+What does the spring force depend on?,The friction between coils,The mass and the normal force,The weight of the object,The displacement from equilibrium and the spring constant,D,Hooke's Law: Fₛ = −k·x.
+Why does a heavier object cause a spring to stretch more?,Mass adds to the spring force,Friction helps it stretch,It pushes from gravity,"It increases the displacement, not the force directly",D,"The object causes greater x, and Fₛ depends on x — not on m directly."
+Which situation leads to greater spring force?,Larger mass alone,Greater weight regardless of stretch,Greater displacement of the spring from equilibrium,Faster pulling,C,Spring force is determined by how far it is stretched or compressed.
+"If two springs are stretched the same amount, which has more force?",The one with more mass,Depends on direction,The one with the higher spring constant,They are equal,C,F = k·x — force scales with the stiffness (k).
+Why is it incorrect to say 'mass causes spring force'?,Because gravity cancels it,Because mass only contributes to force by creating stretch,Because springs act upward,Because springs work in vacuums,B,Mass leads to displacement — that’s what produces the spring force.
+Which formula correctly calculates spring force?,F = k·m,F = m·x,F = −k·x,F = m·g,C,Hooke’s Law uses displacement — not mass.
+Spring constant k = 300 N/m. x = 0.2 m. What is force?,0.6 N,30 N,60 N,300 N,C,F = k·x = 300 × 0.2 = 60 N.
+A 5 kg mass stretches a spring by 0.25 m. What is k if spring force = 49 N?,245 N/m,49 N/m,0.25 N/m,196 N/m,D,k = F/x = 49 / 0.25 = 196 N/m.
+Two masses stretch springs by 0.1 m and 0.2 m. Which causes more spring force?,Equal,0.2 m one,0.1 m one,It depends on mass,B,"Spring force depends on stretch, not directly on mass."

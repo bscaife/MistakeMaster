@@ -1,0 +1,11 @@
+Question,Choice A,Choice B,Choice C,Choice D,Correct Answer,Explanation
+What happens to vertical velocity during a projectile's flight?,It remains constant,It reverses direction,It becomes negative then zero,It equals horizontal speed,B,"vᵧ starts positive (up), becomes zero at the top, and then negative (downward)."
+How does vᵧ at launch compare to vᵧ at landing (same height)?,Landing is always faster,One is zero,"Same magnitude, opposite direction",Same value exactly,C,"If a projectile lands at the same height, vᵧ final = −vᵧ initial."
+Why are vertical velocities not the same at launch and landing?,Because of terminal velocity,Because of gravitational acceleration,Because of angle symmetry,Because of air friction,B,Gravity constantly changes vertical velocity direction and magnitude.
+"If a projectile rises, what happens to vᵧ?",It increases,It stays constant,It reverses immediately,It decreases due to gravity,D,Gravity slows upward motion until vᵧ = 0.
+How does horizontal velocity behave compared to vertical velocity?,It reverses direction,It drops to zero at the top,It stays constant while vᵧ changes,It accelerates upward,C,vₓ remains constant; vᵧ changes due to gravity.
+Why is vertical velocity zero at the top of a projectile's path?,Because motion momentarily stops in y,Because motion ends,Because energy is lost,Because mass is maximum,A,The turning point occurs when vᵧ = 0 before reversing direction.
+What is true about vertical velocity when object lands at launch height?,Final vᵧ = −initial vᵧ,Final vᵧ = 0,Final vᵧ = initial vᵧ,Final vᵧ is always upward,A,Velocity has the same magnitude but reversed sign.
+vᵧ = 10 m/s up at launch. vᵧ at landing (same height)?,−10 m/s,5 m/s,0 m/s,10 m/s,A,Final vertical velocity = −initial when returning to same height.
+"Projectile launched at 45°. If vᵧ = 7 m/s, vᵧ at same-height landing?",0 m/s,−7 m/s,7 m/s,−14 m/s,B,"vᵧ reverses direction; same magnitude, opposite sign."
+Time to top = 2 s. a = −9.8 m/s². What is vᵧ at launch?,4.9 m/s,9.8 m/s,0 m/s,19.6 m/s,D,vᵧ = a·t = 9.8 × 2 = 19.6 m/s upward.

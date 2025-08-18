@@ -1,0 +1,11 @@
+Question,Choice A,Choice B,Choice C,Choice D,Correct Answer,Explanation
+Is mass the same as weight?,Only in space,"No, mass is the amount of matter and weight is the force of gravity on it","Yes, they mean the same thing",Only when falling,B,"Mass is a scalar quantity that does not change, while weight is the force caused by gravity (W = mg)."
+How does weight change on the Moon compared to Earth?,It is the same,It is greater due to smaller mass,It is less due to weaker gravity,It doubles,C,Weight depends on gravitational field strength — which is weaker on the Moon.
+Which quantity stays constant everywhere in the universe?,Friction,Acceleration,Weight,Mass,D,Mass does not depend on location — it is intrinsic to the object.
+What causes your weight to change depending on location?,Changes in gravity,Surface temperature,Changes in mass,Speed of movement,A,Weight = m·g → changes with gravitational acceleration.
+"If your mass is 60 kg, what is your weight on Earth?",60 N,600 kg,0 N,588 N,D,Weight = m·g = 60 × 9.8 = 588 N.
+Which unit is appropriate for weight?,Joules,Newtons,Meters,Kilograms,B,Weight is a force and is measured in Newtons (N).
+Which best describes the relationship between weight and mass?,Weight is the gravitational force on mass,Mass is the same as weight,They are unrelated,Weight causes mass,A,Weight = mass × gravitational field strength (g).
+A 5 kg object on Earth has what weight?,9.8 N,0 N,49 N,5 N,C,W = m·g = 5 × 9.8 = 49 N.
+"If mass = 8 kg and g = 1.6 m/s² on the Moon, what is weight?",12.8 N,8 N,1.6 N,78.4 N,A,W = m·g = 8 × 1.6 = 12.8 N.
+Object weighs 980 N on Earth. What is its mass?,9.8 kg,100 kg,10 N,980 kg,B,m = W/g = 980 / 9.8 = 100 kg.

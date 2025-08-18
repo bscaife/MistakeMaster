@@ -1,0 +1,8 @@
+Code,Misconception,Explanation
+PH295,Fluid flow requires energy input,"Assumes a pump or force is needed at all times for fluid to flow, ignoring that pressure and height differences can drive motion."
+PH296,Flow rate increases with narrower pipe,Confuses speed with flow rate; does not understand that flow rate stays constant (continuity equation) while velocity increases.
+PH297,Pressure increases in narrower regions,"Misinterprets Bernoulli's principle, believing higher speed corresponds to higher pressure instead of lower pressure."
+PH298,Bernoulli’s equation applies everywhere,"Applies Bernoulli’s equation blindly, including across elevations or locations with friction or energy loss, where it’s not valid."
+PH299,Torricelli’s theorem needs mass or force,"Thinks calculating exit speed of fluid requires knowledge of mass or force, instead of just height difference."
+PH300,Pressure and speed increase together,"Fails to understand that fluid speed increases where pressure drops, not rises, when applying Bernoulli."
+PH301,Conservation laws do not apply to fluids,"Thinks mass and energy conservation break down in flowing fluids, ignoring ideal flow assumptions."

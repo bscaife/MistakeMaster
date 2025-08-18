@@ -1,0 +1,11 @@
+Question,Choice A,Choice B,Choice C,Choice D,Correct Answer,Explanation
+An object starts at 𝑥₀ = 0 and moves with 𝑣₍ₓ₎ = 5 m/s. Which equation gives position after time 𝑡?,𝑥 = 𝑥₀ + ½·𝑎·𝑡²,𝑥 = 𝑣₍ₓ₎·𝑡²,𝑥 = 𝑣² − 𝑣₀² / 2𝑎,𝑥 = 𝑥₀ + 𝑣₍ₓ₎·𝑡,D,Constant velocity motion uses 𝑥 = 𝑥₀ + 𝑣₍ₓ₎·𝑡.
+Which expression defines average acceleration?,𝑎 = (𝑣 − 𝑣₀)/𝑡,𝑎 = 𝑣/t²,𝑎 = 𝑣·𝑡,𝑎 = 𝑥/t,A,Average acceleration is change in velocity over time: 𝑎 = (𝑣 − 𝑣₀)/𝑡.
+"For constant acceleration, which equation relates velocity and displacement?",𝑣 = 𝑣₀ − 𝑎·𝑡,𝑥 = 𝑥₀ + 𝑣·𝑡,𝑣² = 𝑣₀² + 2𝑎·(𝑥 − 𝑥₀),𝑣 = 𝑣₀ + 𝑎·𝑡,C,"This kinematic equation connects v, v₀, a, and displacement."
+Which equation gives final velocity after time 𝑡 for constant 𝑎?,𝑎 = 𝑣/𝑡,𝑣² = 𝑣₀² + 2𝑎·𝑥,𝑣 = 𝑥₀ + 𝑣·𝑡,𝑣 = 𝑣₀ + 𝑎·𝑡,D,"For constant acceleration, 𝑣 = 𝑣₀ + 𝑎·𝑡 gives final velocity."
+"Which kinematic equation includes 𝑥, 𝑣₀, 𝑡, and 𝑎?",𝑣² = 𝑣₀² + 2𝑎·𝑥,𝑥 = 𝑥₀ + 𝑣₀·𝑡 + ½·𝑎·𝑡²,𝑣 = 𝑣₀ + 𝑎·𝑡,𝑣 = 𝑥/𝑡,B,𝑥 = 𝑥₀ + 𝑣₀·𝑡 + ½·𝑎·𝑡² includes all four variables.
+Which expression best represents uniform motion?,𝑥 = 𝑥₀ + 𝑣·𝑡,𝑎 = 𝑣/𝑡,𝑣² = 𝑣₀² + 2𝑎·𝑥,𝑣 = 𝑣₀ + 𝑎·𝑡,A,Uniform (constant velocity) motion follows 𝑥 = 𝑥₀ + 𝑣·𝑡.
+"If 𝑎 = 0, which equation gives constant velocity motion?",𝑥 = 𝑥₀ + ½·𝑎·𝑡²,𝑣 = 𝑣₀ + 𝑎·𝑡,𝑣 = 𝑣₀,𝑣² = 𝑣₀² + 2𝑎·𝑥,C,"If 𝑎 = 0, then 𝑣 stays constant: 𝑣 = 𝑣₀."
+An object starts at 𝑥₀ = 0 with 𝑣₀ = 2 m/s and 𝑎 = 3 m/s². Find 𝑥 after 2 s.,6 m,10 m,12 m,8 m,B,𝑥 = 𝑥₀ + 𝑣₀·𝑡 + ½·𝑎·𝑡² = 0 + 2·2 + ½·3·4 = 10 m.
+A ball is thrown straight up with 𝑣₀ = 20 m/s. How long until it reaches the top?,1.0 s,2.0 s,4.1 s,0 s,B,At top: 𝑣 = 0 = 𝑣₀ − 𝑔·𝑡 → t = 20/9.8 ≈ 2.0 s.
+An object accelerates from 𝑣₀ = 0 to 𝑣 = 30 m/s in 5 s. What is 𝑎?,6 m/s²,5 m/s²,30 m/s²,3 m/s²,A,𝑎 = (𝑣 − 𝑣₀)/t = (30 − 0)/5 = 6 m/s².

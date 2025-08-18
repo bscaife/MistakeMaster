@@ -1,0 +1,8 @@
+Code,Misconception,Explanation
+PH141,Impulse is a force,"Confuses impulse with force itself, rather than understanding it as force applied over a time interval."
+PH142,Longer contact time always means greater force,"Fails to distinguish that impulse depends on the product of force and time, not time alone."
+PH143,Impulse only occurs during collisions,"Thinks impulse applies only in collision events, missing that it occurs whenever a net force acts over time."
+PH144,Impulse and momentum are unrelated,"Overlooks the impulse–momentum theorem, which directly connects impulse to change in momentum."
+PH145,Impulse depends on path or distance,"Mistakes impulse for work, believing that the path length affects impulse."
+PH146,Impulse can be measured from acceleration graphs,"Attempts to use a vs. t graphs instead of F vs. t graphs to calculate impulse, not recognizing proper graph-based representations."
+PH147,Direction of impulse is arbitrary,Does not recognize that impulse has direction and must align with the direction of net force.

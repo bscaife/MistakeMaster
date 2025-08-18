@@ -1,0 +1,11 @@
+Question,Choice A,Choice B,Choice C,Choice D,Correct Answer,Explanation
+What does the slope of an x–t graph represent?,Area,Time,Acceleration,Velocity,D,"In a position–time graph, slope = velocity."
+What does the slope of a v–t graph represent?,Displacement,Speed,Mass,Acceleration,D,"In a velocity–time graph, slope = acceleration."
+Which graph has area equal to displacement?,Position–time,Force–time,Velocity–time,Acceleration–time,C,Area under a v–t graph gives displacement.
+How can you tell if a graph represents motion?,Find units,Look for curves,Check the axes,Estimate height,C,You must read the graph axes to interpret what’s being plotted.
+Two graphs look the same but have different axis labels. Are they the same?,Only if velocity is constant,"No, axis labels change meaning",Only if time is on x-axis,"Yes, shape is all that matters",B,"Graph meaning is determined by what is on the axes, not just the shape."
+"If the y-axis is labeled velocity and the line is sloped, what does slope mean?",Speed,Acceleration,Displacement,Velocity,B,Slope of a v–t graph = acceleration. Axes must be checked!
+Which graph could show increasing velocity?,x–t graph with negative slope,v–t graph with upward slope,x–t graph with flat slope,a–t graph with area = 0,B,Only a v–t graph with increasing slope indicates increasing velocity.
+A v–t graph has constant velocity of 6 m/s for 4 s. What is displacement?,10 m,0 m,6 m,24 m,D,Displacement = area = 6 × 4 = 24 m.
+A v–t graph slopes from 0 to 8 m/s over 2 s. What is acceleration?,16 m/s²,8 m/s²,2 m/s²,4 m/s²,D,a = Δv/Δt = 8/2 = 4 m/s².
+"If x–t graph is curved upward, what happens to velocity?",It is zero,It increases,It decreases,It stays the same,B,Curved upward x–t graph means increasing velocity (slope is increasing).

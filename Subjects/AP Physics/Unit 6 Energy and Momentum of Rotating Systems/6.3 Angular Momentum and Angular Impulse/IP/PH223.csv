@@ -1,0 +1,11 @@
+Question,Choice A,Choice B,Choice C,Choice D,Correct Answer,Explanation
+Which equation describes angular momentum for rotation?,L = m·v·r,L = I·ω,L = F·d,L = m·g·h,B,L = I·ω is used for rotating rigid bodies about a fixed axis.
+Which equation is used for angular momentum of a moving object (not spinning)?,L = I·ω,L = ½·I·ω²,L = τ·θ,L = m·v·r,D,L = m·v·r⊥ applies to linear motion about a point — not for rotating objects.
+A student uses L = m·v·r on a spinning disk. What’s wrong?,The disk isn’t rotating,Mass isn’t constant,You need to include ω and I,You forgot friction,C,"For rotation, use L = I·ω, not m·v·r — that’s for linear systems."
+When do you use L = m·v·r?,Anytime something moves,Only with spinning objects,For linear motion around a point,For objects in free fall,C,This version of L applies when mass moves in a straight line around a point — not for spinning.
+Why isn’t L = I·ω valid for a ball flying in a straight line?,It’s not spinning,It has no velocity,Its I changes,Its mass is small,A,I·ω applies to rotating systems — for linear motion use L = m·v·r⊥.
+Which mistake shows improper use of angular momentum formulas?,Using L = I·ω when I is constant,Using L = I·ω for a spinning disk,Using L = m·v·r for an orbiting planet,Using L = m·v·r for a rotating wheel,D,"L = m·v·r applies to point-mass motion around a point, not to rotating disks or wheels."
+What should you check before using an angular momentum formula?,Whether it’s rotating or translating,The mass of the object,Whether gravity is acting,The shape of the object,A,You must know if the object is rotating (use I·ω) or moving past a point (use m·v·r⊥).
+A planet orbits a star. Which angular momentum formula applies?,L = m·v·r⊥,L = I·ω,L = τ·θ,L = F·r,A,It’s not spinning — its linear motion around a point gives L = m·v·r⊥.
+Why can’t you use L = m·v·r for a rotating top?,The top isn’t moving,It’s not a linear system,Friction matters more,The center of mass is fixed,B,Rotating systems need L = I·ω — m·v·r is for translation.
+How can you choose the right angular momentum formula?,Check if it’s moving fast,Check velocity type and rotation status,Use both equations,Use the one with fewer variables,B,Use I·ω for spin; use m·v·r⊥ when motion is linear about a point.

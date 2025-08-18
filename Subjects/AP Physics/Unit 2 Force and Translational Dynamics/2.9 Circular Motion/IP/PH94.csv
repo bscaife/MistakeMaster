@@ -1,0 +1,11 @@
+Question,Choice A,Choice B,Choice C,Choice D,Correct Answer,Explanation
+"In circular motion, what happens to the net force as speed increases?",Weight increases,Friction cancels velocity,An outward force increases,The required inward (centripetal) force increases,D,"F = m·v²/r — faster speed requires more centripetal (inward) force, not outward force."
+Why do people feel pushed outward in a turning car?,An outward force pulls them,Inertia resists the change in direction while the car turns inward,Friction fails,Gravity tilts,B,There is no actual outward force — this sensation comes from the body's inertia.
+What is the direction of the actual force keeping an object moving in a circle?,Away from the center,None — it's canceled,Toward the center,Along the velocity vector,C,Centripetal force points inward — no real outward force exists.
+"If an object in circular motion doubles its speed, what happens to the required centripetal force?",It stays the same,It doubles,It decreases,It increases by a factor of 4,D,F = m·v²/r → doubling v quadruples the required inward force.
+Why is it incorrect to say that faster speed increases an outward force?,Because mass disappears,Because weight changes,Because speed is canceled by gravity,Because no outward force exists — only the need for more inward force increases,D,The only real force involved is centripetal — always directed inward.
+What is the role of friction in a car taking a curve?,It cancels inertia,It provides the centripetal force by acting inward,It pushes the car outward,It lifts the car,B,Friction between tires and road provides inward force to change direction.
+Which of the following is a fictitious force used in rotating frames of reference?,Centrifugal force,Weight,Centripetal force,Normal force,A,Centrifugal force is an apparent force felt in a rotating frame — not a real force in Newtonian mechanics.
+"m = 3 kg, r = 2 m, v = 4 m/s. What is centripetal force?",48 N outward,12 N outward,24 N inward,0 N,C,F = m·v²/r = 3·16/2 = 48/2 = 24 N inward.
+An object in circular motion has a = 36 m/s² inward. What happens if speed doubles?,a stays 36,a halves,a becomes zero,a becomes 144 m/s²,D,a = v²/r → doubling speed = 4× acceleration.
+"Car takes a turn. If speed triples, how much more centripetal force is needed?",No change,Nine times more,Half as much,Three times,B,F ∝ v² → (3v)² = 9v².

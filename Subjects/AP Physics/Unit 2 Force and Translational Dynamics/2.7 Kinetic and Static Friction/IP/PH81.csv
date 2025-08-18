@@ -1,0 +1,11 @@
+Question,Choice A,Choice B,Choice C,Choice D,Correct Answer,Explanation
+Is the normal force always equal to the object's weight?,Only for heavy objects,"Yes, always",Only if friction is zero,"No, it only equals weight on a horizontal surface with no acceleration",D,Normal force equals weight only when the surface is flat and there is no vertical acceleration.
+What happens to normal force on an inclined ramp?,It equals the object's mass,It is less than the object's weight,It increases with angle,It becomes zero,B,Normal force = mg·cos(θ) on an incline — always less than full weight.
+What causes the normal force to differ in an elevator?,Vertical acceleration,Air pressure,Friction,Horizontal motion,A,"When accelerating vertically, the normal force increases or decreases depending on direction."
+What direction does the normal force point?,Perpendicular to the surface,Same as motion,Always down,Upward only,A,Normal force is always perpendicular to the surface of contact.
+"If an object rests on a ramp, what determines the normal force?",The component of weight perpendicular to the ramp,Speed,Friction,Total weight,A,Normal = mg·cos(θ) — only the perpendicular component contributes.
+What happens to the normal force if the elevator accelerates downward?,It disappears,It equals weight,It becomes less than weight,It becomes greater than weight,C,Downward acceleration reduces the normal force needed to support the person.
+In which case is the normal force zero?,Moving up an incline,In space with gravity,During freefall,At rest on the floor,C,No contact → no normal force.
+Object mass = 10 kg. On flat surface. What is normal force?,9.8 N,10 N,98 N,0,C,"Normal = mg = 10 × 9.8 = 98 N (flat, no vertical motion)."
+Mass = 5 kg on ramp at 30°. What is normal force?,9.8 N,~42.4 N,49 N,24.5 N,B,N = mg·cos(θ) = 5 × 9.8 × cos(30°) ≈ 42.4 N.
+"Elevator moves up, a = 2 m/s², m = 60 kg. Normal force?",588 N,120 N,708 N,0,C,N = m(g + a) = 60(9.8 + 2) = 60 × 11.8 = 708 N.

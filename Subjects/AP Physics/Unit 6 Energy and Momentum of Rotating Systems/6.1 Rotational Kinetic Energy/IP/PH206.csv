@@ -1,0 +1,11 @@
+Question,Choice A,Choice B,Choice C,Choice D,Correct Answer,Explanation
+What variable does rotational kinetic energy depend on?,Linear speed (v),Angular speed (ω),Height,Mass only,B,Rotational kinetic energy is calculated using angular speed: KE = ½·I·ω².
+Why is it incorrect to use v in ½·I·ω²?,v is irrelevant,They give the same result,ω represents angular motion,v is a constant,C,"Rotational KE depends on angular velocity (ω), not translational speed (v)."
+Which of the following affects rotational kinetic energy?,v,m,g,ω,D,Angular speed (ω) determines rotational KE: KE = ½·I·ω².
+A disk spins but does not move linearly. What contributes to its kinetic energy?,Its height,Its angular velocity,Its radius,Its mass only,B,"Without translational motion, the kinetic energy comes solely from rotation via ω."
+What equation represents the energy of a rotating body?,½·m·v²,½·I·ω²,m·g·h,I·v²,B,Rotational kinetic energy is expressed as ½·I·ω².
+Which change increases a spinning object’s KE the most?,Doubling radius,Doubling v,Doubling ω,Reducing mass,C,"KE = ½·I·ω². Since ω is squared, increasing it has a large effect on energy."
+Why can’t you plug v into the rotational KE formula?,v is not a rotational quantity,It gives mass instead,It leads to translational energy,v and ω are the same,A,"Rotational energy formulas require angular variables like ω, not v."
+"Which object has more rotational KE, assuming same I?",One with higher mass,One with larger radius,One with higher ω,One with higher v,C,"If I is constant, rotational KE increases with angular speed (ω)."
+"If an object rotates faster but doesn't move linearly, what happens to KE?",It decreases,It stays the same,It becomes zero,It increases due to ω,D,Higher ω increases rotational kinetic energy: KE = ½·I·ω².
+What’s the key distinction between translational and rotational KE?,"Translational uses v, rotational uses ω",Only direction differs,Rotational KE is always less,They’re identical,A,"Translational KE = ½·m·v², while rotational KE = ½·I·ω²."

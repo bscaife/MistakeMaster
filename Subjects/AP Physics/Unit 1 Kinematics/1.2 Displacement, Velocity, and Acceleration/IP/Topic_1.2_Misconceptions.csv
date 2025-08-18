@@ -1,0 +1,8 @@
+Code,Misconception,Explanation
+PH8,Displacement and distance are the same,"Confuses total ground covered (distance) with net change in position (displacement), especially in back-and-forth motion."
+PH9,Velocity and acceleration always point in same direction,"Assumes acceleration must always point in the direction of velocity, not realizing it can oppose motion (e.g., deceleration)."
+PH10,Acceleration means an object is speeding up,"Thinks acceleration always increases speed, ignoring that it can slow objects down if opposite to velocity."
+PH11,Negative velocity means slowing down,Misinterprets sign of velocity as indicating speed change rather than direction along a coordinate axis.
+PH12,Constant velocity implies acceleration,"Assumes any motion must include acceleration, even in cases of uniform motion with zero net force."
+PH13,Object at rest has no acceleration,"Believes a stationary object cannot be accelerating, ignoring cases like turning points or initial conditions in freefall."
+PH14,Speed and velocity graphs are identical,"Confuses speed (scalar) with velocity (vector), expecting identical graphs regardless of direction changes."

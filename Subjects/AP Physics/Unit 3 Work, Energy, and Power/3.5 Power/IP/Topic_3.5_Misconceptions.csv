@@ -1,0 +1,8 @@
+Code,Misconception,Explanation
+PH127,Power and force are the same,"Thinks that applying a large force means high power, not realizing power depends on how quickly energy is transferred."
+PH128,Power increases with time,"Confuses energy and power, believing that the longer a force acts, the greater the power, ignoring the rate aspect of power."
+PH129,Power is the same as energy,"Misunderstands that power is the rate of energy transfer, not a form of energy itself."
+PH130,More power means more force,"Thinks high-power machines must apply more force, even if they do the same work faster."
+PH131,Units of power are the same as energy,"Does not recognize that power is measured in watts (J/s), not in joules (energy units)."
+PH132,Power is only needed to start motion,"Assumes power is only involved in initiating movement, overlooking sustained energy transfer during motion."
+PH133,"If work is done, power is always high","Fails to consider time in power calculations, assuming any work must imply high power regardless of duration."

@@ -1,0 +1,36 @@
+Code,Misconception,Explanation
+PH99,Kinetic energy is a vector,"Mistakenly thinks kinetic energy has direction, not realizing it is a scalar quantity."
+PH100,Faster objects always have more kinetic energy,"Ignores mass in calculating kinetic energy, believing speed alone determines energy."
+PH101,All observers measure the same kinetic energy,"Does not understand that kinetic energy depends on the frame of reference, which affects the measured velocity."
+PH102,Kinetic energy depends on total distance traveled,Confuses displacement or distance with velocity in calculating kinetic energy.
+PH103,Kinetic energy can be negative,"Misapplies signed velocity into the formula KE = ½mv², which always yields a positive value."
+PH104,Only moving objects have energy,Overlooks potential energy and assumes stationary objects have no energy at all.
+PH105,An object gains kinetic energy just from force,"Thinks kinetic energy increases just because a force is present, ignoring the need for displacement and net work."
+PH106,Work is always positive,"Assumes any work done adds energy, not realizing work can also remove energy if force opposes motion."
+PH107,Work depends only on force,"Ignores displacement in calculating work, thinking applying force alone does work regardless of motion."
+PH108,No motion means no work is possible,"Fails to understand that work is zero if there’s no displacement, even if a large force is applied."
+PH109,All forces do work,Does not recognize that forces perpendicular to displacement (like centripetal force) do no work.
+PH110,Work and energy are separate concepts,"Treats work and energy as unrelated ideas, missing that work transfers energy."
+PH111,Path doesn’t matter for nonconservative forces,Misunderstands that forces like friction do more work over longer paths and are not path-independent.
+PH112,Work can be stored,"Confuses work (a process of energy transfer) with energy itself, which can be stored."
+PH113,Potential energy is stored force,"Confuses energy with force, incorrectly thinking that energy is a physical push or pull."
+PH114,Only stretched springs have potential energy,Fails to recognize that compressed springs also store elastic potential energy.
+PH115,Potential energy is always positive,"Does not understand that potential energy can be defined as zero at a chosen point, and values can be negative."
+PH116,Objects have gravitational energy only when falling,"Thinks gravitational potential energy only exists during motion, not based on relative position in a field."
+PH117,Zero potential energy means no energy at all,"Believes that a zero PE implies the object has no energy, ignoring kinetic energy or other forms."
+PH118,Potential energy is absolute,Misunderstands that the zero point for potential energy is arbitrary and can be chosen for convenience.
+PH119,Two objects must be touching to have potential energy,"Overlooks that potential energy can exist due to fields acting at a distance, such as gravity or electrostatics."
+PH120,Energy is always conserved within the system,"Assumes energy never leaves or enters a system, ignoring that nonconservative forces or external work can change system energy."
+PH121,Kinetic and potential energy are created or destroyed,Fails to understand that these forms of energy transform into each other or transfer in or out but are not lost or created from nothing.
+PH122,Only mechanical energy matters,"Overlooks thermal, sound, or other energy transformations that occur during real processes."
+PH123,Conservation of energy means forces are balanced,"Confuses the concepts of mechanical energy conservation and Newton’s laws, wrongly assuming zero net force is required for energy conservation."
+PH124,Energy is the same for all observers,Does not recognize that mechanical energy values (like kinetic energy) depend on the observer’s frame of reference.
+PH125,Energy is stored during motion,Misinterprets kinetic energy as something stored rather than something possessed due to motion.
+PH126,"If speed is constant, energy is constant","Fails to consider changing potential energy or external work, believing constant speed guarantees no energy change."
+PH127,Power and force are the same,"Thinks that applying a large force means high power, not realizing power depends on how quickly energy is transferred."
+PH128,Power increases with time,"Confuses energy and power, believing that the longer a force acts, the greater the power, ignoring the rate aspect of power."
+PH129,Power is the same as energy,"Misunderstands that power is the rate of energy transfer, not a form of energy itself."
+PH130,More power means more force,"Thinks high-power machines must apply more force, even if they do the same work faster."
+PH131,Units of power are the same as energy,"Does not recognize that power is measured in watts (J/s), not in joules (energy units)."
+PH132,Power is only needed to start motion,"Assumes power is only involved in initiating movement, overlooking sustained energy transfer during motion."
+PH133,"If work is done, power is always high","Fails to consider time in power calculations, assuming any work must imply high power regardless of duration."

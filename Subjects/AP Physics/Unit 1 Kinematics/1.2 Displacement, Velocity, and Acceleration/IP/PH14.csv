@@ -1,0 +1,11 @@
+Question,Choice A,Choice B,Choice C,Choice D,Correct Answer,Explanation
+What is the key difference between speed and velocity?,Speed is always negative,Velocity includes direction,Speed is measured in m/s²,Velocity is scalar,B,"Velocity is a vector and includes direction, unlike scalar speed."
+A velocity–time graph dips below the x-axis. What does that mean?,Object is moving in negative direction,Acceleration is undefined,Speed is zero,Object is stopping,A,Velocity below the x-axis means direction is negative.
+How does a speed–time graph differ from a velocity–time graph?,Velocity is scalar,Speed changes direction,Speed is always positive,Speed can be negative,C,"Speed–time graphs never go below the x-axis, unlike velocity–time."
+An object reverses direction. What happens to velocity and speed?,Both change sign,"Velocity changes sign, speed remains positive",Speed is negative,Both go to zero,B,Speed is scalar and stays positive. Velocity changes sign when direction reverses.
+A speed–time graph is always above the axis. What does that mean?,The object accelerates upward,The object stops,Speed is always positive,It’s in the negative direction,C,"Speed is scalar and non-negative, so the graph stays above the time axis."
+What does a negative slope on a velocity–time graph mean?,Negative speed,Speeding up,Acceleration opposite velocity,Distance is zero,C,Negative slope on a v–t graph = acceleration opposite to direction of motion.
+How do you find speed from a velocity–time graph?,Use area above axis,Take absolute value of velocity,Ignore direction,Use slope,B,Speed is the magnitude of velocity: |𝑣|.
+An object has 𝑣 = −6 m/s. What is its speed?,0 m/s,Cannot determine,−6 m/s,6 m/s,D,Speed = |velocity| = 6 m/s.
+A v–t graph shows velocity from +3 m/s to −3 m/s. What happens to speed?,It decreases then increases,It’s negative,It stays the same,It becomes zero only,A,"Speed drops to 0 at v = 0, then increases again (direction has flipped)."
+"Speed–time graph is a V shape starting at (0,0) and ending at (10,0). What’s the corresponding velocity graph?",Flat horizontal line,An inverted V,Always positive line,A U-shaped curve,B,Velocity changes sign (direction) while speed remains positive.

@@ -1,0 +1,11 @@
+Question,Choice A,Choice B,Choice C,Choice D,Correct Answer,Explanation
+Do springs store energy only when stretched?,Only vertical springs store energy,"Yes, only stretch counts","No, springs store energy when either compressed or stretched",Not unless they move,C,"Spring potential energy is based on displacement from equilibrium, whether compression or extension."
+What happens when a spring is compressed?,It stores elastic potential energy,It stops acting,It loses force,It changes mass,A,Any displacement from equilibrium stores energy: U = ½·k·x².
+Which formula represents energy stored in a spring?,U = k·x,U = m·g·x,U = ½·k·x²,U = m·v²,C,Spring potential energy is quadratic with respect to displacement (x).
+When is spring potential energy zero?,When stretched,When compressed,At the relaxed (unstretched and uncompressed) length,When cut,C,"At equilibrium (x = 0), U = 0."
+What is true of a spring compressed 0.1 m versus stretched 0.1 m?,Only the stretch stores energy,Only mass affects energy,Compression stores less,Both store the same amount of energy,D,U = ½·k·x² is symmetric — positive for both compression and extension.
+Which situation stores spring potential energy?,A spring at rest,A spring compressed in a launcher,A hanging rope,A box on a ramp,B,Compression stores elastic energy.
+"If a spring is compressed, how can that energy be used?",It only warms the spring,To do work when released,It pushes upward,It disappears,B,Stored energy converts to motion when released.
+"k = 300 N/m, compressed x = 0.2 m. What energy is stored?",3 J,30 J,60 J,6 J,D,U = ½·k·x² = ½·300·0.2² = 6 J.
+"k = 200 N/m, x = −0.1 m. What is potential energy?",2 J,−1 J,0,1 J,D,U = ½·200·0.01 = 1 J — compression still stores energy.
+"k = 100 N/m, x = 0.3 m. Spring PE = ?",30 J,4.5 J,3 J,0.03 J,B,U = ½·100·0.09 = 4.5 J.

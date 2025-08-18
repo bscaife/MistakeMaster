@@ -1,0 +1,8 @@
+Code,Misconception,Explanation
+PH99,Kinetic energy is a vector,"Mistakenly thinks kinetic energy has direction, not realizing it is a scalar quantity."
+PH100,Faster objects always have more kinetic energy,"Ignores mass in calculating kinetic energy, believing speed alone determines energy."
+PH101,All observers measure the same kinetic energy,"Does not understand that kinetic energy depends on the frame of reference, which affects the measured velocity."
+PH102,Kinetic energy depends on total distance traveled,Confuses displacement or distance with velocity in calculating kinetic energy.
+PH103,Kinetic energy can be negative,"Misapplies signed velocity into the formula KE = ½mv², which always yields a positive value."
+PH104,Only moving objects have energy,Overlooks potential energy and assumes stationary objects have no energy at all.
+PH105,An object gains kinetic energy just from force,"Thinks kinetic energy increases just because a force is present, ignoring the need for displacement and net work."

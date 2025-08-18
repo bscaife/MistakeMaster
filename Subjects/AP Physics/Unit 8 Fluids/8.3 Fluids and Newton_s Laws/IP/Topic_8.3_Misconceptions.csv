@@ -1,0 +1,8 @@
+Code,Misconception,Explanation
+PH288,Buoyant force only exists when objects float,"Thinks buoyant force is present only if an object floats, ignoring that it acts on all submerged or partially submerged objects."
+PH289,Buoyant force equals object weight,"Assumes buoyant force always matches the object's weight, not realizing it depends on the displaced fluid's weight."
+PH290,Fluids don't exert upward force,"Believes fluids only exert downward pressure, neglecting the net upward force due to pressure differences with depth."
+PH291,Heavier objects displace more fluid regardless of volume,"Confuses mass with volume in Archimedes’ principle, ignoring that fluid displacement depends on submerged volume."
+PH292,Buoyant force is due to gravity pulling up,"Misunderstands that buoyant force is a result of pressure difference, not upward gravitational attraction."
+PH293,Buoyancy applies only in water,"Thinks buoyant force doesn’t apply in other fluids like air, ignoring that the same principles apply to all fluids."
+PH294,Buoyant force depends on object's shape,Believes that shape determines buoyant force rather than volume of displaced fluid.

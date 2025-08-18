@@ -1,0 +1,8 @@
+Code,Misconception,Explanation
+PH260,"Displacement, velocity, and acceleration are all in sync","Fails to recognize that in SHM, displacement is maximum when velocity is zero, and acceleration is not synchronized with velocity."
+PH261,Velocity is always greatest at the maximum displacement,"Thinks the object moves fastest at the ends, rather than at the equilibrium position where kinetic energy is maximum."
+PH262,Acceleration is constant in SHM,"Assumes constant acceleration throughout the motion, ignoring its dependence on displacement (a ∝ –x)."
+PH263,Graphs of SHM quantities are interchangeable,"Confuses the phase relationships between displacement, velocity, and acceleration graphs in simple harmonic motion."
+PH264,All zero values occur at the same time,"Believes displacement, velocity, and acceleration are zero simultaneously, not understanding their sinusoidal relationship."
+PH265,SHM graphs are symmetrical around the x-axis,Fails to distinguish between amplitude-based symmetry and offset trends caused by damping or non-ideal behavior.
+PH266,Acceleration is highest at equilibrium,Misunderstands that acceleration is zero at equilibrium and greatest at maximum displacement.

@@ -1,0 +1,11 @@
+Question,Choice A,Choice B,Choice C,Choice D,Correct Answer,Explanation
+What determines an object’s moment of inertia (I)?,Only mass,Only speed,Only angular velocity,Mass and how it's distributed,D,Moment of inertia depends on both mass and how far that mass is from the rotation axis.
+Can moment of inertia change for the same object?,"No, it's always constant","Yes, if mass moves closer or farther from axis",Only when mass changes,Only in free fall,B,Pulling mass inward reduces I; moving it outward increases I.
+A skater pulls arms inward. What happens to I?,It increases,It disappears,It decreases,It stays the same,C,Mass is pulled closer to axis → smaller I.
+What causes I to be larger?,Mass closer to center,Greater speed,Mass farther from axis,Low energy,C,"The farther the mass is from the axis, the greater the moment of inertia."
+What does moment of inertia depend on?,Radius and mass,Angular momentum,Velocity,Time,A,I = Σm·r² → depends on both mass and its distance from axis.
+A student says I is always fixed. What’s the fix?,It depends on mass only,It’s tied to acceleration,It’s part of gravity,It changes with mass placement,D,Repositioning mass changes I — it's not a constant.
+Which object has higher I?,Solid disk,Small sphere,Point mass at rim,Spinning ring with inner mass,C,Mass at a greater radius gives a larger moment of inertia.
+Which system shows changing I with no mass change?,Spinning skater moving arms,Rocket coasting,Ball thrown upward,Bouncing spring,A,Arm position changes mass distribution → changes moment of inertia.
+Why does changing shape affect rotational motion?,It changes gravity,It alters friction,It increases force,It changes moment of inertia,D,"Changing how mass is arranged changes I, affecting rotation."
+Which of these shows variable moment of inertia?,Rolling ball,Collapsing spinning star,Orbiting moon,Falling rock,B,"As the star contracts, mass moves inward and I decreases."

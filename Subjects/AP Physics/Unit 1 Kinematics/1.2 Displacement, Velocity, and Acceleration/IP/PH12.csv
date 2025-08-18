@@ -1,0 +1,11 @@
+Question,Choice A,Choice B,Choice C,Choice D,Correct Answer,Explanation
+Which equation implies zero acceleration?,𝑣 = 𝑎·𝑡,𝑣² = 𝑣₀² + 2𝑎·𝑥,𝑣 = 𝑣₀ + 𝑎·𝑡,𝑣 = constant,D,"If velocity is constant, acceleration must be zero."
+What is true of acceleration during constant velocity motion?,𝑎 < 0,𝑎 = constant,𝑎 > 0,𝑎 = 0,D,"Constant velocity means no change in velocity, so 𝑎 = 0."
+Which condition describes uniform motion?,"Changing velocity, constant acceleration","Constant speed, increasing direction","Constant velocity, zero acceleration",Slowing down,C,Uniform motion means velocity is constant and acceleration is zero.
+"If 𝑎 = 0, what must be true about 𝑣?",𝑣 = constant,𝑣 must change,𝑣 = 0,𝑣 = 𝑎·𝑡,A,Zero acceleration implies velocity is constant (not necessarily zero).
+An object is moving at 5 m/s in a straight line. What is its acceleration?,9.8 m/s²,−5 m/s²,0 m/s²,5 m/s²,C,No change in speed or direction = 𝑎 = 0.
+Which motion has zero net force?,Slowing down,Changing direction,Accelerating forward,Constant velocity,D,Constant velocity implies net force is zero per Newton’s first law.
+Which motion could result from 𝑎 = 0?,𝑣 increases steadily,"𝑣 = 6 m/s, straight line",𝑣 decreases steadily,𝑣 changes direction,B,Only constant velocity fits with zero acceleration.
+An object moves at 4 m/s for 5 s. What is acceleration?,5 m/s²,4 m/s²,0 m/s²,0.8 m/s²,C,Velocity is constant → 𝑎 = 0.
+A ball rolls at 3 m/s for 10 s with no friction. What is its acceleration?,9.8 m/s²,−3 m/s²,3 m/s²,0 m/s²,D,No forces = no acceleration. Constant velocity.
+"If 𝑣 = 7 m/s and stays the same for 6 s, what is 𝑎?",1.16 m/s²,0 m/s²,6 m/s²,7 m/s²,B,No change in velocity = 𝑎 = 0.

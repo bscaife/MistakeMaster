@@ -1,0 +1,8 @@
+Code,Misconception,Explanation
+PH253,Frequency and period are unrelated,"Fails to understand that frequency and period are reciprocals, and changes in one directly affect the other."
+PH254,More mass always means higher frequency,"Assumes mass increases frequency, when in fact it increases period and lowers frequency in systems like mass-spring oscillators."
+PH255,Amplitude affects frequency in SHM,Incorrectly believes that increasing the swing height (amplitude) affects the timing of oscillation for ideal systems.
+PH256,Pendulum frequency depends on mass,"Mistakenly believes that heavier pendulums swing faster or slower, ignoring that period depends on length, not mass."
+PH257,Shorter pendulums take longer to swing,"Reverses the relationship between length and period, believing shorter lengths result in longer oscillation times."
+PH258,All SHM systems have the same period,Ignores differences in system parameters such as spring constant or length that determine the oscillation period.
+PH259,Period and frequency are properties of the object,Treats these as inherent traits of the mass or shape rather than dependent on the system setup and conditions.

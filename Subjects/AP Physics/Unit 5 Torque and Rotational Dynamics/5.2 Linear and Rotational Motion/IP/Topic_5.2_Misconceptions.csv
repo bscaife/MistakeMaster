@@ -1,0 +1,8 @@
+Code,Misconception,Explanation
+PH169,Linear and rotational motion are unrelated,Fails to recognize that linear speed and distance can be derived from angular quantities using radius.
+PH170,All points on a rotating object move with the same speed,"Assumes equal speed across all points, ignoring that linear speed increases with distance from the axis of rotation."
+PH171,Tangential acceleration is the same as angular acceleration,Confuses the rate of change in angular velocity with the linear acceleration felt at a point on the object’s edge.
+PH172,Only the center of an object has angular velocity,"Thinks angular motion is localized, rather than applying to all parts of a rigid rotating system."
+PH173,Changing angular velocity doesn’t affect linear motion,Doesn’t connect the increase in angular speed to corresponding changes in linear motion at each radius.
+PH174,Tangential and radial directions are interchangeable,"Misuses directional terms, mixing up tangential velocity with radial acceleration or centripetal direction."
+PH175,Linear formulas apply directly to angular cases,Attempts to use linear motion equations without adjusting for angular quantities and their distinct units and relationships.

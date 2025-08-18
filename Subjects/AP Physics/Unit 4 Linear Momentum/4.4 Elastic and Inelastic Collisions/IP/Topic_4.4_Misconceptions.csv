@@ -1,0 +1,8 @@
+Code,Misconception,Explanation
+PH155,Elastic collisions mean objects don’t touch,"Assumes that elastic collisions happen without contact, not realizing that elastic refers to energy conservation, not physical separation."
+PH156,Kinetic energy is always conserved in a collision,"Fails to recognize that kinetic energy is only conserved in elastic collisions, not in inelastic or perfectly inelastic ones."
+PH157,"If objects stick together, momentum is not conserved","Believes that momentum conservation only applies when objects bounce apart, not understanding it also holds for perfectly inelastic collisions."
+PH158,Inelastic collisions break Newton’s third law,"Thinks that unequal outcomes in velocity imply unequal forces, ignoring that third law forces act equally during contact."
+PH159,Sticking together means total energy is lost,"Confuses energy transformation with energy loss, not realizing that energy becomes thermal or sound, but isn’t destroyed."
+PH160,Elastic means same final speeds as initial,"Assumes that in elastic collisions, each object keeps its speed, missing that direction and mass affect final velocities."
+PH161,Kinetic energy is always shared equally,"Thinks all objects in a collision must end with equal kinetic energy, ignoring differences in mass and speed."

@@ -1,0 +1,11 @@
+Question,Choice A,Choice B,Choice C,Choice D,Correct Answer,Explanation
+A graph has velocity on the y-axis. What does the slope represent?,Displacement,Speed,Acceleration,Position,C,The slope of a velocity–time graph represents acceleration.
+"If a v–t graph shows a horizontal line, what does this mean?",Constant velocity,Zero position,Zero displacement,Stationary object,A,"A flat v–t graph = constant velocity, not a constant position or a still object."
+What does the area under a v–t graph represent?,Acceleration,Displacement,Speed,Slope,B,Area under a velocity–time graph gives displacement.
+Which graph type has slope = velocity?,v–t,x–t,P–V,a–t,B,"For x–t (position–time), slope = velocity."
+An a–t graph has constant value above 0. What is happening?,Velocity is increasing,It’s oscillating,Object is at rest,Position is constant,A,Constant positive acceleration → velocity is increasing linearly.
+Which graph gives displacement from area under curve?,v–t,F–x,a–t,x–t,A,Only the area under a v–t graph gives displacement.
+Which variable’s graph will show acceleration as the slope?,F–x,t–v,x–t,v–t,D,"In a velocity–time graph, slope = acceleration."
+A v–t graph has a horizontal line at 3 m/s. What is displacement in 4 s?,0 m,9 m,3 m,12 m,D,Displacement = area = velocity × time = 3 × 4 = 12 m.
+A v–t graph shows line from 0 to 5 m/s over 2 s. What is acceleration?,1 m/s²,10 m/s²,5 m/s²,2.5 m/s²,D,Slope = (5 − 0)/2 = 2.5 m/s².
+"In an a–t graph, acceleration = 2 m/s² for 3 s. What is change in velocity?",3 m/s,2 m/s,6 m/s,5 m/s,C,Δv = a·t = 2 × 3 = 6 m/s.

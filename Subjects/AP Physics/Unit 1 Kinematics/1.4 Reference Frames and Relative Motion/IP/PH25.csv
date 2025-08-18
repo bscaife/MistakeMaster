@@ -1,0 +1,11 @@
+Question,Choice A,Choice B,Choice C,Choice D,Correct Answer,Explanation
+"In classical mechanics, what stays the same for all inertial observers?",Velocity,Position,Acceleration,Speed,C,Acceleration is invariant across all inertial reference frames.
+Two people observe the same object in free fall from different frames. What do they agree on?,Acceleration,Velocity,Displacement,Initial position,A,All observers in inertial frames measure the same acceleration.
+A car brakes with constant acceleration. How does this look in two inertial frames?,"Same acceleration, different velocity",Different acceleration,No motion,Same velocity,A,Acceleration is the same; velocity and position may differ between frames.
+Which quantity is frame-dependent?,Time interval,Mass,Velocity,Acceleration,C,Velocity depends on the observer; acceleration does not (in Newtonian physics).
+"If an object accelerates at 3 m/s² in one frame, what does another inertial observer record?",It depends,3 m/s²,0 m/s²,−3 m/s²,B,Acceleration is consistent across all inertial reference frames.
+What must be true for all observers in inertial frames?,They are at rest,They observe different masses,They agree on acceleration,They agree on velocity,C,Acceleration is invariant in Newtonian mechanics for inertial observers.
+What stays the same between two moving observers watching an accelerating object?,Velocity,Acceleration,Initial position,Displacement,B,Only acceleration remains invariant.
+A ball falls with 𝑎 = −9.8 m/s². What does a moving observer measure?,0,9.8 m/s²,−9.8 m/s²,Depends on velocity,C,All inertial observers record the same constant acceleration.
+Object slows from 10 m/s to 0 in 5 s. What is 𝑎 seen by a runner going at 3 m/s?,Depends on direction,−2 m/s²,2 m/s²,0 m/s²,B,Acceleration = Δv/Δt = −2 m/s² in all inertial frames.
+A car’s velocity changes by 8 m/s in 4 s. What is 𝑎 in any inertial frame?,4 m/s²,2 m/s²,1 m/s²,8 m/s²,B,Δv/Δt = 8/4 = 2 m/s²; frame doesn’t affect this value.

@@ -1,0 +1,8 @@
+Code,Misconception,Explanation
+PH71,Heavier objects fall faster,"Believes mass affects the rate of gravitational acceleration, not realizing all objects fall with the same acceleration in a vacuum."
+PH72,Gravity only acts when falling,"Assumes gravitational force only applies when an object is moving down, not while at rest or on an incline."
+PH73,Weight is mass,"Confuses mass (a measure of matter) with weight (the gravitational force on an object), treating the terms as interchangeable."
+PH74,Gravitational force depends on shape,"Thinks shape or appearance affects how gravity acts on an object, instead of mass and distance."
+PH75,Objects float because they are lighter,Misinterprets buoyancy as depending on 'lightness' rather than the relationship between weight and displaced fluid.
+PH76,Apparent weight is always equal to actual weight,Does not recognize that normal force (apparent weight) can differ from gravitational weight when accelerating.
+PH77,Field strength and force are the same,"Confuses gravitational field strength (N/kg) with the force of gravity (N), ignoring the role of mass in calculating the latter."

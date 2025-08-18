@@ -1,0 +1,8 @@
+Code,Misconception,Explanation
+PH281,Pressure is the same at all depths,Fails to recognize that pressure increases with depth due to the weight of the fluid above.
+PH282,Pressure acts only downward,Does not understand that fluid pressure acts equally in all directions at a point in a fluid.
+PH283,Only force affects pressure,Ignores the role of surface area in calculating pressure; doesn't apply the formula P = F/A correctly.
+PH284,Air pressure is only present when air is moving,"Thinks that still air doesn't exert pressure, rather than understanding atmospheric pressure exists regardless of motion."
+PH285,Liquids exert more pressure than gases due to weight alone,"Overgeneralizes liquid density and weight, without considering compressibility and depth-related variation in gases."
+PH286,Objects are crushed by fluid pressure only from above,"Fails to see that fluid pressure surrounds objects and acts in all directions, not just from the top."
+PH287,Larger objects exert more pressure,"Confuses force with pressure, neglecting the inverse relationship between pressure and area."

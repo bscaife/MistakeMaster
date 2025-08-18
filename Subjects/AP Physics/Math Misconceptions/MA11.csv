@@ -1,0 +1,21 @@
+Question,Choice A,Choice B,Choice C,Choice D,Correct Answer,Explanation
+"In the equation v = v₀ + a·t, what should v equal when t = 0?",v = t,v = a,v = v₀,v = 0,C,"If t = 0, v = v₀ + a(0) = v₀. The object's initial velocity remains v₀."
+"In the spring force formula F = -kx, what happens to F if x → 0?",F → kx²,F → ½kx²,F → -k,F → 0,D,"If displacement x is zero, the spring force F is also zero."
+"In the period formula for a pendulum T = 2π√(L/g), what happens to T if g → ∞?",T → ∞,T → 0,T → 2π,T → g,B,"As gravitational acceleration becomes infinitely large, period T approaches 0."
+"In the displacement equation x = x₀ + v₀t + ½a·t², what happens to x when t → 0?",x → 0,x → ½a,x → x₀,x → v₀,C,"When t = 0, x = x₀ + 0 + 0 = x₀; displacement is initial position."
+"In the gravitational force equation F = Gm₁m₂/r², what happens to F as r → ∞?",F → m₁m₂,F → ∞,F → 0,F → r,C,"As r → ∞, gravitational force weakens and approaches zero."
+"In the kinetic energy formula KE = ½mv², what happens to KE when v → 0?",KE → ½m,KE → m,KE → 0,KE → v,C,"When v = 0, KE = 0. No motion means no kinetic energy."
+"In the momentum formula p = mv, what happens to p if mass m → 0 and v ≠ 0?",p → ∞,p stays the same,p → 0,p → v,C,Zero mass means zero momentum if velocity is finite.
+"In the equation Δx = v₀t + ½a·t², if initial velocity v₀ = 0 and t → 0, what should happen to Δx?",Δx → 0,Δx → ½a,Δx → v₀,Δx → t,A,"If v₀ = 0 and t = 0, Δx = 0 + 0 = 0."
+"In the kinetic energy formula KE = ½mv², what happens to KE if m → ∞ for a fixed v?",KE → v²,KE → 0,KE → ∞,KE → ½,C,"If mass grows infinitely large while v stays finite, KE grows without bound."
+"In the gravitational potential energy formula U = -Gm₁m₂/r, what happens to U as r → ∞?",U → 0,U → ∞,U → m₁m₂,U → -∞,A,"As r → ∞, gravitational potential energy approaches zero."
+"In the torque formula τ = rFsinθ, what happens to τ if F → 0?",τ → 0,τ → r²,τ → sinθ,τ → r,A,"If the force is zero, torque must also be zero."
+"In free fall, if time t → ∞, what happens to the speed of an object ignoring air resistance?",Speed stays constant,Speed oscillates,Speed increases without bound,Speed approaches zero,C,"In free fall with no air resistance, velocity keeps increasing indefinitely as t → ∞."
+"In the work-energy principle W = ΔKE, what happens to work if there is no change in velocity?",W = KE,W = 2KE,W = 0,W = Δv,C,"If Δv = 0, then ΔKE = 0, so no work is done."
+"In the orbital speed formula v = √(GM/r), what happens to v as r → ∞?",v → ∞,v → GM,v → 0,v stays constant,C,"As orbital radius r increases to infinity, orbital speed approaches zero."
+"In the formula for work W = Fd, if displacement d = 0, what happens to work done W?",W = d,W = F²,W = F,W = 0,D,"Work requires displacement. If d = 0, no work is done: W = 0."
+"In the gravitational force formula F = Gm₁m₂/r², what happens to F if m₁ → 0?",F → 0,F → Gm₂,F → ∞,F → m₂,A,"If one mass is zero, gravitational force between the two bodies becomes zero."
+"In the centripetal force formula F = mv²/r, what happens to F as v → 0?",F → 0,F → m/r,F → r/v,F → v²/m,A,"If v → 0, centripetal force also approaches zero."
+"In Newton's second law F = ma, what happens to a if mass m → ∞ and F stays constant?",a stays the same,a → F²,a → ∞,a → 0,D,"If mass becomes infinite, acceleration approaches zero for any finite force."
+"In the rotational inertia formula I = mr², what happens to I if m → 0?",I → ∞,I → r²,I → m²r,I → 0,D,Zero mass means zero rotational inertia.
+"In the momentum formula p = mv, what happens to p when v → 0?",p → 0,p → ½m,p → m,p → v²,A,"Momentum requires velocity. If v = 0, then p = 0."

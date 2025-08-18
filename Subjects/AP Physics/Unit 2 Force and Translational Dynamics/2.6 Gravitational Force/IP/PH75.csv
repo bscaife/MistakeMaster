@@ -1,0 +1,11 @@
+Question,Choice A,Choice B,Choice C,Choice D,Correct Answer,Explanation
+Do objects float simply because they are lighter?,Only if they are small,"Yes, light things float","No, they float if they displace a fluid weight equal to their own",Only in water,C,Floating depends on buoyant force = weight of displaced fluid — not on 'lightness' alone.
+What condition must be true for an object to float?,The object must displace a volume of fluid with weight equal to its own,It must be shaped like a sphere,It must weigh less than 1 kg,It must have a larger surface area,A,Archimedes' principle determines whether an object floats based on fluid displacement.
+Why do some heavy ships float?,They are made of metal,They displace more water than their own weight,They are flat,They move fast enough,B,They float because the volume of displaced water equals their weight.
+Why does a dense object sink in water?,It is too sharp,It falls faster,It cannot displace enough water to match its weight,Its mass is too high,C,Objects sink when weight exceeds the buoyant force — not just based on weight.
+What is the buoyant force on an object equal to?,The object's surface area,The object's volume,The object's color,The weight of the fluid it displaces,D,Archimedes' principle: buoyant force = weight of displaced fluid.
+What would happen to a floating object in zero gravity?,It would not float because buoyancy depends on gravity,It would float higher,It would float anyway,It would rise faster,A,"Buoyancy depends on gravity — no gravity, no upward force."
+Why does a balloon filled with helium float in air?,Helium repels Earth,The balloon is weightless,The balloon is smaller,The helium displaces air with more weight than the balloon itself,D,It floats due to upward buoyant force from displaced air.
+An object displaces 0.5 m³ of water. Water weight = 9800 N/m³. What is buoyant force?,5 N,0.5 N,4900 N,9800 N,C,F = ρ·V·g → F = 9800 × 0.5 = 4900 N.
+A 20 N object floats in water. What is the weight of water displaced?,20 N,0 N,40 N,10 N,A,"If it floats, the upward buoyant force = object’s weight."
+"If a cube floats halfway submerged, what does this tell us?",Its weight equals half the weight of displaced fluid when fully submerged,It is lighter than water,It is shaped well,It pushes harder downward,A,Floating halfway = buoyant force = weight = ρ·g·V/2.

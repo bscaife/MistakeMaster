@@ -1,0 +1,11 @@
+Question,Correct Answer,Choice A,Correct? A,Code A,Choice B,Correct? B,Code B,Choice C,Correct? C,Code C,Choice D,Correct? D,Code D,Explanation
+Which expression gives work done by torque over an angular displacement θ?,B,W = I · α,FALSE,PH211,W = τ · θ,TRUE,,W = τ / θ,FALSE,PH211,W = θ · ω,FALSE,PH211,Rotational analog of W = F · d is W = τ · θ
+A torque of 4 N·m rotates a wheel through θ = 2 rad. What is work done?,C,4 J,FALSE,PH211,2 J,FALSE,PH211,W = 8 J,TRUE,,W = 8 rad/s,FALSE,PH212,W = 4 × 2 = 8 J
+An object with I = 2 kg·m² accelerates from rest to ω = 6 rad/s. What is rotational work done?,A,W = 36 J,TRUE,,W = 18 J,FALSE,PH212,W = I · α · t,FALSE,PH212,W = τ / t,FALSE,PH212,Work-energy theorem → work = change in rotational KE
+What is the unit of rotational work?,C,rad,FALSE,PH211,kg·m²,FALSE,PH211,joule,TRUE,,N·s,FALSE,PH212,Rotational work = torque × angle = N·m = J
+If torque is constant and angle doubles— what happens to work done?,D,It halves,FALSE,PH212,It stays the same,FALSE,PH212,It quadruples,FALSE,PH212,It doubles,TRUE,,W = τ · θ → W ∝ θ
+Rotational work equals change in which quantity?,A,Rotational kinetic energy,TRUE,,Angular velocity,FALSE,PH212,Angular acceleration,FALSE,PH212,Moment of inertia,FALSE,PH213,W = ∆Kᵣₒₜ just like linear W = ∆K
+If angular acceleration is constant— what is total rotational work from rest?,B,W = τ · ω,FALSE,PH213,W = ½·I·ω²,TRUE,,W = I / τ,FALSE,PH212,W = θ / t,FALSE,PH212,Work = change in KE_rot when starting from rest
+A student says greater torque always means more work. What’s wrong?,C,They are always correct,FALSE,PH214,Work is not real,FALSE,PH214,Work also depends on angular displacement,TRUE,,Torque and energy are the same,FALSE,PH212,W = τ · θ → larger torque does not always mean more W if θ is small
+What is area under a torque vs. angle graph?,D,Angular momentum,FALSE,PH215,Rotational inertia,FALSE,PH216,Angular acceleration,FALSE,PH215,Rotational work,TRUE,,Area under τ–θ graph = τ · θ = W
+If τ increases linearly with θ— what happens to work?,B,It remains constant,FALSE,PH217,It increases quadratically,TRUE,,It decreases,FALSE,PH217,It becomes negative,FALSE,PH217,τ = k·θ → W = ∫kθ dθ = ½·k·θ²

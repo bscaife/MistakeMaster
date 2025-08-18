@@ -1,0 +1,11 @@
+Question,Choice A,Choice B,Choice C,Choice D,Correct Answer,Explanation
+Can a force be applied without doing any work?,"Yes, if there’s no displacement","No, any force does work",Only at high speed,Only for vertical motion,A,"Work = F·d·cosθ — if d = 0, then W = 0 regardless of force magnitude."
+What must occur for positive work to be done on an object?,The object must move in the direction of the force,A force must act,Time must pass,It must be heavy,A,Both force and displacement in the same direction are needed for work.
+Why is no work done when pushing on a wall that doesn’t move?,Because there’s no displacement,Because friction cancels it,Because gravity acts upward,Because mass is too large,A,"Without motion, the force doesn't transfer energy."
+What is true about work if an object is held motionless in the air?,Work done is zero,Work is negative,Work is positive,Work equals mass times gravity,A,No displacement → no mechanical work.
+How does work compare for a person holding vs. lifting a book?,Lifting involves positive work; holding involves none,Holding has more work,Both are the same,Holding is negative work,A,Only lifting results in displacement.
+Which situation produces zero mechanical work?,Pressing hard against a fixed object,Pulling a crate across the floor,Lifting a dumbbell,Rolling a tire,A,No movement = no work.
+Which quantity must be nonzero for work to occur?,Potential Energy,Displacement,Mass,Acceleration,B,Even a large force does nothing without movement.
+"Force = 80 N, displacement = 0. Work = ?",0 J,80 J,800 J,8 J,A,W = F·d = 80 × 0 = 0 J.
+Person applies 200 N against an immovable wall. d = 0. Work = ?,0,200,100,20,A,No displacement → W = 0 — force alone does not result in work.
+A box remains stationary despite 50 N applied force. Work = ?,0,50,25,500,A,Zero motion → zero work.

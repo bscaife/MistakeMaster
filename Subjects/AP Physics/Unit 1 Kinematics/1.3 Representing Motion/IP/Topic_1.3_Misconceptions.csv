@@ -1,0 +1,8 @@
+Code,Misconception,Explanation
+PH15,Graphs always show position directly,"Confuses velocity or acceleration graphs with position graphs, assuming any curve represents the actual path of motion."
+PH16,Steep graph means faster acceleration,"Assumes steeper position-time graphs indicate greater acceleration, rather than understanding slope represents velocity and curvature represents acceleration."
+PH17,Flat velocity graph means object is stopped,"Interprets constant velocity graphs as indicating no motion, confusing flat lines with zero velocity instead of unchanging motion."
+PH18,Graph area has no meaning,Does not realize that area under a velocity-time graph gives displacement and area under acceleration-time gives change in velocity.
+PH19,Tangent slope is meaningless,"Fails to understand that instantaneous velocity and acceleration can be derived from the slope of tangent lines to position and velocity graphs, respectively."
+PH20,Only equations can describe motion,Overlooks the power of graphical and diagrammatic representations for interpreting and predicting physical motion.
+PH21,Graph axes don’t matter,"Ignores what variables are on graph axes, leading to misinterpretation of graphs (e.g., thinking a v-t graph is a position-time graph)."

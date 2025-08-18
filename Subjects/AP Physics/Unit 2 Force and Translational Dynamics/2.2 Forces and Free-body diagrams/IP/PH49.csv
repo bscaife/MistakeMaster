@@ -1,0 +1,11 @@
+Question,Choice A,Choice B,Choice C,Choice D,Correct Answer,Explanation
+What should be shown on an AP-level free-body diagram?,All x and y components,All forces and torques,Just net force,Only full external forces,D,FBDs include full forces acting on an object — not necessarily their components.
+When are components of forces needed?,"In calculations, not in diagrams",Only if mass is large,Never,Always,A,"Use components for solving, but only full forces appear on FBDs."
+A ramp has normal and gravitational forces. Should FBD show gravity components?,Only if object is at rest,"Yes, both Fᵧ and Fₓ","No, just full gravity vector",Only parallel component,C,FBDs show weight as one vector; component resolution is for math steps.
+Which force would NOT appear on an FBD?,Friction,Split gravitational components,Weight,Normal force,B,"Show full gravity (mg), not resolved parts like mg·cosθ or mg·sinθ."
+Do you need to resolve angled forces in an FBD?,"Yes, always split into x and y",Only for tension,"No, show the full angled force",Only if friction exists,C,Only the full angled force appears — components come later.
+Which FBD is correct for an object on an incline?,One with only arrows on corners,One that splits mg into two parts,"One that shows mg, N, and f",One with multiple friction forces,C,Show total weight vector and normal/friction forces.
+Why avoid component vectors in a clean FBD?,Because they cancel,To reduce confusion and avoid double-counting,Because they are vectors,Because mass changes,B,"Component vectors are part of problem-solving, not FBD construction."
+"Box on 30° incline, m = 10 kg. What force should FBD show for weight?",87 N parallel,Always horizontal,50 N left,100 N downward,D,Weight = m·g = 10·9.8 ≈ 100 N straight down — full vector shown.
+What appears in the FBD of a hanging mass?,Normal force,Tension x and y,Only mg·cosθ,Tension and weight,D,Show full tension and full weight — not components.
+Object on ramp. mg = 50 N. What should be drawn on FBD?,25 N left,50 N down,0 N,25 N x and y,B,"FBD includes full gravity, not resolved components."

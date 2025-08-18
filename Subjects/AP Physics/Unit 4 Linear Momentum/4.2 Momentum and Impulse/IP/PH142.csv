@@ -1,0 +1,11 @@
+Question,Choice A,Choice B,Choice C,Choice D,Correct Answer,Explanation
+Which variable combination determines impulse?,Mass and acceleration,Force and time,Mass and force,Velocity and distance,B,"Impulse is defined as J = F·t, the product of force and time."
+Why doesn't longer time always mean a greater force?,Force and time are unrelated,Impulse depends on time alone,Force can be small if time is large and impulse is constant,Time reduces the energy,C,"J = F·t → if impulse is fixed, longer time means smaller force."
+What is the effect of extending contact time during a collision?,Increases the force required,Reduces the force needed for the same impulse,Increases object mass,Cancels the velocity,B,"By increasing time, the force required to change momentum is reduced."
+Why is a longer collision time safer in car crashes?,It increases momentum,It decreases energy transfer,"It spreads the force over time, reducing peak force",It reduces impulse,C,"With same impulse, increasing time reduces force, making collisions less severe."
+What does a shorter contact time imply for a fixed impulse?,Lower force,Greater force,No effect on force,Less momentum change,B,"Impulse = F·t → If t decreases, F must increase to keep the same impulse."
+Which scenario best shows longer time reducing force?,Punching a wall quickly,Catching an egg gently,Jumping off a cliff,Throwing a rock,B,"By increasing time during catching, force is reduced—impulse is the same, but delivered gently."
+A student says: 'more time = more force.' What's the correct response?,That’s true for all collisions,Only when velocity increases,Only if impulse increases too,Force actually decreases if time increases and impulse is constant,D,"If impulse is constant, F = J/t, so increasing time reduces force."
+An object receives 10 N·s of impulse over 5 seconds. What is the average force?,1 N,2 N,5 N,10 N,B,F = J/t = 10 / 5 = 2 N.
+An impulse of 20 N·s is delivered in 0.5 s. What is the force?,10 N,20 N,40 N,50 N,D,F = J/t = 20 / 0.5 = 40 N.
+"If an impulse of 15 N·s is needed, and you double the time, what happens to the required force?",It stays the same,It doubles,It is cut in half,It becomes zero,C,"F = J/t. If time doubles, required force halves for the same impulse."

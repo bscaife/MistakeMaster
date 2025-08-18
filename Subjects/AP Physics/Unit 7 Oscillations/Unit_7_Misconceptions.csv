@@ -1,0 +1,29 @@
+Code,Misconception,Explanation
+PH246,Simple harmonic motion must involve springs,"Assumes SHM only occurs with mass-spring systems, overlooking other cases like pendulums or oscillating carts."
+PH247,Amplitude affects period in all SHM,"Fails to realize that for ideal SHM (like mass-spring or small-angle pendulum), period is independent of amplitude."
+PH248,SHM requires a net constant force,"Misunderstands that SHM involves a restoring force proportional to displacement, not a constant net force."
+PH249,The object stops at equilibrium in SHM,"Thinks the motion ends when the object reaches equilibrium, not recognizing SHM continues through it."
+PH250,SHM acceleration is constant,"Confuses SHM with uniform acceleration, not realizing that acceleration in SHM varies with position."
+PH251,Velocity and acceleration peak at the same time,"Fails to understand that in SHM, velocity is zero when acceleration is maximum, and vice versa."
+PH252,Only mass affects motion in SHM,Ignores that both spring constant or pendulum length (depending on system) influence the period of oscillation.
+PH253,Frequency and period are unrelated,"Fails to understand that frequency and period are reciprocals, and changes in one directly affect the other."
+PH254,More mass always means higher frequency,"Assumes mass increases frequency, when in fact it increases period and lowers frequency in systems like mass-spring oscillators."
+PH255,Amplitude affects frequency in SHM,Incorrectly believes that increasing the swing height (amplitude) affects the timing of oscillation for ideal systems.
+PH256,Pendulum frequency depends on mass,"Mistakenly believes that heavier pendulums swing faster or slower, ignoring that period depends on length, not mass."
+PH257,Shorter pendulums take longer to swing,"Reverses the relationship between length and period, believing shorter lengths result in longer oscillation times."
+PH258,All SHM systems have the same period,Ignores differences in system parameters such as spring constant or length that determine the oscillation period.
+PH259,Period and frequency are properties of the object,Treats these as inherent traits of the mass or shape rather than dependent on the system setup and conditions.
+PH260,"Displacement, velocity, and acceleration are all in sync","Fails to recognize that in SHM, displacement is maximum when velocity is zero, and acceleration is not synchronized with velocity."
+PH261,Velocity is always greatest at the maximum displacement,"Thinks the object moves fastest at the ends, rather than at the equilibrium position where kinetic energy is maximum."
+PH262,Acceleration is constant in SHM,"Assumes constant acceleration throughout the motion, ignoring its dependence on displacement (a ∝ –x)."
+PH263,Graphs of SHM quantities are interchangeable,"Confuses the phase relationships between displacement, velocity, and acceleration graphs in simple harmonic motion."
+PH264,All zero values occur at the same time,"Believes displacement, velocity, and acceleration are zero simultaneously, not understanding their sinusoidal relationship."
+PH265,SHM graphs are symmetrical around the x-axis,Fails to distinguish between amplitude-based symmetry and offset trends caused by damping or non-ideal behavior.
+PH266,Acceleration is highest at equilibrium,Misunderstands that acceleration is zero at equilibrium and greatest at maximum displacement.
+PH267,Energy is not conserved in SHM,"Assumes energy is lost during oscillations even in ideal systems, ignoring conservation in undamped SHM."
+PH268,Kinetic and potential energy peak at the same time,"Fails to understand that in SHM, KE and PE trade off and are out of phase—one is max when the other is zero."
+PH269,Amplitude doesn't affect energy,Does not recognize that total energy in SHM depends on amplitude since potential energy is proportional to amplitude squared.
+PH270,Potential energy is zero during motion,"Thinks PE is only present at the endpoints, not realizing it continuously varies during the motion."
+PH271,Kinetic energy is constant in SHM,"Mistakes the periodic motion as having constant KE, ignoring that KE oscillates between zero and maximum."
+PH272,Total energy depends on mass only,Ignores the influence of both mass and amplitude (and spring constant) on total energy in a harmonic oscillator.
+PH273,Energy graphs for SHM are linear,"Draws incorrect energy-time graphs assuming linear change, rather than recognizing sinusoidal variation of KE and PE."

@@ -1,0 +1,8 @@
+Code,Misconception,Explanation
+PH183,Rotational inertia is the same for all objects of equal mass,"Fails to recognize that distribution of mass affects rotational inertia, not just the amount of mass."
+PH184,Mass far from the axis rotates more easily,"Believes objects with mass spread out rotate more easily, when in fact they have greater resistance to rotation."
+PH185,Rotational inertia doesn’t affect acceleration,Ignores that a higher rotational inertia leads to slower angular acceleration for the same torque.
+PH186,All points on a rotating object have the same rotational inertia,Does not realize that different mass elements contribute differently based on their distance from the axis.
+PH187,Rotational inertia only matters if the object is already rotating,"Thinks rotational inertia is irrelevant unless something is already in motion, not recognizing it affects how motion starts."
+PH188,Parallel axis theorem changes the mass of the object,"Misuses the parallel axis theorem, thinking it affects the object's mass instead of its effective moment of inertia."
+PH189,Rotational inertia has direction,"Confuses rotational inertia with torque or angular momentum, which are directional vectors, while inertia is a scalar quantity."

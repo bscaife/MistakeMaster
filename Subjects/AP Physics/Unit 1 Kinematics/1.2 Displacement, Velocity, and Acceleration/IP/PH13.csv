@@ -1,0 +1,11 @@
+Question,Choice A,Choice B,Choice C,Choice D,Correct Answer,Explanation
+An object is momentarily at rest. Which condition still allows acceleration?,"𝑎 < 0, 𝑣 > 0","𝑎 ≠ 0, 𝑣 = 0","𝑎 = 0, 𝑣 = 0","𝑎 = 0, 𝑣 ≠ 0",B,"Acceleration can be nonzero even when velocity is momentarily zero, like at turning points."
+A ball thrown upward stops briefly at the top. What is its acceleration?,Depends on mass,−9.8 m/s²,0,+9.8 m/s²,B,"Even at the top, gravity provides constant downward acceleration."
+"At the top of a trajectory, velocity is zero. What is true of acceleration?",It is still present,It reverses,It becomes zero,It cancels out,A,Acceleration doesn't stop when velocity is zero. Gravity still acts downward.
+"If 𝑣 = 0 but 𝑎 ≠ 0, what is happening?",It is at rest permanently,It is slowing down,It cannot exist,The object is about to move,D,Velocity = 0 and acceleration ≠ 0 means motion is starting or changing direction.
+Which example includes 𝑎 ≠ 0 while 𝑣 = 0?,Constant velocity,Cruising at constant speed,At rest with no forces,Top of a vertical toss,D,"At the top of a toss, velocity = 0 but gravity still causes acceleration."
+An object has 𝑎 = −9.8 m/s² at the moment it stops rising. What happens next?,It stays still,It speeds up upward,It floats,It accelerates downward,D,"Acceleration remains downward, causing the object to reverse and fall."
+What must be true of an object that is about to start moving?,It has nonzero acceleration,It is at terminal speed,It has constant velocity,It has negative distance,A,Starting motion from rest requires nonzero acceleration.
+A ball stops at its highest point for 0 s. What is 𝑎 there?,0,−9.8 m/s²,It varies,+9.8 m/s²,B,"At the top, velocity = 0 but gravity still causes 𝑎 = −9.8 m/s²."
+"An object is thrown up, reaches 𝑣 = 0 at 1.5 s. What is its acceleration at that time?",+9.8 m/s²,Depends on speed,0,−9.8 m/s²,D,Acceleration due to gravity is always −9.8 m/s² during free fall.
+A spring launches a block from rest. What is its initial 𝑎?,Nonzero,Depends on friction,Zero,Opposite of velocity,A,"At t = 0, object is at rest but has force → acceleration is nonzero."

@@ -1,0 +1,11 @@
+Question,Choice A,Choice B,Choice C,Choice D,Correct Answer,Explanation
+Which graph should be used to calculate impulse directly?,Acceleration vs. time,Velocity vs. time,Force vs. time,Position vs. time,C,Impulse is the area under a force vs. time graph: J = ∫F·dt (no calculus used here).
+Why can't acceleration vs. time graphs be used directly to find impulse?,Acceleration does not relate to force,Impulse depends only on distance,You would also need to know the object’s mass to find force,Time is not on the graph,C,"Impulse = F·t = m·a·t. Without mass, an a–t graph cannot give impulse directly."
+Which quantity is represented by the area under a force–time graph?,Work,Energy,Impulse,Velocity,C,The area under a force–time graph gives impulse.
+What does the slope of a velocity vs. time graph represent?,Impulse,Work,Acceleration,Mass,C,"The slope of a v–t graph gives acceleration, not impulse."
+"If a student uses an a–t graph to estimate impulse, what must they also know?",Object’s volume,Object’s mass,Initial momentum,Final velocity,B,"Since F = m·a, impulse = m·∫a·dt. So mass is needed to turn a–t into F–t."
+Why is a force–time graph better than an acceleration–time graph for calculating impulse?,Force has units of time,Acceleration is not related to motion,Impulse is defined using force and time directly,Time cannot be used with acceleration,C,Impulse is calculated directly from force and time: J = F·t.
+What are the correct units for the area under a force vs. time graph?,Joules,Newtons,Newtons·seconds or kg·m/s,m/s²,C,Impulse is measured in N·s or kg·m/s.
+A 2 kg object accelerates at 4 m/s² for 3 seconds. What impulse is delivered?,24 N·s,6 N·s,12 N·s,8 N·s,C,F = m·a = 2×4 = 8 N → J = F·t = 8×3 = 24 N·s.
+"An a–t graph shows constant a = 5 m/s² for 2 s. If mass = 3 kg, what is the impulse?",15 N·s,10 N·s,5 N·s,30 N·s,A,F = m·a = 3×5 = 15 N → J = F·t = 15×1 = 15 N·s.
+A force–time graph has constant F = 6 N for 4 seconds. What is the impulse?,12 N·s,24 N·s,18 N·s,6 N·s,B,J = F·t = 6 × 4 = 24 N·s.

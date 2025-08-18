@@ -1,0 +1,8 @@
+Code,Misconception,Explanation
+PH204,Rotational kinetic energy is the same as translational kinetic energy,Assumes there's no distinction between energy due to linear motion and that due to rotational motion.
+PH205,Only rotating objects have kinetic energy,"Fails to recognize that even without linear motion, rotating systems have kinetic energy due to rotation."
+PH206,Rotational kinetic energy depends on linear velocity,Confuses translational velocity with angular velocity when calculating rotational kinetic energy.
+PH207,Rotational energy is directional like angular momentum,Mistakes scalar nature of energy for vector-like properties such as direction.
+PH208,Center of mass must move for energy to exist,Overlooks that internal rotation can contribute to kinetic energy even if center of mass is stationary.
+PH209,All rotating systems have the same energy if they spin at the same rate,Ignores role of moment of inertia; assumes spin rate alone determines energy.
+PH210,Rotational kinetic energy doesn't contribute to total energy,Neglects to include rotational terms when calculating total mechanical energy of a system.

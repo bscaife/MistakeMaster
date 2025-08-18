@@ -1,0 +1,8 @@
+Code,Misconception,Explanation
+PH57,Objects in equilibrium have no forces on them,"Believes that if an object isn’t accelerating, no forces are acting on it — missing that forces can be balanced (net force = 0)."
+PH58,Motion requires a net force,"Assumes that constant motion must be caused by a continuing force, misunderstanding Newton’s first law."
+PH59,"If an object is moving, it must be accelerating","Equates motion with acceleration, failing to distinguish between constant velocity and changing velocity."
+PH60,Balanced forces cause objects to stop,"Thinks that if forces are balanced, objects must be at rest, rather than possibly moving at constant velocity."
+PH61,Inertia is a force,"Misinterprets inertia as a physical force that pushes back, rather than as a property of mass resisting acceleration."
+PH62,"Forces cancel if they act in opposite directions, even on different objects","Confuses Newton’s third law pairs with internal balancing, thinking forces on different objects can cancel each other."
+PH63,Objects naturally come to rest without a force,"Assumes stopping is natural unless something keeps pushing, missing the idea of inertia and neglecting friction."

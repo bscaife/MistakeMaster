@@ -1,0 +1,11 @@
+Question,Choice A,Choice B,Choice C,Choice D,Correct Answer,Explanation
+What is impulse most accurately defined as?,The same as force,A change in force,Force applied over a time interval,Any sudden motion,C,"Impulse is defined as J = F·t, representing a force applied over a period of time."
+Why is impulse not the same as force?,Impulse and force cancel out,Impulse has different units and includes time,Impulse doesn’t depend on motion,Force is caused by impulse,B,"Impulse has units of N·s (or kg·m/s), while force is measured in N (kg·m/s²)."
+Which of the following best shows impulse in action?,A person standing still,A book resting on a table,A soccer ball being kicked,A fan spinning at constant speed,C,"Kicking applies a force over time, causing a momentum change—this is impulse."
+A student says 'impulse is the same as force if it’s brief.' What’s the fix?,Impulse and force have the same effect,Impulse equals force only when time is zero,Impulse requires both force and time to be meaningful,Force causes impulse only in large objects,C,Impulse is not just force—it’s force multiplied by time.
+Which pair of variables correctly produces impulse?,Mass and velocity,Force and acceleration,Force and time,Distance and time,C,Impulse is calculated as J = F·t.
+What units are used to measure impulse?,Newtons,Kilograms,N·s or kg·m/s,m/s²,C,Impulse has the same units as momentum: N·s or kg·m/s.
+What happens if a large force acts for a very short time?,Impulse is always large,Impulse may still be small depending on time,Impulse equals mass,Impulse is undefined,B,Even large forces produce small impulse if applied for a very short time (J = F·t).
+A 10 N force is applied for 0.2 seconds. What is the impulse?,2 N·s,0.5 N·s,5 N·s,20 N·s,A,J = F·t = 10 × 0.2 = 2 N·s.
+A 15 N·s impulse is delivered to a 3 kg object. What is the change in velocity?,3 m/s,5 m/s,10 m/s,45 m/s,B,Δv = J/m = 15 ÷ 3 = 5 m/s.
+A bat applies a 120 N force over 0.05 seconds. What is the impulse?,6 N·s,60 N·s,12 N·s,0.6 N·s,A,J = F·t = 120 × 0.05 = 6 N·s.

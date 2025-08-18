@@ -1,0 +1,8 @@
+Code,Misconception,Explanation
+PH232,Rolling objects slide by default,"Assumes that rolling motion includes slipping unless friction is explicitly mentioned, ignoring 'rolling without slipping' conditions."
+PH233,Friction always slows down rolling,Fails to realize that static friction is necessary for rolling without slipping and may not reduce speed.
+PH234,Translational and rotational energy are the same,"Confuses or merges the two forms of kinetic energy in rolling systems, failing to distinguish between them."
+PH235,Friction dissipates energy in all rolling cases,"Believes any friction results in energy loss, not recognizing that static friction in ideal rolling does no work."
+PH236,Only rotation matters in rolling motion,"Ignores the translational motion of the center of mass in rolling systems, focusing only on the spin."
+PH237,No friction means rolling still occurs,"Assumes rolling without slipping is possible on frictionless surfaces, overlooking the role of static friction."
+PH238,Rolling speed is the same for all shapes,Thinks all objects roll down a ramp at the same rate regardless of mass distribution and moment of inertia.

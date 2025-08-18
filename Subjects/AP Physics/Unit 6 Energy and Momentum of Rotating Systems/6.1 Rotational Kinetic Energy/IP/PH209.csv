@@ -1,0 +1,11 @@
+Question,Choice A,Choice B,Choice C,Choice D,Correct Answer,Explanation
+Two objects spin at the same angular speed. Which has more rotational energy?,They’re equal,The one with more mass,The one with higher moment of inertia,The one with larger radius,C,Rotational energy depends on I and ω: KE = ½·I·ω². More I means more energy at the same ω.
+Why doesn’t equal ω mean equal rotational energy?,It does,Because they cancel,Because v is larger,Because I can differ,D,Moment of inertia (I) affects energy. KE = ½·I·ω² is larger when I is larger.
+Which variable most affects rotational energy besides ω?,Moment of inertia,Radius,Mass,Acceleration,A,Rotational kinetic energy = ½·I·ω². Moment of inertia is the rotational analog to mass.
+Two disks spin at same speed. One has all its mass near the edge. What’s true?,They have same energy,Outer-mass disk has more energy,Inner mass has more energy,The slower one has more energy,B,"More mass farther from the axis increases I, thus increasing KE at same ω."
+How can two objects spinning at same rate have different energy?,They can’t,Due to different angular momentum,Due to different ω,Due to different I,D,Rotational KE depends on both ω and I. Larger I means greater energy even if ω is same.
+Which expression shows how inertia affects energy?,F = m·a,½·m·v²,KE = ½·I·ω²,τ = I·α,C,Rotational KE = ½·I·ω² — inertia directly impacts energy.
+A ring and a disk spin at same ω. Which has more KE?,They’re equal,Disk,Ring,Depends on friction,C,Ring has more mass distributed far from axis → larger I → more energy at same ω.
+"If I increases while ω stays constant, what happens to KE?",It increases,It stays the same,It decreases,It becomes zero,A,"From KE = ½·I·ω², increasing I increases KE if ω is constant."
+Which is true about energy in rotating systems?,It depends only on ω,It depends on ω and I,It depends on m only,It depends on radius alone,B,Rotational energy is a function of both I and ω.
+"Why does a hoop have more rotational energy than a disk (same mass, ω)?",It has more I,It spins faster,Its radius is smaller,It has less friction,A,A hoop’s mass is farther from the center → higher I → more KE at same ω.

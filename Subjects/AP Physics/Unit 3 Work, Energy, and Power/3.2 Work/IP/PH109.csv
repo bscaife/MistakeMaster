@@ -1,0 +1,11 @@
+Question,Choice A,Choice B,Choice C,Choice D,Correct Answer,Explanation
+Do all forces do work on an object?,"No, only forces with a component in the direction of displacement do work","Yes, any force contributes to energy",Only horizontal forces count,Only contact forces count,A,Work = F·d·cosθ — forces perpendicular to motion (θ = 90°) do no work.
+What is the work done by centripetal force in uniform circular motion?,Zero,Positive,Negative,Depends on radius,A,Centripetal force is always perpendicular to motion → cos(90°) = 0 → W = 0.
+When does a force do no work?,When it is perpendicular to displacement,When it is upward,When speed is constant,When friction is present,A,Only components along displacement contribute to work.
+Why does tension in a circular pendulum not do work?,Because it’s perpendicular to displacement,Because it cancels weight,Because tension is upward,Because the motion is circular,A,Perpendicular force → no energy transfer → no work.
+Which of the following forces does no work on a moving object?,Centripetal force,Gravity in freefall,Friction on a slide,Push force on cart,A,Centripetal force keeps the object in circular motion but does not change its speed or energy.
+A string keeps a ball moving in a horizontal circle. What is the work done by the string?,Zero,Positive,Negative,Maximum,A,Force is toward center; motion is tangential → W = 0.
+Why is it incorrect to say all forces transfer energy?,Because only force components along displacement do work,Because friction is different,Because energy cancels,Because forces act at angles,A,Perpendicular forces don’t transfer energy.
+"Force = 10 N, angle to displacement = 90°. d = 5 m. Work = ?",0 J,50 J,10 J,5 J,A,W = F·d·cosθ → cos(90°) = 0 → W = 0 J.
+"Centripetal force = 12 N, circular speed = 3 m/s, object completes 1 loop. Work = ?",0 J,36 J,12 J,3 J,A,Direction of force always ⊥ displacement → no work done.
+An object moves right 6 m while vertical force of 20 N acts. Work = ?,0,120,60,12,A,"Vertical force, horizontal displacement → θ = 90° → W = 0."

@@ -1,0 +1,11 @@
+Question,Choice A,Choice B,Choice C,Choice D,Correct Answer,Explanation
+"A ball is thrown vertically upward at 8.0 m/s. Taking upward as positive, what is its velocity after 1.0 s?",2.0 m/s upward,2.0 m/s downward,18.0 m/s upward,18.0 m/s downward,B,"Use v = v₀ + a·t. Upward positive, a = -10 m/s². v = 8.0 + (-10)(1.0) = -2.0 m/s, or 2.0 m/s downward."
+A car is traveling east at 20 m/s and experiences a westward acceleration of 3.0 m/s². How long does it take to stop?,5.0 s,6.7 s,3.0 s,8.0 s,A,Use v = v₀ + a·t with a = -3.0 m/s². 0 = 20 + (-3)t → t = 20/3 ≈ 6.7 s.
+A skateboarder initially moves west at 5.0 m/s and then moves east at 2.0 m/s. What is the change in velocity?,3.0 m/s west,7.0 m/s east,7.0 m/s west,3.0 m/s east,B,Δv = v₍f₎ - v₍i₎ = 2.0 - (-5.0) = 7.0 m/s east.
+An object falls from rest from a height of 50 m. What is its velocity just before impact if downward is positive and g = 10 m/s²?,10 m/s,20 m/s,30 m/s,40 m/s,D,Use v² = v₀² + 2aΔx. v² = 2(10)(50) = 1000 → v ≈ 32 m/s; approximating gives about 30-32 m/s downward.
+A biker moves uphill at 12 m/s and slows down with an acceleration of -2.0 m/s². How far does the biker travel before stopping?,36 m,48 m,72 m,24 m,A,Use v² = v₀² + 2aΔx. 0 = 12² + 2(-2)Δx → Δx = 36 m.
+An object is moving at 15 m/s to the right and accelerates leftward at 5 m/s². What is its velocity after 2.0 s?,5.0 m/s right,5.0 m/s left,25.0 m/s right,25.0 m/s left,A,Use v = v₀ + a·t. v = 15 + (-5)(2) = 5.0 m/s right.
+"A runner moves west at 6.0 m/s, and the wind pushes them eastward with an acceleration of 1.0 m/s². How long until they stop?",3.0 s,4.0 s,5.0 s,6.0 s,B,Use v = v₀ + a·t. 0 = -6 + 1.0·t → t = 6.0 s.
+A diver jumps off a cliff upward at 5.0 m/s. How long does it take before reaching maximum height?,0.5 s,1.0 s,2.0 s,5.0 s,B,At max height v = 0. Use v = v₀ + a·t → 0 = 5.0 + (-10)t → t = 0.5 s.
+"A rock is thrown downward at 5.0 m/s from a cliff. Taking downward as positive, what is its speed after 2.0 s?",5.0 m/s,10.0 m/s,15.0 m/s,25.0 m/s,D,Use v = v₀ + a·t → v = 5.0 + 10(2) = 25.0 m/s.
+A toy car is pushed to the right with an initial velocity of 2.0 m/s. It slows down with an acceleration of -0.5 m/s². How long until it stops?,2.0 s,3.0 s,4.0 s,5.0 s,C,Use v = v₀ + a·t → 0 = 2.0 + (-0.5)t → t = 4.0 s.

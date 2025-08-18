@@ -1,0 +1,11 @@
+Question,Choice A,Choice B,Choice C,Choice D,Correct Answer,Explanation
+Can a spinning object have kinetic energy if it’s not moving linearly?,"No, it must translate",Only if it rolls,"Yes, due to rotational kinetic energy",Only if mass changes,C,"Rotational motion contributes energy through ½·I·ω², even if there’s no translational motion."
+Which formula gives kinetic energy for pure rotation?,½·m·v²,I·ω,½·I·ω²,m·g·h,C,Rotational kinetic energy is given by ½·I·ω².
+A wheel is spinning in place. Does it have kinetic energy?,"No, it’s not moving forward",Only if torque is present,Only if it’s rolling,"Yes, from rotational motion",D,The spinning wheel has kinetic energy due to ½·I·ω².
+What happens to rotational KE when angular velocity increases?,It increases,It decreases,It becomes zero,It stays constant,A,"Since KE = ½·I·ω², increasing ω increases the energy."
+Which of the following objects has only rotational KE?,Stationary spinning disk,Rolling tire,Falling object,Pushed cart,A,The spinning disk is rotating in place — it has KE from ½·I·ω² only.
+What determines how much rotational KE an object has?,Its mass and velocity,Its radius only,Its height above ground,Its moment of inertia and angular velocity,D,Rotational KE depends on both I and ω: ½·I·ω².
+Which of these contributes directly to rotational KE?,Speed of sliding,Weight,Mass only,Rotation rate,D,The rotation rate (ω) appears in the equation for rotational KE.
+Why does a spinning top on a table have KE?,Because it’s tilted,Because it's rotating,Because of friction,Because of its mass,B,Rotational motion stores energy as kinetic energy: ½·I·ω².
+What type of energy does a rotating object possess?,Potential,Rotational kinetic,Heat,Sound,B,It possesses rotational kinetic energy if it’s spinning.
+Which variable must be nonzero for rotational KE to exist?,Mass,Height,ω,Radius,C,"Rotational KE = ½·I·ω². Without angular speed (ω), it is zero."

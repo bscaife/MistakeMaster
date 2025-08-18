@@ -1,0 +1,11 @@
+Question,Choice A,Choice B,Choice C,Choice D,Correct Answer,Explanation
+Where should forces typically be drawn from in a free-body diagram?,The outer edge,Any random point,The center of mass,Each contact point,C,"For simplification, forces are usually drawn as if acting on the center of mass."
+Why do we draw net forces at the COM?,It removes mass,It simplifies analysis of motion,It centers torque,It visualizes charge,B,Using COM allows easy application of Newton’s laws.
+Which point determines an object’s motion under net force?,Surface,Center of mass,Geometric center,Point of contact,B,Net force determines acceleration of the COM of the system.
+"If multiple forces act on a rigid object, where do we assume they act?",At friction site,At COM for linear motion,At massless point,At outermost edge,B,"For translational analysis, we treat forces as acting at the COM."
+Does COM move under net force?,"No, only parts move","Yes, it accelerates",Only if object is large,Only if COM is visible,B,F = m·a applies to the motion of the COM.
+A falling object rotates. What does COM do?,Spins in place,Follows a parabolic path,Stays stationary,Falls straight down,B,"Regardless of spin, the COM follows a projectile path."
+"When drawing gravity, where is it placed in a diagram?",At the COM,Spread over surface,At the bottom edge,Near the left corner,A,Weight is modeled as acting from the center of mass.
+Block mass = 5 kg. Gravity force acts at?,Base,Top,COM,Edge,C,Weight is modeled as pulling downward from the COM.
+Object COM is at x = 2 m. Force F = 10 N is applied there. What is torque about COM?,10 N,Undefined,0,20 N·m,C,Force through COM → no torque.
+"If COM moves right at 4 m/s and net F = 0, what happens?",COM stops,COM accelerates,COM keeps moving at 4 m/s,Object reverses,C,No net force → constant velocity of COM.

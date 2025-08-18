@@ -1,0 +1,8 @@
+Code,Misconception,Explanation
+PH29,Vectors can't be broken into parts,"Assumes vectors are indivisible and cannot be analyzed through components, making it hard to connect motion in two dimensions to 1D kinematics."
+PH30,X and Y motion affect each other,"Believes that motion in the horizontal direction affects vertical motion (or vice versa), contradicting independence of perpendicular components."
+PH31,Projectile motion has horizontal acceleration,"Mistakenly assumes that projectiles accelerate horizontally as well as vertically, not recognizing that horizontal velocity remains constant without air resistance."
+PH32,Diagonal motion is a separate kind of motion,"Thinks diagonal motion follows its own rules, rather than being the result of simultaneous horizontal and vertical components."
+PH33,"Resultant vectors are chosen, not calculated","Assumes you pick the resultant rather than calculating it from component addition, often leading to directional or magnitude errors."
+PH34,Longer range means more time in air,"Believes that the farther something travels horizontally, the longer it must stay in the air, overlooking the role of vertical motion in determining time."
+PH35,Initial velocity equals final velocity in all directions,"Thinks the vertical component of velocity is the same at launch and landing for angled projectiles, not accounting for directional reversal in vertical motion."

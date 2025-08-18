@@ -1,0 +1,11 @@
+Question,Choice A,Choice B,Choice C,Choice D,Correct Answer,Explanation
+What does the area under a torque vs. angle graph represent?,Nothing measurable,Rotational force,Torque ratio,Rotational work,D,"Just like force–displacement graphs, the area under a torque–angle graph equals work: W = τ·θ."
+A student sees a torque vs. angle graph. What does the shaded area show?,Rotational energy,Nothing,Angular acceleration,Rotational work,D,The area under a torque–angle graph equals work done by torque.
+Which expression connects torque and energy?,W = τ·θ,τ = I·α,L = I·ω,KE = ½·m·v²,A,W = τ·θ defines how torque transfers energy to rotational motion.
+What must change for a torque graph to indicate energy transfer?,Time,Mass,Angle (θ),Inertia,C,Work requires angular displacement — a change in θ makes area under τ vs. θ meaningful.
+What shape on a τ–θ graph represents constant torque?,Flat line,Horizontal line,Diagonal curve,Vertical line,B,A horizontal line on a τ–θ graph shows constant torque — area below gives W = τ·θ.
+"If the torque vs. angle graph is a curve, what does the area under it give?",Average inertia,Total rotational work,Rotational potential,Kinetic torque,B,The total area under a τ–θ curve gives total rotational work done.
+What is true about torque vs. angle graphs?,Their area equals work,They show torque squared,They show angular speed,They represent angular momentum,A,"The area under the torque vs. angle graph gives work, similar to linear analogs."
+What does a larger area under a τ–θ graph mean?,More torque,More rotational work,Less mass,Less displacement,B,A larger area means more energy transferred by torque.
+Why is a τ–θ graph useful in physics?,It shows KE directly,It measures radius,It quantifies work from torque,It shows mass change,C,Torque–angle graphs allow visual estimation of rotational work: W = τ·θ.
+What does a spike in a τ–θ graph mean?,Sudden velocity change,Mass was lost,System failure,Work added quickly,D,A sudden increase in torque over a small angle still adds work — seen as a spike in area.

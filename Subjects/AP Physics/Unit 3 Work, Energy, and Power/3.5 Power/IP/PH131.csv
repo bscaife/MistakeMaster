@@ -1,0 +1,11 @@
+Question,Choice A,Choice B,Choice C,Choice D,Correct Answer,Explanation
+What is the SI unit of energy?,Watt,Joule,Newton,Pascal,B,"Energy is measured in joules (J), while power is measured in watts (W = J/s)."
+Which unit is equivalent to 1 watt?,1 J,1 N·m,1 J/s,1 N/s,C,Power = energy/time ⇒ 1 W = 1 J/s.
+A student says power is measured in joules. What’s the correction?,Power and energy have the same units.,Power is actually measured in watts.,Power is measured in newtons.,Power has no unit.,B,"Power is the rate of energy transfer — measured in watts (W), not joules."
+"If a machine outputs 100 J in 2 s, what is its power?",200 W,50 W,100 J,2 W,B,P = E/t = 100 J ÷ 2 s = 50 W.
+Which of these correctly pairs a physical quantity with its SI unit?,Energy — Watt,Power — Newton,Power — Watt,Force — Joule,C,"Power is measured in watts (W), energy in joules (J), force in newtons (N)."
+A 60 W light bulb uses how much energy in 1 second?,60 J,1 J,60 W,3600 J,A,W = P·t = 60 W × 1 s = 60 J.
+What does a watt measure?,The force applied to an object.,The speed of light.,The rate of energy transfer.,The total energy stored.,C,Power = energy transferred per time ⇒ measured in watts (W).
+"If two machines use the same energy, but one is faster, what differs?",Their force.,Their velocity.,Their power output.,Their mass.,C,Same energy used over less time ⇒ higher power.
+How many joules are used by a 100 W device in 10 seconds?,1000 J,10 J,0.1 J,100 J,A,E = P·t = 100 W × 10 s = 1000 J.
+Which expression shows the correct relationship between energy and power?,P = F/m,P = E/t,E = t/P,E = P × F,B,Power is energy per time: P = E/t.

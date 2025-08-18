@@ -1,0 +1,11 @@
+Question,Choice A,Choice B,Choice C,Choice D,Correct Answer,Explanation
+What determines how much angular momentum changes?,Just torque,Mass and inertia,Torque and time,Only angular velocity,C,Angular impulse (torque × time) causes changes in angular momentum.
+Which equation shows the change in angular momentum?,L = I·ω,L = m·v·r,ΔL = τ·t,W = τ·θ,C,Angular impulse τ·t results in a change in angular momentum: ΔL = τ·t.
+A student says large torque instantly changes L. What's the correction?,That’s true,Change in L depends on how long torque acts,Only if ω increases,Only when rotation stops,B,Impulse requires time — torque must act for a duration to change angular momentum.
+"If you double torque but apply it for half the time, what happens to ΔL?",It doubles,It quadruples,It becomes zero,It stays the same,D,Impulse = τ·t. Doubling torque and halving time leaves impulse unchanged.
+Why can’t you assume torque changes L instantly?,Because inertia resists it,Because impulse includes time,Because energy is lost,Because mass must increase,B,Angular momentum changes based on impulse — torque must act over time.
+Which situation leads to the greatest change in angular momentum?,"Large torque, long time","Large torque, short time","Short torque, long time",Constant angular velocity,A,Impulse = τ·t is greatest when both torque and time are large.
+What is angular impulse most similar to?,Rotational energy,Linear acceleration,Momentum,Force × time,D,Angular impulse is the rotational version of linear impulse: torque × time.
+What must happen to change angular momentum?,Increase radius,Apply torque briefly,Apply torque over time,Increase ω instantly,C,Torque alone isn’t enough — it must act over time to change L.
+How do you maximize angular impulse?,By applying torque longer,By reducing friction,By keeping torque steady,By rotating quickly,A,Angular impulse is maximized when torque acts for more time.
+Which quantity equals angular impulse?,ΔL,I·ω,L,τ,A,Angular impulse equals the change in angular momentum: ΔL = τ·t.

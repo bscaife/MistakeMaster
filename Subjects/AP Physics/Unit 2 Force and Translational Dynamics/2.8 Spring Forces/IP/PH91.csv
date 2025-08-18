@@ -1,0 +1,11 @@
+Question,Choice A,Choice B,Choice C,Choice D,Correct Answer,Explanation
+Is the direction of spring force always the same as the direction of motion?,Only when stretched,"No, spring force acts toward equilibrium, which can oppose motion","Yes, force and motion are always aligned",Only for downward motion,B,"Spring force is a restoring force — it always points toward the relaxed length, not necessarily with the velocity."
+What is the direction of spring force when a mass moves away from equilibrium?,No force,Upward,Same as motion,Opposite to motion,D,The force pulls the object back toward equilibrium — opposite to the direction of displacement.
+What happens to the spring force when a mass passes through equilibrium?,It increases,It reverses,It pushes forward,It becomes zero at that instant,D,"At equilibrium (x = 0), spring force is momentarily zero before switching direction."
+What is true about spring force in simple harmonic motion?,It always matches velocity,It becomes friction,It acts upward only,It always points toward the center,D,"Spring force is restoring — always opposite to displacement, not speed."
+Why does an oscillating spring eventually reverse motion?,It has no mass,Gravity pulls harder,Energy disappears,The spring force opposes motion and slows it down near max stretch,D,"Force opposes displacement → decelerates, stops, reverses."
+Which force acts when a spring is stretched to the right and moving right?,Force is to the right,Force is upward,Force is to the left,No force,C,Displacement is positive → restoring force is negative.
+What causes acceleration in spring motion?,Mass alone,Spring force pointing toward equilibrium,Velocity direction,External force,B,"Acceleration is caused by net force, and spring force always points back toward center."
+k = 200 N/m. Spring stretched 0.2 m. Direction of Fₛ?,Toward equilibrium,Same as motion,Upward,No direction,A,Fₛ = −k·x → acts opposite the displacement.
+Spring is compressed 0.1 m and moving inward. What is F direction?,Outward,Inward,Upward,None,A,Compressed spring pushes out even if motion is inward.
+"Spring mass oscillates. At farthest point right, which way is spring force?",None,Right,Left,Down,C,Spring force always points toward equilibrium — left in this case.

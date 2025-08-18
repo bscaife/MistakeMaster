@@ -1,0 +1,11 @@
+Question,Choice A,Choice B,Choice C,Choice D,Correct Answer,Explanation
+Can angular momentum exist without rotation?,"Yes, if object moves near a point",Only with angular velocity,"No, it needs spinning",Only if ω is nonzero,A,Objects moving in a straight line can have angular momentum about an offset point.
+A rock moves straight past a pole. Does it have angular momentum?,"No, it’s not spinning","Yes, relative to the pole",Only with rotation,Only if mass is large,B,Its linear motion contributes to angular momentum about the pole.
+Which formula accounts for angular momentum from linear motion?,L = I·ω,L = F·d,L = m·v·r,L = ½·m·v²,C,Angular momentum relative to a point: L = m·v·r⊥ applies even without rotation.
+What causes angular momentum without spin?,Friction,Rotational KE,Circular force,Linear motion past a reference point,D,A mass moving past a reference point creates angular momentum about that point.
+Which situation has angular momentum with no rotation?,Spinning top,A ball rolling in a circle,Car passing a traffic cone,Fan spinning on a desk,C,Linear motion near a fixed point gives rise to angular momentum.
+A student says spin is needed for angular momentum. What’s the correction?,That’s true only in space,Only for circular motion,It depends on gravity,Angular momentum can come from straight-line motion near a point,D,Linear motion offset from a point gives angular momentum relative to that point.
+What is L for a sliding puck passing a post?,Zero,Depends on angle,It’s spinning,m·v·r⊥,D,L = m·v·r⊥ is the angular momentum relative to a point for a linearly moving object.
+What does angular momentum depend on for a non-rotating object?,"Mass, velocity, and distance from point",Just spin,Only force,Only rotation,A,Non-rotating objects can still have angular momentum relative to an external point.
+"A car drives in a straight line past a tree. Relative to the tree, it has...",Angular momentum,No energy,No velocity,Only linear momentum,A,The car’s velocity at a distance from the tree means it has angular momentum about that point.
+Which variable is not needed for angular momentum from linear motion?,Mass,Torque,Velocity,Distance to point,B,"Torque causes angular momentum change, but isn’t needed to calculate L for moving masses."

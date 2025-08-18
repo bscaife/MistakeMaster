@@ -1,0 +1,11 @@
+Question,Choice A,Choice B,Choice C,Choice D,Correct Answer,Explanation
+Can kinetic energy ever be negative?,"No, because v² is always positive and KE is a scalar","Yes, when velocity is negative",Only during collisions,Only if acceleration is upward,A,KE = ½·m·v² is always ≥ 0 since v² is non-negative.
+Why does a negative velocity not make kinetic energy negative?,Because squaring velocity removes its sign,Because energy is a vector,Because velocity cancels,Because negative mass flips the sign,A,Even negative velocity squared gives a positive result — KE is always positive.
+Which of the following quantities is always non-negative?,Kinetic energy,Velocity,Displacement,Acceleration,A,KE = ½·m·v² — cannot be negative unless m is negative (nonphysical).
+"If an object is moving left at −5 m/s, what is true of its kinetic energy?",It is positive,It is negative,It is zero,It is undefined,A,KE depends on v² — direction doesn’t affect sign.
+Why is it incorrect to say kinetic energy becomes negative going backwards?,Because direction doesn't matter in kinetic energy — only speed,Because time is positive,Because gravity reverses,Because friction cancels it,A,Speed is scalar — direction doesn’t influence kinetic energy's sign.
+When is kinetic energy equal to zero?,Only when the object is at rest (v = 0),When mass is negative,When direction is reversed,When it hits a wall,A,"If v = 0, KE = 0 — no motion, no kinetic energy."
+What does a negative sign in velocity affect?,"Direction, but not energy",Both energy and motion,Work only,Kinetic energy,A,"Kinetic energy depends on magnitude of motion, not direction."
+"Mass = 3 kg, v = −4 m/s. KE = ?",24 J,−24 J,12 J,0 J,A,KE = ½·3·16 = 24 J — still positive despite negative velocity.
+"v = −6 m/s, m = 2 kg. KE = ?",36 J,−36 J,18 J,0 J,A,KE = ½·2·36 = 36 J — velocity is squared.
+Object with KE = −50 J: Is this possible?,"No, kinetic energy cannot be negative","Yes, for backward motion","Yes, at high speed",Only with friction,A,Negative KE is nonphysical in Newtonian mechanics.

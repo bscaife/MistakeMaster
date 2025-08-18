@@ -1,0 +1,11 @@
+Question,Choice A,Choice B,Choice C,Choice D,Correct Answer,Explanation
+What determines the force exerted by a spring?,The size of the mass,The total length of the spring,The direction of motion,The displacement from its relaxed length,D,"Hooke’s Law: F = −k·x, where x is measured from the relaxed (unstretched) length."
+Is the relaxed length of a spring important when calculating spring force?,"Yes, because force depends on how far the spring is stretched from that length",Only when vertical,"No, the spring always pulls the same",Only when compressed,A,The spring force depends on displacement from the relaxed length — not absolute position.
+What is meant by the 'relaxed length' of a spring?,Its compressed position,Its natural length with no external forces,The average of its motion,Its maximum extension,B,It is the spring’s equilibrium position when no forces are applied.
+When is a spring’s force zero?,At full compression,At its relaxed length,At equilibrium height,At maximum stretch,B,Only when x = 0 → no displacement → F = 0.
+Why is it wrong to say 'the spring’s force is based on total length'?,Because friction is ignored,Because only the stretch from relaxed length matters,Because mass changes it,Because all springs are the same,B,Absolute length is irrelevant — only relative stretch from relaxed length affects force.
+What is the significance of knowing a spring’s relaxed length?,It’s needed for velocity,It determines force directly,It serves as the reference point for measuring displacement,It tells you the weight of the spring,C,All displacement and therefore force calculations depend on this equilibrium reference.
+"If a spring is stretched 0.15 m past its relaxed length, what is the displacement x?",0 m,Unknown,0.15 m,The spring’s total length,C,Displacement is relative to the relaxed length.
+A spring’s relaxed length is 0.5 m. It’s stretched to 0.8 m. What is x?,0 m,0.5 m,0.3 m,1.3 m,C,x = 0.8 − 0.5 = 0.3 m of stretch.
+Spring constant = 100 N/m. x = −0.2 m. What is F?,−20 N,0 N,20 N,0.2 N,A,F = −k·x = −100(−0.2) = 20 N restoring force.
+Spring is stretched to 0.7 m from a relaxed length of 0.4 m. k = 300 N/m. What is F?,0.3 N,90 N,300 N,120 N,B,x = 0.3 m → F = 300 × 0.3 = 90 N.

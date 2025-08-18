@@ -1,0 +1,8 @@
+Code,Misconception,Explanation
+PH274,Density is the same as weight,"Confuses density (mass per unit volume) with weight, which depends on gravitational force."
+PH275,Density depends on amount,"Thinks that more of a substance increases its density, rather than recognizing density as an intensive property."
+PH276,Objects float if they are lighter,"Believes that absolute weight determines floating, ignoring that density relative to fluid is the key factor."
+PH277,Mass and volume are interchangeable,Fails to distinguish between how much matter is in an object and how much space it occupies.
+PH278,Air has no density,Assumes gases are 'weightless' or 'massless' despite having measurable density.
+PH279,Solids can be compressed like fluids,Ignores that solids have fixed structure and negligible compressibility compared to fluids.
+PH280,Ideal fluids have the same behavior as real fluids,"Does not understand that ideal fluids ignore viscosity and compressibility, unlike real-world substances."

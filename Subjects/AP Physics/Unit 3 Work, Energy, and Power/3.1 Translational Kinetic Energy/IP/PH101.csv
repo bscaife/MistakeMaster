@@ -1,0 +1,11 @@
+Question,Choice A,Choice B,Choice C,Choice D,Correct Answer,Explanation
+Do all observers measure the same kinetic energy for a moving object?,"No, kinetic energy depends on the object's speed relative to the observer","Yes, it is absolute",Only in gravity-free conditions,Only when mass is zero,A,"Kinetic energy is frame-dependent: KE = ½·m·v², and v changes with observer motion."
+Which factor causes different observers to disagree on kinetic energy?,Relative velocity,Mass,Direction of force,Time of measurement,A,Each observer measures a different v depending on relative motion.
+"If a passenger in a train throws a ball forward, how does a person on the platform see its velocity?",As the sum of the train speed and ball speed,Only the ball speed,As zero,As half the train speed,A,"From outside the train, the observer adds the train’s velocity to the ball’s."
+Why is it incorrect to say kinetic energy is the same in all frames?,"Because velocity is frame-dependent, and KE depends on velocity",Because mass increases,Because potential energy is added,Because energy is conserved,A,Kinetic energy is not invariant — it varies with observer motion.
+Which of the following is frame-invariant?,Mass,Kinetic energy,Velocity,Work,A,Mass is the same for all observers — kinetic energy and velocity are not.
+"If two observers move at different speeds, which quantity will they disagree on?",Kinetic energy of a shared object,Gravitational constant,Mass of the object,Acceleration due to gravity,A,Relative speed affects measured KE.
+What best explains why kinetic energy is not absolute?,Because velocity is relative to the observer,Because mass fluctuates,Because distance varies,Because time shifts,A,No observer-independent velocity → no observer-independent kinetic energy.
+"m = 2 kg, v = 5 m/s (relative to observer A). KE = ?",25 J,20 J,50 J,10 J,A,KE = ½·2·25 = 25 J.
+"m = 2 kg, v = 0 m/s (observer moving with object). KE = ?",0 J,2 J,25 J,1 J,A,KE = ½·m·v² = 0 → object is stationary relative to observer.
+"Same object: Observer A sees v = 5 m/s, B sees v = 1 m/s. Ratio of KEₐ to KEᵦ?",25:1,5:1,2:1,1:5,A,KE ∝ v² → 25 / 1 = 25:1.

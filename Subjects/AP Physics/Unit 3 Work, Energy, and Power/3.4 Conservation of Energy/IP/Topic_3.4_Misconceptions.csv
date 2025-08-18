@@ -1,0 +1,8 @@
+Code,Misconception,Explanation
+PH120,Energy is always conserved within the system,"Assumes energy never leaves or enters a system, ignoring that nonconservative forces or external work can change system energy."
+PH121,Kinetic and potential energy are created or destroyed,Fails to understand that these forms of energy transform into each other or transfer in or out but are not lost or created from nothing.
+PH122,Only mechanical energy matters,"Overlooks thermal, sound, or other energy transformations that occur during real processes."
+PH123,Conservation of energy means forces are balanced,"Confuses the concepts of mechanical energy conservation and Newton’s laws, wrongly assuming zero net force is required for energy conservation."
+PH124,Energy is the same for all observers,Does not recognize that mechanical energy values (like kinetic energy) depend on the observer’s frame of reference.
+PH125,Energy is stored during motion,Misinterprets kinetic energy as something stored rather than something possessed due to motion.
+PH126,"If speed is constant, energy is constant","Fails to consider changing potential energy or external work, believing constant speed guarantees no energy change."

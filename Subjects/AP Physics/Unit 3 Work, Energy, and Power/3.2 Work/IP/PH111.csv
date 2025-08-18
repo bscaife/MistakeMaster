@@ -1,0 +1,11 @@
+Question,Choice A,Choice B,Choice C,Choice D,Correct Answer,Explanation
+Does path length affect work done by nonconservative forces like friction?,"Yes, nonconservative forces do more work over longer distances","No, only endpoints matter",Only for circular motion,Only if mass is constant,A,Friction and other nonconservative forces depend on total distance traveled — not just initial and final position.
+What is true of friction when comparing a straight path and a curved path?,More work is done by friction on the longer path,The same work is done,Work is zero,Friction reverses,A,Friction depends on path length — longer distance → more energy lost.
+Why is it incorrect to say that friction's work is path-independent?,Because frictional force acts over total displacement and not just net change in position,Because energy is conserved,Because it’s a contact force,Because friction cancels forces,A,Friction acts over the actual path — not a vector from start to end.
+Which of the following forces is path-dependent?,Friction,Gravity,Spring force,Electric force (conservative),A,Only nonconservative forces like friction vary with path length.
+"If friction acts over 5 meters, and again over 10 meters, what changes?",The work done by friction increases,KE doubles,Weight increases,PE is zero,A,Longer path → more friction → more work removed from system.
+Friction always removes energy from the system based on:,How far the object slides,The object's height,The object’s weight,Time taken,A,Work = F_friction × distance — path length determines energy removed.
+Which best describes nonconservative forces?,Path-dependent forces that remove energy from the system,Always vertical,Conservative but variable,Only exist on inclines,A,W = −F·d = −10·5 = −50 J — force opposes motion.
+"F_friction = 10 N, straight path = 5 m. Work = ?",−50 J,0,50 J,−5 J,A,W = −F·d = −10·5 = −50 J.
+F_friction = 10 N acts over 15 m (curved path). Work = ?,−150 J,−50 J,0,−15 J,A,W = −10·15 = −150 J — more distance → more work removed.
+"Object follows two different paths, same endpoints. Work by gravity is −200 J. What is friction’s work if one path is longer?",Greater on longer path,Same as short path,Zero,200 J,A,Friction work increases with path length — unlike gravity.

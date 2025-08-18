@@ -1,0 +1,8 @@
+Code,Misconception,Explanation
+PH176,Torque is the same as force,"Fails to distinguish between force and torque, ignoring the importance of lever arm and rotational axis."
+PH177,Torque doesn't depend on angle,"Assumes torque is always maximum regardless of angle between force and lever arm, neglecting the sine dependence."
+PH178,Only rotating objects experience torque,"Thinks torque only applies when an object is spinning, rather than recognizing it as a potential to cause rotation."
+PH179,All forces cause torque,Does not realize that only the component of a force perpendicular to the lever arm contributes to torque.
+PH180,Torque always causes rotation,"Thinks any torque will result in rotation, ignoring cases of torque balance or static equilibrium."
+PH181,Direction of torque doesn't matter,Ignores that clockwise and counterclockwise torques can cancel or reinforce each other.
+PH182,Torque can act at the center only,"Misunderstands torque as only being relevant at the object's center, instead of at any point offset from the rotation axis."

@@ -1,0 +1,11 @@
+Question,Choice A,Choice B,Choice C,Choice D,Correct Answer,Explanation
+Which variable must change for an object's momentum to increase if mass stays the same?,Time,Velocity,Force,Distance,B,"Momentum is p = m·v. If mass is constant, increasing velocity increases momentum."
+A small object moves quickly; a large object is at rest. Which has more momentum?,The larger object,The faster object,They are the same,Impossible to tell,B,A large object at rest has zero momentum. The small moving object has momentum.
+Which change will always increase an object’s momentum?,Reducing its acceleration,Increasing its mass while holding velocity constant,Reducing its weight,Adding friction,B,Momentum = m·v. Increasing m increases p if v is unchanged.
+Why is it incorrect to say 'heavier objects always have more momentum'?,Because mass doesn’t affect momentum,Because motion (velocity) is also required,Because heavier objects accelerate less,Because weight and momentum cancel,B,"Without motion, even heavy objects have zero momentum."
+"If two objects have the same momentum, which must be true?",They have the same mass,They have the same velocity,Their mass·velocity products are equal,They are both accelerating,C,"Equal momentum means m·v is the same, not necessarily mass or velocity alone."
+What happens to momentum if both mass and velocity are halved?,It stays the same,It doubles,It is cut to one-fourth,It becomes negative,C,p = m·v. Halving both gives (½m)(½v) = ¼mv → one-fourth original momentum.
+A small car and a truck are moving. The car has greater velocity. What could make their momentum equal?,If the truck moves backward,If the truck’s larger mass balances the car’s speed,If both are at rest,If both turn the same direction,B,Momentum depends on both mass and velocity. A larger mass can offset a slower speed.
+A 10 kg object moves at 3 m/s. What is its momentum?,30 kg·m/s,13 kg·m/s,3.33 kg·m/s,0.3 kg·m/s,A,p = m·v = 10 × 3 = 30 kg·m/s.
+A 2 kg object and a 1 kg object both have 6 kg·m/s momentum. What are their speeds?,3 m/s and 6 m/s,6 m/s and 3 m/s,2 m/s and 1 m/s,12 m/s and 6 m/s,A,v = p/m. 6 ÷ 2 = 3 m/s; 6 ÷ 1 = 6 m/s.
+An object’s mass is 5 kg and its velocity is doubled. What happens to its momentum?,It is halved,It is unchanged,It doubles,It becomes zero,C,p = m·v. Doubling v while keeping m constant doubles p.

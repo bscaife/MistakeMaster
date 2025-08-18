@@ -1,0 +1,11 @@
+Question,Choice A,Choice B,Choice C,Choice D,Correct Answer,Explanation
+What causes diagonal motion in physics?,Simultaneous horizontal and vertical components,A diagonal force,A circular path,Only vertical motion,A,Diagonal motion results from the combination of perpendicular x and y components.
+How is diagonal motion best analyzed?,As a new kind of motion,Using only vertical equations,By breaking it into x and y components,Using torque equations,C,2D motion is solved by separating it into 1D motions along x and y axes.
+"In projectile motion, the diagonal path results from:",Changing horizontal acceleration,No force at all,Constant diagonal velocity,Constant vₓ and changing vᵧ,D,Constant horizontal motion combined with vertical acceleration gives a curved path.
+Which is true about diagonal motion?,It cannot be graphed,It’s a distinct form of motion,It is a combination of x and y motions,It requires rotation,C,All 2D motion is a combination of x and y components.
+"If an object moves diagonally with no acceleration in x, what happens to vₓ?",It is zero,It reverses,It remains constant,It increases,C,No force = no acceleration = constant horizontal velocity.
+Which motion type creates a parabolic path?,Linear drag,Circular motion,Rest,Diagonal motion with vertical acceleration,D,Diagonal motion due to constant vₓ and downward aᵧ creates a parabola.
+Why isn’t diagonal motion a new kind of motion?,It is built from two perpendicular directions,It’s random,It doesn’t involve mass,It’s imaginary,A,It’s just simultaneous x and y motion — not its own type.
+"vₓ = 6 m/s, vᵧ = 8 m/s. What is total velocity?",14 m/s,12 m/s,10 m/s,6 m/s,C,Use Pythagorean theorem: √(6² + 8²) = 10 m/s.
+Object launched at 45° with speed 10 m/s. What are vₓ and vᵧ?,5 m/s and 5 m/s,10 m/s and 0 m/s,0 m/s and 10 m/s,7.1 m/s each,D,vₓ = vᵧ = 10·cos(45°) = ~7.1 m/s.
+"An object moves diagonally with vₓ = 3 m/s. After 2 s, how far in x?",6 m,9 m,2 m,3 m,A,x = vₓ·t = 3 × 2 = 6 m.

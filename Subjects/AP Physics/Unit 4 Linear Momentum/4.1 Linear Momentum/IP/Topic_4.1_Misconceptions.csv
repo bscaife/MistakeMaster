@@ -1,0 +1,8 @@
+Code,Misconception Summary,Description
+PH134,Momentum and force are the same thing,"Confuses momentum (𝑝 = 𝑚·𝑣) with force (𝐹 = 𝑚·𝑎), assuming both represent “push” or “impact.”"
+PH135,Only moving objects have momentum,"Believes momentum is tied to motion being visible, ignoring that velocity is needed but may be subtle."
+PH136,Momentum is not a vector,"Thinks momentum is a scalar quantity, ignoring directionality of velocity in 𝑝 = 𝑚·𝑣."
+PH137,Mass determines momentum alone,Ignores velocity; assumes heavier things always have more momentum regardless of speed.
+PH138,Momentum is always conserved,Doesn’t recognize that momentum conservation only applies in isolated systems without net external forces.
+PH139,All objects in a system get equal momentum,"Assumes momentum is divided evenly regardless of mass differences (e.g., in explosions)."
+PH140,Impulse and momentum are unrelated,Doesn’t understand that impulse (𝐹·𝑡) is the cause of a change in momentum (Δ𝑝 = 𝐽).

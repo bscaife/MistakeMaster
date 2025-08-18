@@ -1,0 +1,8 @@
+Code,Misconception,Explanation
+PH50,Bigger objects exert bigger forces,"Thinks that in an interaction, the more massive object always exerts a larger force, misunderstanding Newton’s third law of equal and opposite forces."
+PH51,Action and reaction happen at different times,"Believes one object acts first and the other reacts later, failing to understand that action-reaction forces occur simultaneously."
+PH52,Action and reaction act on the same object,Incorrectly pairs forces that act on the same object instead of identifying forces acting between two different interacting objects.
+PH53,Only moving objects exert forces,"Assumes that only moving or accelerating objects can exert forces, ignoring that stationary objects can exert equal and opposite interaction forces."
+PH54,"If one object accelerates more, it feels more force","Fails to recognize that different accelerations result from different masses, not unequal forces, when Newton’s third law forces are equal in magnitude."
+PH55,Forces are not real if nothing moves,"Assumes that if an object doesn’t move, no force is present, ignoring equilibrium and the presence of balanced forces."
+PH56,Tension is always the same in all situations,"Does not recognize that tension may vary in different parts of a system unless the string is ideal (massless, no friction)."

@@ -1,0 +1,11 @@
+Question,Choice A,Choice B,Choice C,Choice D,Correct Answer,Explanation
+Which equation defines the connection between impulse and momentum?,F = m·v,J = F·t = Δp,p = m·a,J = m·g,B,"Impulse equals the change in momentum, represented as J = F·t = Δp."
+Why does a longer force application time result in more momentum change?,Because velocity increases force,Because momentum grows with time,"Because impulse increases, and Δp = J",Because mass decreases over time,C,"Impulse increases with time (J = F·t), which means momentum change increases."
+A student says 'impulse and momentum are unrelated.' Why is this wrong?,They are both conserved,Impulse is just another word for momentum,Impulse is equal to the change in momentum,Momentum depends only on energy,C,Impulse is the mechanism that changes momentum: J = Δp.
+Which of the following results in a change in momentum?,A steady force over time,Constant velocity,Balanced forces,An object at rest,A,"A force applied over time causes an impulse, which changes momentum."
+Which situation does not result in impulse?,A baseball is caught,A force acts briefly on a box,A truck coasts at constant velocity,A person jumps off the ground,C,"Constant velocity means no change in momentum, so no impulse occurred."
+What variable combination causes momentum to change?,Mass and time,Force and time,Acceleration and mass only,Distance and velocity,B,"Impulse = F·t, and impulse causes a change in momentum."
+"If an object’s momentum increases, what must have happened?",It lost mass,It was acted on by a net impulse,Its shape changed,Its energy decreased,B,Only a net impulse can increase an object’s momentum.
+An object gets a 12 N·s impulse. Its momentum changed from 3 to ___ kg·m/s?,15,9,3,0,A,"If Δp = 12 and started at 3, final = 3 + 12 = 15 kg·m/s."
+A 4 kg object’s velocity goes from 1 to 5 m/s. What impulse was delivered?,4 N·s,16 N·s,20 N·s,24 N·s,C,Δp = m·Δv = 4 × (5 - 1) = 4 × 4 = 16 N·s.
+A 2 kg object receives a 6 N·s impulse. What is its velocity change?,3 m/s,6 m/s,12 m/s,1 m/s,A,Δv = J/m = 6 ÷ 2 = 3 m/s.

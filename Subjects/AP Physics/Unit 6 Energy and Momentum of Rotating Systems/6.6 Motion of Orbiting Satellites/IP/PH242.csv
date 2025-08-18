@@ -1,0 +1,11 @@
+Question,Choice A,Choice B,Choice C,Choice D,Correct Answer,Explanation
+Are circular orbits the only type of orbit?,"Yes, gravity only supports circles",Only for small satellites,"No, orbits can also be elliptical","Yes, due to symmetry",C,Elliptical orbits are common — they follow the same conservation laws as circular orbits.
+Which shape best describes most planetary orbits?,Ellipse,Spiral,Perfect circle,Straight line,A,"Most orbits are elliptical, with the central mass at one focus."
+What laws apply to both circular and elliptical orbits?,Conservation of energy and angular momentum,Conservation of momentum,Only centripetal force,Only Kepler's 1st law,A,Both orbit types obey conservation of energy and angular momentum.
+Why do some orbits appear circular?,They are always perfect circles,Gravity cancels rotation,Speed is constant,The difference between axes is very small,D,Nearly circular orbits have a small difference between major and minor axes.
+What happens to speed in an elliptical orbit?,It stays the same,It increases uniformly,It varies depending on distance,It reverses,C,"In elliptical orbits, objects speed up when closer and slow down when farther from the focus."
+What shape does a satellite take when launched into orbit?,Always a circle,Could be an ellipse,Spiral path,Parabola,B,"Unless precisely balanced, initial orbits are elliptical."
+Which orbital quantity is conserved in both circular and elliptical motion?,Angular momentum,Distance from center,Speed,Radius,A,"Even as speed and distance vary in elliptical orbits, angular momentum is conserved."
+What causes orbits to be elliptical instead of circular?,Loss of gravity,Initial conditions and energy,Unbalanced thrust,Lack of spin,B,Elliptical orbits result from speed and launch direction — not external forces.
+Which of these best shows elliptical orbit?,Planet stays same distance from Sun,Ball on a string,Constant velocity in a loop,Moon’s speed changes during orbit,D,"In an ellipse, speed varies — it's fastest near the central body."
+Why are circular orbits a special case of ellipses?,They have no gravity,They have constant speed,They require spin,Their major and minor axes are equal,D,A circle is just an ellipse with equal axes — still follows all orbital laws.

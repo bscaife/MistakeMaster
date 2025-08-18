@@ -1,0 +1,11 @@
+Question,Choice A,Choice B,Choice C,Choice D,Correct Answer,Explanation
+"If an object has 𝑣 = −5 m/s, what does the negative sign indicate?",It is at rest,Direction of motion,Decreasing mass,Slowing down,B,"Negative velocity indicates direction along a chosen axis, not a change in speed."
+Which velocity indicates motion to the left?,𝑣 = 0,𝑣 = +3 m/s,𝑣 = 3 m/s²,𝑣 = −3 m/s,D,"In 1D motion, negative velocity commonly means leftward motion."
+"An object moves right, then reverses left. What changes sign?",Time,Mass,Distance,Velocity,D,Reversal of motion changes the sign of velocity (a vector).
+"If 𝑣 < 0 and 𝑎 < 0, what happens?",Object speeds up left,Object is stationary,Speed is zero,Object slows down,A,Same sign for velocity and acceleration = speeding up (in negative direction).
+Which of the following is a valid interpretation of 𝑣 = −8 m/s?,Object is moving left at 8 m/s,Object is accelerating,Object is turning,Object is slowing down,A,Negative velocity means motion to the left (if left is defined negative).
+An object has negative velocity and zero acceleration. What happens?,It turns around,It slows down,It moves left at constant speed,It accelerates right,C,Zero acceleration = constant velocity → continues in negative direction.
+Which scenario represents speeding up in the negative direction?,"𝑣 = 0, 𝑎 < 0","𝑣 > 0, 𝑎 < 0","𝑣 > 0, 𝑎 > 0","𝑣 < 0, 𝑎 < 0",D,"Same sign 𝑣 and 𝑎 = speeding up, even if direction is negative."
+An object moves at −6 m/s for 4 s. What is its displacement?,6 m,−24 m,24 m,0 m,B,x = v·t = −6·4 = −24 m → motion is leftward.
+A ball rolls at −2 m/s for 10 s. How far does it travel?,−20 m,2 m,20 m,0 m,C,Distance = speed × time = |−2| × 10 = 20 m.
+"An object has 𝑣 = −4 m/s, 𝑎 = −2 m/s². What happens to its speed?",It decreases,It increases,It becomes zero,It stays constant,B,"Same sign = speeding up, though in the negative direction."

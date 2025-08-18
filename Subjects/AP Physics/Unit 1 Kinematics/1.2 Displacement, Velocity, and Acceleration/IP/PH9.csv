@@ -1,0 +1,11 @@
+Question,Choice A,Choice B,Choice C,Choice D,Correct Answer,Explanation
+An object is moving right but slowing down. Which is true?,"𝑣 > 0, 𝑎 < 0","𝑣 < 0, 𝑎 > 0","𝑣 > 0, 𝑎 > 0","𝑣 < 0, 𝑎 < 0",A,"Slowing down in the positive direction means velocity is positive, acceleration is negative."
+A car is speeding up while moving left. Which is true?,"𝑣 < 0, 𝑎 < 0","𝑣 < 0, 𝑎 > 0","𝑣 > 0, 𝑎 < 0","𝑣 > 0, 𝑎 > 0",A,Speeding up to the left: both velocity and acceleration are negative.
+Which condition shows deceleration in the negative direction?,"𝑣 < 0, 𝑎 < 0","𝑣 > 0, 𝑎 > 0","𝑣 > 0, 𝑎 < 0","𝑣 < 0, 𝑎 > 0",D,Velocity and acceleration in opposite directions = slowing down.
+"If 𝑣 = 0 and 𝑎 ≠ 0, what is happening?",Motion is impossible,The object is turning,The object is starting to move,The object is slowing down,C,Velocity = 0 but acceleration ≠ 0 implies starting motion from rest.
+When is acceleration opposite in direction to velocity?,Object moves at constant speed,Object is speeding up,Object is at rest,Object is slowing down,D,Acceleration and velocity are opposite when the object slows down.
+Which pair represents an object speeding up?,"𝑣 = −4 m/s, 𝑎 = −2 m/s²","𝑣 = −3 m/s, 𝑎 = +2 m/s²","𝑣 = +3 m/s, 𝑎 = −2 m/s²","𝑣 = 0, 𝑎 = 0",A,Same sign for velocity and acceleration = speeding up.
+"If acceleration is perpendicular to velocity, what kind of motion results?",Stopping,Circular,Constant velocity,Slowing down,B,Perpendicular acceleration causes circular (centripetal) motion.
+An object moves at 10 m/s and slows to 0 m/s in 5 s. What is acceleration?,2 m/s²,−2 m/s²,0 m/s²,−0.5 m/s²,B,a = (0 − 10)/5 = −2 m/s². Acceleration is opposite velocity.
+A ball thrown up has velocity 0 at the peak. What is acceleration there?,0 m/s²,Depends on mass,−9.8 m/s²,9.8 m/s²,C,Acceleration due to gravity is always downward: −9.8 m/s².
+A runner slows from 8 m/s to 2 m/s in 3 s. What is 𝑎?,−2 m/s²,2 m/s²,−6 m/s²,−3 m/s²,A,a = (2 − 8)/3 = −2 m/s² → opposite of motion = slowing down.

@@ -1,0 +1,11 @@
+Question,Choice A,Choice B,Choice C,Choice D,Correct Answer,Explanation
+What does the area under a velocity–time graph represent?,Acceleration,Speed,Slope,Displacement,D,Area under a v–t graph gives displacement (Δx).
+What does the area under an acceleration–time graph represent?,Displacement,Instantaneous speed,Slope of x–t graph,Change in velocity,D,a–t graph area gives Δv.
+Why is graph area important in physics?,It represents accumulated quantities,It determines the object's shape,It defines direction only,It gives average slope,A,"Area under a curve accumulates a rate (e.g., velocity gives displacement)."
+"If a v–t graph forms a triangle, what is displacement?",Maximum velocity,Area of triangle,Slope of line,Negative acceleration,B,Displacement = area = ½·base·height for a triangular section of v–t graph.
+"If a–t graph is constant at 3 m/s² for 4 s, what is Δv?",12 m/s,7 m/s,0 m/s,3 m/s,A,Area = a·t = 3 × 4 = 12 m/s.
+Area under an a–t graph gives:,Object mass,Total velocity,Displacement,Velocity change,D,Integration of acceleration over time yields Δv.
+Why is area under v–t graph positive and negative?,Energy loss,Direction of motion,Mass changes,Force applied,B,Area sign reflects displacement direction.
+A v–t graph has v = 5 m/s for 6 s. Displacement?,30 m,1.2 m,0 m,11 m,A,Displacement = area = 5 × 6 = 30 m.
+A–t graph shows a = 2 m/s² for 5 s. What is Δv?,10 m/s,0 m/s,25 m/s,2 m/s,A,Δv = a·t = 2 × 5 = 10 m/s.
+v–t graph shows triangle from 0 to 4 s with peak v = 8 m/s. Displacement?,32 m,8 m,16 m,4 m,C,Area = ½·base·height = ½·4·8 = 16 m.

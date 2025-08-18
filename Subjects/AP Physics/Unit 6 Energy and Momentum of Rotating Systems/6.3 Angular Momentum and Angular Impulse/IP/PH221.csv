@@ -1,0 +1,11 @@
+Question,Choice A,Choice B,Choice C,Choice D,Correct Answer,Explanation
+What is angular impulse?,Torque,Torque divided by time,Change in energy,Torque multiplied by time,D,"Angular impulse = torque × time, just like linear impulse is force × time."
+Which expression defines angular impulse?,J = τ·t,J = I·ω,J = τ,J = τ + θ,A,Angular impulse is the product of constant torque and the time it acts: J = τ·t.
+A student says angular impulse equals torque. What’s missing?,Angle,Mass,Time,Velocity,C,Torque must act over time to produce angular impulse.
+Which of the following increases angular impulse?,Smaller radius,Shorter time,Larger torque or longer time,Lower mass,C,Angular impulse = τ·t — increasing either factor increases impulse.
+Which quantity changes due to angular impulse?,Torque,Rotational KE,Angular velocity,Angular momentum,D,Angular impulse causes a change in angular momentum: J = ΔL.
+"If τ is large but t is small, what is the impulse?",Very large,Still depends on product τ·t,Zero,Moderate,B,Impulse depends on both torque and time — large τ alone isn't enough.
+Which unit matches angular impulse?,kg·m/s,N·m·s,N·m,kg·m²/s,B,Torque (N·m) × time (s) gives N·m·s — the unit for angular impulse.
+Which scenario demonstrates angular impulse?,Constant friction,Constant speed,Constant torque for 3 seconds,Fixed angular position,C,Torque applied over time builds angular impulse and changes momentum.
+What happens if torque is applied for longer time?,Impulse increases,Angular KE decreases,Rotation stops,ω becomes zero,A,More time under constant torque increases total angular impulse.
+Which equation best connects torque to momentum change?,F = ma,τ·t = ΔL,L = I·ω,W = τ·θ,B,Angular impulse τ·t causes a change in angular momentum ΔL.

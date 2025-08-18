@@ -1,0 +1,2 @@
+Question,Correct Answer,Choice A,Correct? A,Code A,Choice B,Correct? B,Code B,Choice C,Correct? C,Code C,Choice D,Correct? D,Code D,Explanation,Misconception Code
+If an object rotates through 4π radians in 2 seconds. what is ω?,C,4π,False,PH162,2π,False,PH162,ω = θ / t = 4π / 2 = 2π rad/s,True,TRUE,π / 4,False,PH164,Use ω = θ / t to find angular velocity.,TRUE

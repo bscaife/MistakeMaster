@@ -1,0 +1,11 @@
+Question,Choice A,Choice B,Choice C,Choice D,Correct Answer,Explanation
+Is kinetic energy a vector quantity?,"No, it is a scalar — it has magnitude but no direction","Yes, it points in the direction of motion",Only in two dimensions,Only when moving upward,A,Kinetic energy depends on speed (not velocity) and is a scalar: KE = ½·m·v².
+What does kinetic energy depend on?,Mass and speed,Mass and direction,Velocity and direction,Displacement and mass,A,"KE = ½·m·v² — no directional component, just scalar speed."
+Why is kinetic energy not a vector?,Because it cannot be negative and has no direction,Because it opposes velocity,Because energy rotates,Because vectors cancel it,A,It is a measure of total mechanical motion energy — not associated with a direction.
+"If two objects move at the same speed but in opposite directions, what is true about their kinetic energies?",They are equal,"One is positive, one negative",One is zero,They cancel out,A,Kinetic energy only cares about speed (magnitude of velocity).
+What distinguishes kinetic energy from momentum?,KE is a scalar; momentum is a vector,KE includes direction; momentum doesn’t,KE is massless,KE doesn’t change,A,Momentum = m·v (vector); KE = ½·m·v² (scalar).
+Which of the following is a vector quantity?,Momentum,Kinetic energy,Mass,Work,A,Momentum involves velocity; KE is scalar.
+What best explains why kinetic energy cannot point in a direction?,"Because it is based on v², which is always positive",Because it balances forces,Because it cancels acceleration,Because it moves with the object,A,Squaring velocity removes direction — only magnitude remains.
+An object with mass 2 kg moves at 4 m/s. What is its kinetic energy?,16 J,8 J,4 J,2 J,A,KE = ½·m·v² = ½·2·16 = 16 J.
+An object moves at 5 m/s to the left and has mass 3 kg. What is its kinetic energy?,37.5 J,15 J,0,−15 J,A,KE = ½·3·25 = 37.5 J — still positive regardless of direction.
+An object has velocity −6 m/s and mass 1.5 kg. What is its kinetic energy?,27 J,−27 J,18 J,0 J,A,KE = ½·1.5·36 = 27 J — direction doesn’t matter.

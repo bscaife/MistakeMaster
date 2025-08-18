@@ -1,0 +1,11 @@
+Question,Choice A,Choice B,Choice C,Choice D,Correct Answer,Explanation
+Do springs exert a constant force regardless of stretch?,Only when compressed,"No, spring force increases proportionally with displacement","Yes, the force is fixed",Only if vertical,B,Hooke’s Law: F = −k·x — force grows with distance from equilibrium.
+What happens to the spring force when a spring is stretched further?,It increases proportionally to the displacement,It stays the same,It reverses,It decreases,A,F = −k·x — more displacement leads to more restoring force.
+What physical law governs the behavior of spring force?,Hooke’s Law,Newton’s 1st Law,Friction Law,Gravitational Law,A,Hooke’s Law defines the linear relationship between force and stretch: F = −k·x.
+"If a spring is compressed twice as far, how does the force change?",It becomes zero,It doubles,It halves,It stays the same,B,F = −k·x → doubling x doubles F.
+How does spring force behave during motion?,It is constant throughout,It becomes friction,It remains negative,It varies as the displacement from equilibrium changes,D,Spring force continuously changes as the object stretches or compresses.
+Which variable affects the spring force directly?,Mass alone,Velocity,Displacement from equilibrium,Area of contact,C,Hooke’s Law: F = −k·x — displacement matters.
+Which of the following statements is incorrect?,Springs pull or push toward equilibrium,Spring force depends on how far it’s stretched,Springs exert the same force at all times,Spring force varies continuously,C,Spring force is not constant — it depends on displacement.
+"Spring constant k = 200 N/m, stretched 0.1 m. Force?",200 N,20 N,2 N,0.1 N,B,F = k·x = 200 × 0.1 = 20 N.
+Same spring compressed 0.2 m. Force?,200 N,10 N,40 N,20 N,C,F = 200 × 0.2 = 40 N — doubled stretch = doubled force.
+"F = 30 N from spring. If x = 0.15 m, what is k?",0.15 N/m,2 N/m,45 N/m,200 N/m,D,k = F/x = 30 / 0.15 = 200 N/m.

@@ -1,0 +1,11 @@
+Question,Correct Answer,Choice A,Correct? A,Code A,Choice B,Correct? B,Code B,Choice C,Correct? C,Code C,Choice D,Correct? D,Code D,Explanation
+Which expression defines rotational kinetic energy?,C,K = I · ω,FALSE,PH204,K = m · v,FALSE,PH204,K = ½ · I · ω²,TRUE,,K = m · r²,FALSE,PH204,Rotational KE: K = ½·I·ω² — analogous to ½·m·v²
+A solid disc of I = 2 kg·m² spins at ω = 4 rad/s. What is its rotational kinetic energy?,B,8 J,FALSE,PH204,16 J,TRUE,,32 J,FALSE,PH204,4 J,FALSE,PH204,Plug into K = ½·I·ω²
+What happens to rotational KE if ω doubles and I stays the same?,D,KE doubles,FALSE,PH204,KE halves,FALSE,PH204,KE stays the same,FALSE,PH204,KE quadruples,TRUE,,K ∝ ω² → if ω doubles— KE increases by factor of 4
+If I triples and ω remains constant— what happens to rotational KE?,A,It triples,TRUE,,It halves,FALSE,PH204,It squares,FALSE,PH204,It stays the same,FALSE,PH204,K ∝ I when ω is constant
+A rotating system has KE = 20 J and I = 1 kg·m². What is ω?,C,2 rad/s,FALSE,PH204,10 rad/s,FALSE,PH204,6.32 rad/s,TRUE,,4 rad/s,FALSE,PH204,Solve: ω = √(2K / I)
+Which system has the greater rotational KE if mass and ω are the same?,D,Ring,FALSE,PH204,Solid sphere,FALSE,PH204,Disc,FALSE,PH204,Hoop (I = m·r²),TRUE,,More I → more KE for same ω: K = ½·I·ω²
+A student says only linear speed affects KE. What’s wrong?,B,KE only exists with rotation.,FALSE,PH204,Rotational KE depends on ω and I too.,TRUE,,Mass cancels out.,FALSE,PH204,Angular speed equals torque.,FALSE,PH204,Rotational KE = ½·I·ω² — not just linear motion
+An object rolls without slipping. Which forms of KE does it have?,C,Only translational,FALSE,PH208,Only rotational,FALSE,PH208,Both translational and rotational,TRUE,,Neither,FALSE,PH209,Rolling motion includes both ½·m·v² and ½·I·ω²
+If total KE = 60 J for a rolling sphere and translational KE = 40 J— what is rotational KE?,A,20 J,TRUE,,60 J,FALSE,PH209,80 J,FALSE,PH208,Cannot determine,FALSE,PH210,K_total = Kₜᵣₐₙₛ + Kᵣₒₜ
+A wheel’s ω increases linearly with time. What happens to KE?,D,It decreases.,FALSE,PH210,It stays constant.,FALSE,PH210,It doubles.,FALSE,PH210,It increases quadratically with time.,TRUE,,K ∝ ω²— and ω ∝ t → K ∝ t²

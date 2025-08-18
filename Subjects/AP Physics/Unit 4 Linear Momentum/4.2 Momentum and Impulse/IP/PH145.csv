@@ -1,0 +1,11 @@
+Question,Choice A,Choice B,Choice C,Choice D,Correct Answer,Explanation
+Which formula defines impulse correctly?,J = F·d,J = m·g·h,J = F·t,J = p·d,C,"Impulse is force times time (J = F·t), not force times distance."
+What is the main difference between impulse and work?,Impulse depends on force and time; work depends on force and distance,Impulse requires gravity,Work and impulse are always equal,"Impulse includes acceleration, work does not",A,Impulse = F·t; Work = F·d. The key difference is time versus distance.
+Why does impulse not depend on distance traveled?,Because distance is not part of momentum change,Because energy replaces impulse,Because impulse only exists during collisions,Because time cancels out distance,A,"Impulse depends on force and time, not on how far something moves."
+Which of these affects the impulse delivered to an object?,Force and time,Force and distance,Mass and height,Speed and displacement,A,Impulse is J = F·t. Distance has no role in determining impulse.
+What is a misconception about impulse?,It causes energy to change,It depends on how far the object moves,It changes momentum,It is caused by force over time,B,Impulse does not depend on path or displacement—only force and time.
+How can two objects experience the same impulse?,If they move the same distance,If they are acted on by the same force for the same time,If they have the same energy,If they fall from the same height,B,"Impulse = F·t. Matching those gives equal impulse, regardless of distance."
+"A student says, 'Longer distance = more impulse.' What’s the correct response?",Impulse increases with height,Impulse depends only on force and time,Impulse and energy are the same,"Distance affects direction, not impulse",B,Impulse is unrelated to distance. It’s based on force and how long it acts.
+A 5 N force acts for 3 seconds. What impulse is delivered?,8 N·s,15 N·s,10 N·s,20 N·s,B,J = F·t = 5 × 3 = 15 N·s.
+An object moves 10 meters under a 2 N force for 2 seconds. What is its impulse?,20 N·s,10 N·s,4 N·s,5 N·s,C,J = F·t = 2 × 2 = 4 N·s. Distance (10 m) is irrelevant.
+A 2 kg object speeds up from 0 to 6 m/s. What impulse was delivered?,3 N·s,12 N·s,8 N·s,6 N·s,B,Δp = m·Δv = 2 × 6 = 12 N·s.

@@ -1,0 +1,8 @@
+Code,Misconception,Explanation
+PH246,Simple harmonic motion must involve springs,"Assumes SHM only occurs with mass-spring systems, overlooking other cases like pendulums or oscillating carts."
+PH247,Amplitude affects period in all SHM,"Fails to realize that for ideal SHM (like mass-spring or small-angle pendulum), period is independent of amplitude."
+PH248,SHM requires a net constant force,"Misunderstands that SHM involves a restoring force proportional to displacement, not a constant net force."
+PH249,The object stops at equilibrium in SHM,"Thinks the motion ends when the object reaches equilibrium, not recognizing SHM continues through it."
+PH250,SHM acceleration is constant,"Confuses SHM with uniform acceleration, not realizing that acceleration in SHM varies with position."
+PH251,Velocity and acceleration peak at the same time,"Fails to understand that in SHM, velocity is zero when acceleration is maximum, and vice versa."
+PH252,Only mass affects motion in SHM,Ignores that both spring constant or pendulum length (depending on system) influence the period of oscillation.

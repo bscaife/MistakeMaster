@@ -1,0 +1,11 @@
+Question,Choice A,Choice B,Choice C,Choice D,Correct Answer,Explanation
+Do all rolling objects move at the same speed down a ramp?,"Yes, speed depends only on mass","Yes, if mass is equal","Yes, if surfaces are smooth","No, shape and moment of inertia matter",D,Rolling speed depends on how energy is split between translation and rotation — this depends on I.
+Which factor affects rolling speed on a ramp?,Only gravity,Only mass,Moment of inertia,Surface color,C,Objects with higher I rotate more slowly and translate less — they roll slower.
+A solid sphere and a ring roll down a ramp. Who wins?,They tie,The ring,Depends on mass,The sphere,D,"The sphere has lower I relative to m·r², so more energy goes to translation — it moves faster."
+What does higher moment of inertia do in rolling?,Speeds up rolling,Slows down rolling,Makes object bounce,Has no effect,B,More I means more rotational energy and less translational — rolling speed is slower.
+A student says all rolling objects move the same. What’s the correction?,That’s true for small ramps,That’s only true in vacuum,Only mass causes change,Different I causes different speeds,D,Different shapes distribute energy differently — I affects speed even if mass is equal.
+Which shape rolls fastest down a ramp (equal mass and radius)?,Solid sphere,Hollow ring,Cylindrical shell,Doesn’t matter,A,"Solid sphere has lowest I/m·r² ratio, so most energy becomes translational motion."
+Which equation helps explain speed differences for rolling?,F = m·a,W = τ·θ,KE = ½·m·v² + ½·I·ω²,I = m·g·r,C,This shows how energy splits between linear and rotational motion — affects speed.
+Why does shape matter in rolling?,More air drag,Different contact area,Different energy distribution,Mass differences,C,Shapes with different I values distribute energy differently between v and ω.
+Which of these would reach the bottom last?,Solid sphere,Ring,Disk,They all tie,B,The ring has the highest I for its mass — it accelerates the slowest down the ramp.
+What is true for two rolling objects with same mass and radius but different I?,Their speeds will differ,They move identically,Only height matters,Only time matters,A,Different I means different proportions of kinetic energy in translation vs. rotation — speed changes.

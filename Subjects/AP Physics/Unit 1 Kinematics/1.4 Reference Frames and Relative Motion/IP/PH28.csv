@@ -1,0 +1,11 @@
+Question,Choice A,Choice B,Choice C,Choice D,Correct Answer,Explanation
+"If velocity is zero in one frame, what does that mean in another frame?",It must also be zero,The object is accelerating,It might not be zero,Time is frozen,C,Velocity is relative; it can differ across reference frames.
+A person sits still on a train. What is their velocity from Earth?,Same as train’s velocity,Infinite,Negative,Zero,A,"Relative to Earth, the seated person is moving with the train."
+When is velocity the same in all frames?,Always,Only during collisions,"Never, unless both frames are stationary to each other",Only with zero acceleration,C,Velocities differ between frames unless both are at rest relative to each other.
+What does it mean when an object has 𝑣 = 0 in a moving frame?,It’s accelerating,It moves with that frame,It moves backward,It’s at rest absolutely,B,"If velocity is zero in a frame, the object shares the frame’s motion."
+Can velocity be zero in one frame and nonzero in another?,Only if objects are massive,Only with friction,"Yes, velocity is frame-dependent","No, velocity is fixed",C,Velocity changes with reference frame.
+A ball is stationary on a plane. What is its velocity from the ground?,Negative,It’s undefined,Equal to the plane’s velocity,Zero,C,"Relative to Earth, the ball moves with the plane."
+Why is velocity not absolute?,It’s based on mass,It depends on force,It’s affected by temperature,It depends on the observer’s motion,D,Velocity depends on the chosen frame of reference.
+Plane speed = 200 m/s. Luggage is stationary inside. What is its ground speed?,100 m/s,400 m/s,200 m/s,0 m/s,C,"Relative to ground, luggage moves with the plane → 200 m/s."
+Truck = 30 m/s. Object resting inside. Velocity from street?,15 m/s,0 m/s,30 m/s,−30 m/s,C,"Same as truck’s speed, from external frame."
+Person A stands. Person B runs at 4 m/s. What’s A’s velocity to B?,0 m/s,Depends on mass,−4 m/s,4 m/s,C,"From B’s view, A appears to move backward at −4 m/s."

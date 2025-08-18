@@ -1,0 +1,11 @@
+Question,Choice A,Choice B,Choice C,Choice D,Correct Answer,Explanation
+Is gravitational field strength the same as gravitational force?,Only near Earth’s surface,"Yes, they always equal each other",Only in space,"No, field strength is force per unit mass",D,Field strength is measured in N/kg or m/s² and must be multiplied by mass to find the actual force.
+What is the relationship between gravitational force and field strength?,F = g/m,F = m/g,F = g²,F = m·g,D,Gravitational force equals mass times field strength.
+"If g = 9.8 N/kg and mass = 0 kg, what is gravitational force?",9.8 N,1 N,0 N,Infinite,C,F = m·g → F = 0 × 9.8 = 0 N.
+What unit is used for gravitational field strength?,kg,N/kg,J,N,B,Field strength is a measure of force per unit mass — N/kg.
+What quantity depends on the mass of the object?,Gravitational field,Air pressure,"Gravitational force, but not field strength",Mass itself,C,Field strength is constant at a location; force depends on object mass.
+Why does the Moon have a smaller field strength than Earth?,It has less mass,It rotates faster,It is farther from the Sun,It moves slower,A,Field strength is determined by the planet or moon’s own mass and radius.
+Which concept is often confused with gravitational force?,Velocity,Friction,Gravitational field strength,Normal force,C,g is often mistaken for the total force — but it’s per unit mass.
+Object has mass = 4 kg and is in g = 10 N/kg. What is gravitational force?,10 N,4 N,0.4 N,40 N,D,F = m·g = 4 × 10 = 40 N.
+"At a point in space, g = 2 N/kg. Object has m = 5 kg. What is F?",10 N,5 N,2 N,7 N,A,F = m·g = 5 × 2 = 10 N.
+A 10 kg object weighs 98 N. What is g at its location?,0.1 N/kg,98 N/kg,10 N/kg,9.8 N/kg,D,g = F/m = 98 / 10 = 9.8 N/kg.

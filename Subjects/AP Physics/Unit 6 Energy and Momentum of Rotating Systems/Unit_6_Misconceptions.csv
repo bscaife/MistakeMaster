@@ -1,0 +1,43 @@
+Code,Misconception,Explanation
+PH204,Rotational kinetic energy is the same as translational kinetic energy,Assumes there's no distinction between energy due to linear motion and that due to rotational motion.
+PH205,Only rotating objects have kinetic energy,"Fails to recognize that even without linear motion, rotating systems have kinetic energy due to rotation."
+PH206,Rotational kinetic energy depends on linear velocity,Confuses translational velocity with angular velocity when calculating rotational kinetic energy.
+PH207,Rotational energy is directional like angular momentum,Mistakes scalar nature of energy for vector-like properties such as direction.
+PH208,Center of mass must move for energy to exist,Overlooks that internal rotation can contribute to kinetic energy even if center of mass is stationary.
+PH209,All rotating systems have the same energy if they spin at the same rate,Ignores role of moment of inertia; assumes spin rate alone determines energy.
+PH210,Rotational kinetic energy doesn't contribute to total energy,Neglects to include rotational terms when calculating total mechanical energy of a system.
+PH211,Work and torque are unrelated,"Fails to understand that work can be done by a torque, just as it can be done by a linear force over displacement."
+PH212,Rotational work depends only on torque,Ignores that both torque and angular displacement are required for calculating work done in rotational motion.
+PH213,Work in rotation is always positive,"Assumes torque always adds energy, not realizing torque in the opposite direction can remove energy."
+PH214,Work is the same regardless of the angle,"Does not consider that work varies with the angle of torque application, just as in linear work with force direction."
+PH215,Only complete rotations produce work,"Believes that torque must result in full revolutions to count as work, ignoring continuous accumulation of energy over small angular displacements."
+PH216,Rotational work is not energy,"Fails to recognize that work done by torque changes rotational kinetic energy, just as linear work affects translational energy."
+PH217,Area under a torque graph means nothing,"Overlooks that the area under a torque vs. angle graph equals work done, paralleling force vs. displacement graphs."
+PH218,Angular momentum is always conserved,Fails to consider the need for zero net external torque; assumes conservation without checking system conditions.
+PH219,Angular momentum depends only on spin,Ignores contributions from linear motion when calculating angular momentum about a point not on the object.
+PH220,Only rotating objects have angular momentum,Overlooks that any object with linear velocity and an offset from a reference point can have angular momentum.
+PH221,Angular impulse equals torque alone,"Doesn’t recognize angular impulse depends on torque and duration, not torque alone."
+PH222,Angular momentum is a scalar,Misunderstands that angular momentum has direction and follows vector rules like linear momentum.
+PH223,All angular momentum equations are interchangeable,Uses formulas for rotating rigid bodies in situations where linear/angular motion must be combined differently.
+PH224,More torque means more angular momentum instantly,"Fails to consider that angular momentum change depends on both torque and time (impulse), not instantaneous torque alone."
+PH225,Angular momentum is always constant,"Assumes angular momentum can’t change, ignoring the role of net external torque on a system."
+PH226,Angular momentum can’t exist without rotation,Fails to understand that linear motion can contribute to angular momentum when measured about a point not on the object's path.
+PH227,Objects must be connected to exchange angular momentum,"Believes interaction requires physical contact, not realizing torque can arise through forces at a distance."
+PH228,Angular momentum changes require changes in speed only,"Ignores that redistributing mass relative to axis (e.g., pulling in arms) can alter angular momentum or angular speed."
+PH229,External forces always change angular momentum,"Thinks any force changes angular momentum, not distinguishing between torque (causing rotation) and linear forces."
+PH230,Only rigid bodies conserve angular momentum,Doesn’t recognize that non-rigid systems can still obey conservation laws when no external torque acts.
+PH231,Moment of inertia is constant for all rotations,"Assumes moment of inertia doesn’t change with shape or mass distribution, even during deformation or reconfiguration."
+PH232,Rolling objects slide by default,"Assumes that rolling motion includes slipping unless friction is explicitly mentioned, ignoring 'rolling without slipping' conditions."
+PH233,Friction always slows down rolling,Fails to realize that static friction is necessary for rolling without slipping and may not reduce speed.
+PH234,Translational and rotational energy are the same,"Confuses or merges the two forms of kinetic energy in rolling systems, failing to distinguish between them."
+PH235,Friction dissipates energy in all rolling cases,"Believes any friction results in energy loss, not recognizing that static friction in ideal rolling does no work."
+PH236,Only rotation matters in rolling motion,"Ignores the translational motion of the center of mass in rolling systems, focusing only on the spin."
+PH237,No friction means rolling still occurs,"Assumes rolling without slipping is possible on frictionless surfaces, overlooking the role of static friction."
+PH238,Rolling speed is the same for all shapes,Thinks all objects roll down a ramp at the same rate regardless of mass distribution and moment of inertia.
+PH239,Satellites stay in orbit because there is no gravity,"Assumes gravity is absent in orbit, not realizing it is exactly gravity that provides the centripetal force to maintain the orbit."
+PH240,Orbits require constant engine thrust,"Thinks satellites must continuously fire engines to stay in orbit, rather than coasting under the influence of gravity alone."
+PH241,Satellites are weightless because gravity is zero,"Confuses 'apparent weightlessness' with lack of gravity, ignoring that satellites are in free fall."
+PH242,Circular orbits are the only kind of orbit,Fails to recognize that elliptical orbits are more common and governed by the same conservation principles.
+PH243,Higher orbits are always faster,Does not understand that orbital speed decreases with increasing altitude due to weaker gravitational pull.
+PH244,Gravitational potential energy is zero at Earth’s surface,"Ignores that potential energy is defined relative to infinity in orbital systems, not Earth’s surface."
+PH245,The satellite’s energy changes in circular orbit,"Thinks energy fluctuates during circular orbit, not realizing that both kinetic and potential energy remain constant unless acted upon."

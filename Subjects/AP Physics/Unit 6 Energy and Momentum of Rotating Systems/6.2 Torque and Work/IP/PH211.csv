@@ -1,0 +1,11 @@
+Question,Choice A,Choice B,Choice C,Choice D,Correct Answer,Explanation
+How is rotational work calculated?,W = τ·θ,W = I·ω²,W = F·d,W = τ·α,A,Rotational work is the product of torque and angular displacement: W = τ·θ.
+What must happen for torque to do work?,Torque must be very large,Angular acceleration must occur,There must be force,There must be angular displacement,D,Work is only done when torque causes angular displacement: W = τ·θ.
+What is the rotational analog to W = F·d?,W = τ·θ,W = I·α,W = m·g·h,W = L·ω,A,"Just like force over distance does work linearly, torque over angle does work rotationally."
+A student says torque and work are unrelated. What's the correction?,They are both energies,They both involve rotation,Work is done by torque through angular displacement,Torque creates potential energy,C,Torque does work when it causes rotation: W = τ·θ.
+"If an object rotates with constant torque, what increases?",Its mass,Its moment of inertia,Its torque,Its angular displacement,D,"Under constant torque, θ increases with time, so rotational work accumulates."
+Why might torque not result in work?,If torque is too small,If θ = 0,If inertia is large,If ω is low,B,"If there is no angular displacement (θ = 0), no work is done even if torque is applied."
+Which expression is correct for rotational work?,W = τ·ω,W = m·a·d,W = τ·θ,W = ½·I·ω²,C,Work done by torque is τ·θ — the rotational equivalent of force·distance.
+What is the SI unit of rotational work?,N,rad,Joule,N·m,C,"Rotational work is still work — its SI unit is the joule, like linear work."
+Which scenario represents torque doing positive work?,A torque causes counterclockwise motion,A torque causes no rotation,The object is held fixed,Angular velocity is zero,A,"When torque and angular displacement are in the same direction, positive work is done."
+Which statement best links torque and energy?,Torque stores energy,Torque transforms to work with angle,Torque only resists motion,Torque is unrelated to energy,B,Torque does work through angular displacement — it directly transfers energy rotationally.

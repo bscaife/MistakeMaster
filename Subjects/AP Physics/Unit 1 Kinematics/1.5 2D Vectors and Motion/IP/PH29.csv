@@ -1,0 +1,11 @@
+Question,Choice A,Choice B,Choice C,Choice D,Correct Answer,Explanation
+What is true about any 2D vector?,It has no direction,It cannot be analyzed,It can be split into perpendicular components,It cannot change,C,Vectors can always be broken into x and y components.
+Why do we break vectors into components?,To reduce velocity,To make motion stop,To analyze motion separately in each direction,To add mass,C,Decomposing vectors helps us treat motion along x and y axes independently.
+A projectile moves diagonally. What kind of motion is this?,Pure horizontal motion,2D motion with independent x and y components,Circular motion,Pure vertical motion,B,"Projectile motion is 2D: x = constant velocity, y = accelerated motion."
+Which equation relates vector components?,v = vₓ + vᵧ,v = vₓ − vᵧ,v = vᵧ / vₓ,v = √(vₓ² + vᵧ²),D,Pythagorean theorem is used to combine perpendicular components.
+What is true about x and y motions for projectiles?,They must cancel,They must be equal,They only apply when falling,They are independent,D,x and y components evolve independently under different rules.
+Can vectors be added by components?,Only with friction,"Yes, add x and y separately","No, they must be multiplied",Only in 1D,B,Component-wise addition gives the total vector.
+Breaking a vector into parts means:,Slowing it down,Splitting into x and y directions,Removing direction,Shortening it,B,Component analysis splits vectors into directional parts.
+A 10 m/s vector points 37° above horizontal. What is vₓ?,0 m/s,10 m/s,6 m/s,8 m/s,D,vₓ = v·cos(37°) = 10·0.8 = 8 m/s.
+A 5 m/s vector points vertically. What is vₓ?,5 m/s,1 m/s,2.5 m/s,0 m/s,D,All motion is vertical → horizontal component is zero.
+"If vₓ = 6 m/s, vᵧ = 8 m/s, total velocity?",14 m/s,7 m/s,48 m/s,10 m/s,D,v = √(6² + 8²) = √100 = 10 m/s.

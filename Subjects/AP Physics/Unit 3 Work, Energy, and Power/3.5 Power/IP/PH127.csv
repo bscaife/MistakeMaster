@@ -1,0 +1,11 @@
+Question,Choice A,Choice B,Choice C,Choice D,Correct Answer,Explanation
+Which formula best defines power in mechanics?,P = m·a,P = F·v,P = m·g,P = F·t,B,Mechanical power is P = F·v — it depends on both applied force and velocity.
+Two people push boxes with equal force. One finishes in half the time. Who delivers more power?,Both deliver same power.,The slower one.,The faster one.,Neither — power isn't related to time.,C,P = W/t — same work done faster means greater power.
+A student says larger force always means more power. What’s the error?,Power is unrelated to force.,Power depends only on mass.,Power depends on both force and speed.,Force must always be vertical.,C,P = F·v — larger force doesn’t mean more power unless speed is also considered.
+Which would result in higher power output?,Lifting a box slowly with large force.,Holding a box still.,Lifting same box quickly.,Using more friction.,C,P = W/t — shorter time (faster lift) means greater power for same work.
+A person applies a constant force but object doesn’t move. What is the power?,Equal to applied force.,Infinite.,"Zero, since no work is done.",Equal to object's weight.,C,"P = W/t — if object doesn’t move, W = 0, so P = 0."
+Which situation shows high force but low power?,Pulling a sled quickly.,Holding a heavy box still.,Running upstairs.,Pushing a cart fast.,B,"No displacement = no work = no power, even if large force is applied."
+Which of the following is a correct unit for power?,N·m,Joule,Watt,m/s²,C,"Power is measured in watts (W), where 1 W = 1 J/s."
+What would double the power output?,Doubling time.,Doing same work in half the time.,Increasing force but decreasing velocity.,Halving both force and speed.,B,P = W/t — less time for same work increases power.
+"If a machine exerts constant force while doubling speed, what happens to power?",It remains constant.,It decreases.,It doubles.,It becomes zero.,C,P = F·v — doubling v doubles power if F is constant.
+Why is a fast-moving cyclist more powerful than a slow walker even if they push with same force?,Force determines everything.,Mass is greater.,Power depends on both force and velocity.,Power is constant regardless of speed.,C,P = F·v — higher velocity leads to greater power output with same force.

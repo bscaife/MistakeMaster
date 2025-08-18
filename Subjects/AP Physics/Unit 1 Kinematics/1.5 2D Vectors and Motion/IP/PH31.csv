@@ -1,0 +1,11 @@
+Question,Choice A,Choice B,Choice C,Choice D,Correct Answer,Explanation
+What causes vertical acceleration in projectile motion?,Air resistance,Gravity,Initial angle,Horizontal velocity,B,Gravity causes constant downward acceleration of 9.8 m/s².
+What is horizontal acceleration in ideal projectile motion?,Zero,Equal to vertical acceleration,9.8 m/s²,Constant and nonzero,A,"In ideal conditions (no air resistance), horizontal acceleration = 0."
+Why does horizontal velocity remain constant in projectile motion?,Speed is negative,It has zero vertical speed,Gravity pulls sideways,No horizontal forces act,D,"With no horizontal forces, velocity in x-direction is constant."
+Which direction does gravity act?,Vertically downward,At an angle,Horizontally right,Upward,A,Gravity always points downward toward Earth’s surface.
+"If a projectile has constant vₓ and changing vᵧ, what does this mean?",Air pushes it sideways,It has no net force,It speeds up horizontally,Only vertical acceleration exists,D,Gravity changes vᵧ but vₓ remains constant in ideal projectile motion.
+What does a curved path in projectile motion show?,Vertical acceleration with constant horizontal speed,Changing x-speed,Mass-dependent velocity,Frictional slowing,A,The parabolic path comes from constant vₓ and accelerating vᵧ.
+How does the x-component of velocity change in ideal projectile motion?,It accelerates,It reverses halfway,It decelerates,It doesn’t change,D,Horizontal velocity stays constant in the absence of horizontal forces.
+Object launched horizontally at 10 m/s. What is aₓ?,10 m/s²,5 m/s²,9.8 m/s²,0 m/s²,D,No force in x-direction = aₓ = 0.
+Projectile travels 5 m horizontally in 0.5 s. What is vₓ?,0 m/s,9.8 m/s,5 m/s,10 m/s,D,vₓ = d / t = 5 / 0.5 = 10 m/s (constant).
+"If a projectile has aₓ = 0 and aᵧ = −9.8 m/s², what happens to vₓ?",It increases,It reverses,It becomes zero,It stays constant,D,aₓ = 0 → vₓ is constant.

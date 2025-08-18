@@ -1,0 +1,11 @@
+Question,Choice A,Choice B,Choice C,Choice D,Correct Answer,Explanation
+What determines the total mass of a system?,The sum of all parts,Just the heaviest part,Its center,Only moving objects,A,System mass is the total of all individual masses included.
+Center of mass of a system depends on:,The shape,Only internal forces,The outermost object,Mass and position of all components,D,COM is the mass-weighted average position of all parts.
+"If one mass in a system moves, what happens to the system’s center of mass?",It always stays still,It can shift,It resets to zero,It depends on friction,B,Moving parts may shift the COM of the system.
+System acceleration is based on:,Internal gravity,One object only,Total external force and total mass,Lightest part,C,a₍sys₎ = F₍ext₎ / m₍total₎.
+A system’s momentum is the:,Velocity of largest object,Force on center,Sum of momenta of all parts,Mass × height,C,Total momentum = ∑(m·v) for each part.
+Can removing a mass change the COM?,Only with rotation,No,Only if at rest,Yes,D,COM depends on which masses are included.
+Which affects a system’s total kinetic energy?,Only COM,Only gravity,Only tension,Mass and speed of each part,D,Kinetic energy is calculated from each part’s mass and motion.
+Mass A = 2 kg at 0 m. Mass B = 6 kg at 3 m. COM?,2.25 m,3 m,0.75 m,1.5 m,A,x₍cm₎ = (2·0 + 6·3)/(2+6) = 18/8 = 2.25 m.
+Two blocks move right at 2 m/s and 4 m/s. Masses: 1 kg and 3 kg. p₍sys₎?,5 kg·m/s,6 kg·m/s,8 kg·m/s,14 kg·m/s,D,p = 1·2 + 3·4 = 2 + 12 = 14 kg·m/s.
+Force = 20 N applied to 4 kg system. a₍sys₎?,4 m/s²,2 m/s²,10 m/s²,5 m/s²,D,a = F / m = 20 / 4 = 5 m/s².

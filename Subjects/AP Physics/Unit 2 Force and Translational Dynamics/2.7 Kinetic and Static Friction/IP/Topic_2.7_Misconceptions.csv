@@ -1,0 +1,8 @@
+Code,Misconception,Explanation
+PH78,Friction always opposes motion,"Assumes friction only resists movement rather than understanding that static friction can also enable motion (e.g., walking or rolling)."
+PH79,Kinetic friction is stronger than static friction,Confuses the general rule; doesn't realize that static friction has a higher maximum value than kinetic friction.
+PH80,Friction depends on surface area,"Believes that a larger contact area increases friction, ignoring that friction depends on the normal force and material properties, not area."
+PH81,Normal force always equals weight,"Incorrectly assumes normal force must always balance weight, even on ramps or in elevators."
+PH82,Friction is constant regardless of force,Overlooks that static friction adjusts up to a maximum value based on applied force before motion starts.
+PH83,Friction is the same for all directions,"Fails to account for directional dependence and surface orientation (e.g., uphill vs. downhill frictional effects)."
+PH84,Friction is a separate force from the surface,"Treats friction as external or independent from the interacting surfaces, rather than arising from microscopic interactions between them."

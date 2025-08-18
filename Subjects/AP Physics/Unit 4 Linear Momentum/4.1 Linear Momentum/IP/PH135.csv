@@ -1,0 +1,11 @@
+Question,Choice A,Choice B,Choice C,Choice D,Correct Answer,Explanation
+Which equation shows that an object must be moving to have momentum?,p = m·v,F = m·a,v = d/t,p = F·t,A,"Momentum depends on mass and velocity. Without motion (v = 0), momentum is zero."
+Why does a parked truck have no momentum?,Because it isn’t accelerating,Because its energy is low,Because it has mass but zero velocity,Because its force is small,C,"Momentum = m·v. Even with large mass, zero velocity means zero momentum."
+An object is barely moving but has mass. What is true about its momentum?,It has none because it’s not fast,It has momentum because v ≠ 0,Only energy exists at low speeds,Momentum is negative at low speed,B,Any object with mass and nonzero velocity has momentum.
+Why does velocity matter when calculating momentum?,Because momentum is unrelated to mass,Because v determines direction and magnitude of momentum,Because fast objects always accelerate,Because heavier objects move slower,B,Momentum is a vector that depends on both speed and direction via velocity.
+Which condition results in zero momentum?,Large mass and small velocity,Small mass and high velocity,Zero mass and zero velocity,Any mass with zero velocity,D,"Momentum = m·v. If v = 0, momentum is zero regardless of mass."
+A common mistake is saying 'still objects store momentum.' What is the correction?,Only energy is stored in resting objects,Momentum is stored as mass,Momentum only exists during motion,Momentum grows with time at rest,C,Momentum is not stored; it arises from motion. Resting objects have none.
+Why is momentum considered a property of moving objects only?,Because acceleration is always required,Because it depends on distance moved,Because mass doesn’t count,Because v must be nonzero,D,"Without velocity, momentum = 0 even for massive objects."
+A 0.1 kg ball moves at 10 m/s. What is its momentum?,0.1 N,1 kg·m/s,100 N,10 kg·m/s,B,Momentum = m·v = 0.1 × 10 = 1 kg·m/s.
+A 3 kg object is at rest. What is its momentum?,3 kg·m/s,0.3 N,0 kg·m/s,9 N,C,Momentum = m·v = 3 × 0 = 0.
+A 5 kg object moves at 2 m/s. Which change would make its momentum zero?,Increasing its mass,Decreasing its mass,Stopping the object,Doubling its speed,C,"Only setting v = 0 results in zero momentum, since p = m·v."

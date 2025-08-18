@@ -1,0 +1,11 @@
+Question,Correct Answer,Choice A,Correct? A,Code A,Choice B,Correct? B,Code B,Choice C,Correct? C,Code C,Choice D,Correct? D,Code D,Explanation
+Which expression relates torque and angular momentum change?,A,τ = ∆L / ∆t,TRUE,,τ = L · t,FALSE,PH232,τ = m · r²,FALSE,PH232,τ = I · ω,FALSE,PH233,Rate of angular momentum change equals torque
+If net torque on a system is zero— what happens to angular momentum?,C,It increases.,FALSE,PH232,It reverses.,FALSE,PH232,It remains constant.,TRUE,,It becomes zero.,FALSE,PH234,No net τ → L conserved
+A torque of 10 N·m acts for 0.5 s. What is the angular impulse?,D,5 N,FALSE,PH235,10 rad/s,FALSE,PH235,0.5 N·m,FALSE,PH235,5 N·m·s,TRUE,,Impulse = τ·t
+An object has L = 8 kg·m²/s and τ = 4 N·m. How long to stop it?,B,t = 2 s,TRUE,,t = 4 s,FALSE,PH234,t = 32 s,FALSE,PH235,t = 0.5 s,FALSE,PH234,τ = ∆L / ∆t → ∆t = ∆L / τ = 8 / 4 = 2 s
+A disk (I = 2 kg·m²) is spinning at 4 rad/s. What torque is needed to stop it in 2 s?,C,2 N·m,FALSE,PH234,1 N·m,FALSE,PH235,4 N·m,TRUE,,τ = I·ω,FALSE,PH234,∆L = 8 → τ = ∆L / t
+Which of the following best represents conservation of angular momentum?,D,τ = m · a,FALSE,PH233,F = ∆p / ∆t,FALSE,PH233,W = ∆KE,FALSE,PH233,I₁·ω₁ = I₂·ω₂,TRUE,,No external torque → L constant
+A student says torque always changes angular speed. What's wrong?,A,Torque changes angular acceleration— not necessarily speed instantly.,TRUE,,Torque = mass times velocity.,FALSE,PH236,Angular speed is independent.,FALSE,PH236,Torque and velocity are inverses.,FALSE,PH236,Torque creates α → change in ω over time— not instant effect
+What must increase for greater change in L given constant mass?,B,Inertia,FALSE,PH237,Radius or velocity,TRUE,,Angular impulse,FALSE,PH238,External force,FALSE,PH236,L = m·r·v → increase r or v
+An object has constant angular momentum. What can be said of net torque?,C,It increases.,FALSE,PH232,It reverses.,FALSE,PH232,It is zero.,TRUE,,It is negative.,FALSE,PH234,∆L = 0 → τ = 0
+If angular momentum changes quickly— what does this imply about torque?,D,Torque is zero.,FALSE,PH232,Angular acceleration is zero.,FALSE,PH233,Moment of inertia is constant.,FALSE,PH237,Torque is large.,TRUE,,∆L / ∆t = τ → fast change means big τ

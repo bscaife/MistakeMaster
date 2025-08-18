@@ -1,0 +1,11 @@
+Question,Choice A,Choice B,Choice C,Choice D,Correct Answer,Explanation
+What determines time in air for a projectile?,Horizontal range,Vertical motion only,Total acceleration,Launch speed,B,Time in air is based on vertical displacement and gravity.
+Why doesn’t a longer horizontal distance mean more airtime?,Because horizontal and vertical motions are independent,Because velocity is scalar,Because range is constant,Because gravity acts horizontally,A,"Time depends on vertical motion alone, not how far it travels horizontally."
+What happens to airtime if vertical height stays the same but vₓ increases?,Airtime decreases,Motion becomes circular,Airtime stays the same,Airtime increases,C,Horizontal velocity does not affect vertical time.
+Which quantity has no effect on time in air?,Vertical velocity,Horizontal speed,Gravity,Initial height,B,Only vertical motion affects airtime.
+A projectile launched higher will:,Have longer horizontal speed,Have more mass,Move faster in x,Stay in air longer,D,More vertical height → longer fall time.
+"If two projectiles land at same height, what affects their time?",Total distance,Initial vertical velocity,Object’s mass,Horizontal velocity,B,Time to fall depends on vertical motion.
+Why can two projectiles have same airtime but different ranges?,Different vₓ values,Different masses,Same launch angle,Same direction,A,"Horizontal speed affects range, not airtime."
+"Two projectiles fall from 10 m, one at 5 m/s, one at 10 m/s. Same airtime?",The faster one stays longer,The slower one lands earlier,No,Yes,D,"Time to fall from a height depends only on y-motion, not speed in x."
+Object launched horizontally at 8 m/s and falls in 1.5 s. Range?,12 m,9.8 m,8 m,1.5 m,A,Range = vₓ·t = 8 × 1.5 = 12 m.
+Which travels farther in x if time is the same?,One with smaller vᵧ,They all match,One with bigger angle,One with larger vₓ,D,"Greater horizontal speed = greater range, even if time is the same."

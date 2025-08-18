@@ -1,0 +1,11 @@
+Question,Choice A,Choice B,Choice C,Choice D,Correct Answer,Explanation
+Can angular momentum be conserved in non-rigid systems?,"No, only rigid bodies qualify","Yes, if no external torque acts",Only if mass is fixed,Only if spin is constant,B,"Angular momentum is conserved in any system, rigid or not, if net external torque is zero."
+Which system can conserve angular momentum?,A fan hitting a wall,A flexing gymnast on a bar,A car accelerating,Two ice skaters pulling together,B,Internal motion doesn’t violate conservation as long as no net external torque acts.
+A spinning star collapses inward. Why does it spin faster?,It gains mass,External force acts,"Moment of inertia decreases, conserving angular momentum",It’s rigid,C,No external torque — L = I·ω conserved. Smaller I → greater ω.
+What causes conservation to fail?,A system changing shape,A force acting at the center,A mass rotating,An external torque,D,Only external torque causes angular momentum to change — internal changes don’t.
+Why does a gymnast spin faster when pulling legs in?,Inertia increases,Angular velocity stays constant,It rotates in the air,Inertia decreases and L is conserved,D,Internal changes to I alter ω while conserving L = I·ω.
+Which variable remains constant without external torque?,Angular momentum,Inertia,Kinetic energy,Angular acceleration,A,"L = I·ω stays constant if net torque is zero, regardless of whether body is rigid."
+What makes angular momentum conservation apply?,Rotation only,Mass increase,Symmetry,No net torque,D,Zero net external torque is the only requirement for conservation of angular momentum.
+Which of these must be true for L to remain constant?,Mass doesn’t change,There is no external torque,The object is in orbit,It’s a solid object,B,No external torque → conservation applies even to flexible or deformable systems.
+Which statement best explains internal motion and angular momentum?,Internal motion doesn’t affect total L,Internal changes cancel L,Spin must be constant,Internal torque increases speed,A,Internal rearrangements redistribute I and ω but total L remains constant.
+Why is conservation possible for non-rigid bodies?,They spin faster,They have torque inside,External torque is absent,They change shape easily,C,Internal motion doesn't matter if net external torque is zero — L is conserved.

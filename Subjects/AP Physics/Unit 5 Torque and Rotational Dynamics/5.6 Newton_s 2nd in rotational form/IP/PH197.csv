@@ -1,0 +1,11 @@
+Question,Choice A,Choice B,Choice C,Choice D,Correct Answer,Explanation
+What is the correct equation relating torque and angular acceleration?,τ = m·a,α = m·r,F = I·α,τ = I·α,D,"The correct relationship is τ = I·α, Newton’s second law for rotation."
+"If torque increases but I stays the same, what happens to angular acceleration?",It decreases,It increases,It stays the same,It becomes undefined,B,"From τ = I·α, if I is constant, then α increases as τ increases."
+What must happen to produce angular acceleration?,The object must be spinning,Net torque must be nonzero,Torque must match velocity,Friction must increase,B,Angular acceleration occurs when there is a nonzero net torque: τ = I·α.
+What happens if torque is zero but an object is already spinning?,It speeds up,It slows down,It reverses direction,It keeps rotating at constant rate,D,"With τ = 0, angular acceleration α = 0, so the object continues rotating at constant angular velocity."
+What causes an object to rotate faster?,Increasing gravity,Increasing mass,Reducing angular velocity,Increasing torque or lowering I,D,"According to τ = I·α, α increases when τ increases or I decreases."
+Why does a heavier flywheel accelerate more slowly than a lighter one under the same torque?,Greater I leads to lower α,Lighter ones have lower torque,Heavier ones spin faster,Friction is higher,A,A larger moment of inertia (I) causes lower angular acceleration for the same torque: α = τ/I.
+Which scenario shows correct use of τ = I·α?,"Torque is applied, causing angular acceleration",An object speeds up because mass increases,Torque is irrelevant to spinning,Angular acceleration changes I,A,Applying torque leads to angular acceleration via τ = I·α.
+An object’s angular acceleration doubles when torque is doubled. What stayed the same?,Angular velocity,Moment of inertia,Torque,Mass,B,α ∝ τ if I is constant: τ = I·α → doubling τ doubles α if I stays constant.
+What is the rotational equivalent of F = ma?,v = r·ω,p = mv,τ = I·α,F = m·g,C,The rotational analog to F = ma is τ = I·α.
+Which factor does not affect torque?,Force,Angle of force,Moment of inertia,Distance from axis,C,"Torque depends on force and lever arm, not on moment of inertia directly: τ = r·F·sin(θ)."

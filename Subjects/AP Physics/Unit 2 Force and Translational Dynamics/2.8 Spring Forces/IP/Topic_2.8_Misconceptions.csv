@@ -1,0 +1,8 @@
+Code,Misconception,Explanation
+PH85,Springs always exert upward force,"Assumes springs always push up, not recognizing they can pull or push depending on how they're stretched or compressed."
+PH86,Springs exert constant force,"Thinks spring force is constant regardless of stretch, ignoring that force depends on displacement from equilibrium (Hooke’s Law)."
+PH87,Spring force depends on mass,Believes that heavier objects result in stronger springs regardless of how much the spring is stretched.
+PH88,The relaxed length is arbitrary,Does not understand that spring force depends on how far the spring is stretched from its natural (relaxed) length.
+PH89,Compressed springs store no energy,"Thinks springs must be stretched to do work or store energy, not realizing compression also stores potential energy."
+PH90,The spring force is always vertical,"Assumes spring force acts only up/down like gravity, ignoring that it acts along the axis of the spring."
+PH91,The direction of spring force is the same as motion,"Mistakes the direction of spring force as always aligned with motion, rather than toward the equilibrium position."

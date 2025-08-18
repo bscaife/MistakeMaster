@@ -1,0 +1,29 @@
+Code,Misconception,Explanation
+PH134,Momentum and force are the same thing,"Confuses momentum (𝑝 = 𝑚·𝑣) with force (𝐹 = 𝑚·𝑎), assuming both represent “push” or “impact.”"
+PH135,Only moving objects have momentum,"Believes momentum is tied to motion being visible, ignoring that velocity is needed but may be subtle."
+PH136,Momentum is not a vector,"Thinks momentum is a scalar quantity, ignoring directionality of velocity in 𝑝 = 𝑚·𝑣."
+PH137,Mass determines momentum alone,Ignores velocity; assumes heavier things always have more momentum regardless of speed.
+PH138,Momentum is always conserved,Doesn’t recognize that momentum conservation only applies in isolated systems without net external forces.
+PH139,All objects in a system get equal momentum,"Assumes momentum is divided evenly regardless of mass differences (e.g., in explosions)."
+PH140,Impulse and momentum are unrelated,Doesn’t understand that impulse (𝐹·𝑡) is the cause of a change in momentum (Δ𝑝 = 𝐽).
+PH141,Impulse is a force,"Confuses impulse with force itself, rather than understanding it as force applied over a time interval."
+PH142,Longer contact time always means greater force,"Fails to distinguish that impulse depends on the product of force and time, not time alone."
+PH143,Impulse only occurs during collisions,"Thinks impulse applies only in collision events, missing that it occurs whenever a net force acts over time."
+PH144,Impulse and momentum are unrelated,"Overlooks the impulse–momentum theorem, which directly connects impulse to change in momentum."
+PH145,Impulse depends on path or distance,"Mistakes impulse for work, believing that the path length affects impulse."
+PH146,Impulse can be measured from acceleration graphs,"Attempts to use a vs. t graphs instead of F vs. t graphs to calculate impulse, not recognizing proper graph-based representations."
+PH147,Direction of impulse is arbitrary,Does not recognize that impulse has direction and must align with the direction of net force.
+PH148,Momentum is only conserved when velocity is constant,"Mistakes momentum conservation for constant motion, not recognizing it depends on the absence of net external force."
+PH149,Momentum of the system equals the sum of speeds,"Adds scalar speeds rather than vector momenta, ignoring both mass and direction in system momentum calculations."
+PH150,Momentum is not conserved if objects move in different directions,Fails to account for vector nature of momentum and its conservation in multiple dimensions.
+PH151,Momentum is always zero before and after explosion,"Thinks internal explosions must cancel all motion, forgetting total momentum is conserved and may be nonzero."
+PH152,Momentum conservation requires equal mass,Mistakenly believes systems must contain equal-mass objects for momentum to be conserved.
+PH153,System momentum equals momentum of the largest object,"Assumes dominant objects determine total system momentum, ignoring contributions from all masses."
+PH154,Momentum conservation requires energy conservation,Fails to distinguish that momentum is conserved even in inelastic collisions where kinetic energy is lost.
+PH155,Elastic collisions mean objects don’t touch,"Assumes that elastic collisions happen without contact, not realizing that elastic refers to energy conservation, not physical separation."
+PH156,Kinetic energy is always conserved in a collision,"Fails to recognize that kinetic energy is only conserved in elastic collisions, not in inelastic or perfectly inelastic ones."
+PH157,"If objects stick together, momentum is not conserved","Believes that momentum conservation only applies when objects bounce apart, not understanding it also holds for perfectly inelastic collisions."
+PH158,Inelastic collisions break Newton’s third law,"Thinks that unequal outcomes in velocity imply unequal forces, ignoring that third law forces act equally during contact."
+PH159,Sticking together means total energy is lost,"Confuses energy transformation with energy loss, not realizing that energy becomes thermal or sound, but isn’t destroyed."
+PH160,Elastic means same final speeds as initial,"Assumes that in elastic collisions, each object keeps its speed, missing that direction and mass affect final velocities."
+PH161,Kinetic energy is always shared equally,"Thinks all objects in a collision must end with equal kinetic energy, ignoring differences in mass and speed."

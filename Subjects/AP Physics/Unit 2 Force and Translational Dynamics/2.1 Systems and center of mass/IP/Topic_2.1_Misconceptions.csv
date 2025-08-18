@@ -1,0 +1,8 @@
+Code,Misconception,Explanation
+PH36,The system is just one object,Thinks a 'system' must be a single object rather than a group of interacting objects modeled together.
+PH37,System behavior is the same as any part,"Assumes every part of a system behaves identically to the whole, ignoring internal variation or interactions."
+PH38,Center of mass is always inside an object,Does not realize that the center of mass can lie outside the physical material of an object or system.
+PH39,All systems must have a visible center,Thinks systems without symmetry cannot have a center of mass or that it must be marked physically.
+PH40,Changing one object changes the system,Fails to recognize that only external forces or interactions can alter a system’s momentum or motion as a whole.
+PH41,System properties don’t depend on parts,"Ignores that the total mass, position, and behavior of a system are derived from its components."
+PH42,Internal forces can change system motion,"Believes that forces between parts of a system (e.g., pushing or pulling) can change its center-of-mass motion."

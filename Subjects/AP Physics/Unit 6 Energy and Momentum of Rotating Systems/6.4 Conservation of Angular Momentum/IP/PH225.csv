@@ -1,0 +1,11 @@
+Question,Choice A,Choice B,Choice C,Choice D,Correct Answer,Explanation
+When is angular momentum constant?,Always,When torque is applied,Only when ω is constant,When there’s no net external torque,D,Angular momentum is conserved only when no external torque acts on the system.
+Which condition breaks conservation of angular momentum?,Rotation,Constant ω,External torque,Symmetry,C,An external torque acting on the system causes angular momentum to change.
+A spinning skater slows due to friction. What changes?,Angular momentum,Time,Mass,Kinetic energy only,A,The external torque from friction reduces angular momentum.
+Which system will conserve angular momentum?,A planet orbiting without drag,A spinning top on a rough surface,A bicycle braking,A fan in water,A,"With no external torques like drag or friction, angular momentum is conserved."
+What causes angular momentum to change?,Mass increase,Time passing,Constant radius,External torque,D,Only external torque causes a change in angular momentum.
+A student says angular momentum never changes. What’s the fix?,That’s true if time is constant,It changes when net torque acts,It only changes with mass,It changes when I increases,B,Net external torque leads to angular momentum change.
+Which equation helps predict angular momentum changes?,W = τ·θ,L = m·v,τ = I·α,F = m·a,C,"τ = I·α implies that net torque leads to angular acceleration, changing angular momentum."
+What does an unbalanced torque do?,Maintains energy,Stops inertia,Changes angular momentum,Changes height,C,An unbalanced torque results in a change in rotational motion and angular momentum.
+Why does a rolling ball slow down over time?,Because net torque from friction slows it,Because mass increases,Because angular momentum is constant,Because inertia grows,A,Friction is an external torque that reduces angular momentum.
+Which system shows angular momentum decreasing?,A skater pulling in arms,A satellite in space,A balanced seesaw,A fan spinning in air,D,"Air resistance applies an external torque, reducing angular momentum."

@@ -1,0 +1,8 @@
+Code,Misconception,Explanation
+PH1,Scalars and vectors are interchangeable,"Confuses directionless quantities like speed with directional ones like velocity, not recognizing that vectors require both magnitude and direction."
+PH2,Vectors must always be shown with arrows,"Believes vector quantities are only vectors if physically represented by arrows, rather than recognizing it's the mathematical properties that define them."
+PH3,Negative numbers always mean slowing down,"Interprets negative velocity or acceleration as implying a reduction in speed, ignoring that the sign simply indicates direction in 1D motion."
+PH4,Distance and displacement are always equal,"Fails to recognize that distance is the total path length (scalar), while displacement is a net change in position (vector) that can be zero even with motion."
+PH5,Speed and velocity mean the same thing,"Equates the scalar (speed) with the vector (velocity), overlooking the directional component that defines velocity."
+PH6,Adding vectors is the same as adding numbers,"Ignores direction when combining vectors, especially in 1D problems involving opposite directions, leading to incorrect net quantities."
+PH7,All motion must be in the positive direction,"Assumes negative motion isn't real or possible, misunderstanding that directionality is relative and depends on chosen coordinate system."

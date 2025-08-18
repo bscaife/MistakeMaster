@@ -1,0 +1,11 @@
+Question,Choice A,Choice B,Choice C,Choice D,Correct Answer,Explanation
+"In uniform circular motion, what is the direction of velocity?",Zero,Away from the center,Tangent to the circular path,Toward the center,C,Velocity in circular motion is always tangent to the circle at any point.
+What is the direction of acceleration in uniform circular motion?,Tangential to the path,Same as velocity,Toward the center of the circle,Away from the center,C,Centripetal acceleration is directed inward toward the center of the circular path.
+Why is it incorrect to say velocity and acceleration point in the same direction during circular motion?,Because mass cancels acceleration,Because acceleration is vertical,Because velocity is tangential and acceleration is radial (inward),Because velocity is zero,C,These vectors are perpendicular — velocity changes direction while speed stays constant.
+What is the relationship between acceleration and velocity in circular motion?,They are equal,They are perpendicular to each other,They are in the same direction,They are opposite,B,Centripetal acceleration is inward; velocity is tangent → 90° apart.
+How does velocity change in uniform circular motion?,It decreases uniformly,It stays zero,It increases constantly,"Only its direction changes, not its magnitude",D,"Speed is constant, but the changing direction results in acceleration."
+When is acceleration parallel to velocity?,Only in linear motion with changing speed,In rotational inertia,In circular motion,In freefall,A,"In circular motion, they’re not aligned — parallel acceleration changes speed."
+Which best describes uniform circular motion?,Velocity is radial,Both point inward,Both point outward,"Velocity is tangential, acceleration is radial inward",D,This is the defining feature of uniform circular motion.
+"Object in circle: v = 10 m/s, r = 5 m. What is acceleration direction?",Away from center,None,Same as velocity,Toward center,D,"a = v²/r, and always directed toward the center."
+"Circular motion: speed = 8 m/s, r = 2 m. Acceleration magnitude?",32 m/s²,16 m/s²,4 m/s²,8 m/s²,A,a = v²/r = 64/2 = 32 m/s² (inward).
+Which direction is instantaneous velocity for a point at the top of a circular path?,Horizontal,Inward,Vertical,Outward,A,"Velocity is tangent to path — at the top, it's horizontal."

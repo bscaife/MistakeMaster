@@ -1,0 +1,11 @@
+Question,Choice A,Choice B,Choice C,Choice D,Correct Answer,Explanation
+Can an object have kinetic energy if its center of mass isn’t moving?,"Yes, if it is spinning","No, kinetic energy requires motion",Only if it’s falling,Only if it's accelerating linearly,A,An object can have rotational kinetic energy (½·I·ω²) even if its center of mass is at rest.
+A spinning disk sits on a stationary platform. Does it have kinetic energy?,No,"Yes, due to rotation",Only potential energy,It depends on friction,B,The disk has rotational kinetic energy even though its center of mass is stationary.
+Which formula represents rotational kinetic energy?,½·m·v²,I·ω,m·g·h,½·I·ω²,D,Rotational kinetic energy is calculated using ½·I·ω².
+Why does a stationary spinning object still have energy?,Because it has gravity,Because friction stores energy,Because it has rotational kinetic energy,Because it has mass,C,Energy exists due to rotation — KE = ½·I·ω² applies even when the object doesn’t translate.
+Which example shows energy with no center-of-mass motion?,Spinning top staying in place,Rolling tire,Orbiting satellite,Thrown ball,A,"The spinning top has energy from rotation, not translation."
+What does rotational kinetic energy depend on?,Mass only,Center of mass velocity,Gravitational potential,Rotational inertia and angular velocity,D,Rotational KE depends on I and ω — not linear motion.
+Which quantity must be nonzero for rotational energy to exist?,v,m,ω,height,C,Rotational kinetic energy requires nonzero angular velocity (ω).
+Why doesn’t an object need to move linearly to have energy?,Because energy isn’t real,Because force is zero,Because ω generates kinetic energy,Because m = 0,C,"Rotational energy comes from spin (ω), not linear speed."
+A wheel spins in place. What’s true?,It has no energy,It only has potential energy,It will slide,It has kinetic energy from rotation,D,"Rotational motion generates kinetic energy, even with no center of mass displacement."
+Which variable is not needed for rotational KE?,v,I,m,ω,A,Rotational KE = ½·I·ω². Linear velocity (v) is not part of the formula.

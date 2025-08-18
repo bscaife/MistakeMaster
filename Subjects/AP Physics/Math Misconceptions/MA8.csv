@@ -1,0 +1,21 @@
+Question,Choice A,Choice B,Choice C,Choice D,Correct Answer,Explanation
+Expand the expression KE = ½·m(v₀ + at)².,KE = ½·m(v₀² + at²),KE = ½·m(v₀² + 2at),KE = ½·m(v₀² + 2a²t²),KE = ½·m(v₀² + 2v₀at + a²t²),D,"Expand (v₀ + at)² as (v₀ + at)(v₀ + at) = v₀² + 2v₀at + a²t², then multiply by ½m."
+Factor the force expression F_total = kx + kΔx.,F_total = k(x + Δx),F_total = (k + x)Δx,F_total = k(x - Δx),F_total = k(x + kΔx),A,Factor out k: F_total = k(x + Δx).
+Factor the expression KEₜₒₜ = ½·I·ω₀² + ½·I·2ω₀Δω + ½·I·(Δω)².,KEₜₒₜ = I(ω₀ + Δω)²,KEₜₒₜ = ½·I(ω₀² + Δω²),KEₜₒₜ = ½·I(ω₀ + Δω)²,KEₜₒₜ = ½·I(ω₀ + Δω),C,Recognize perfect square trinomial and factor as (ω₀ + Δω)².
+Expand the displacement equation x = x₀ + v₀t + ½·a(t + t₀)².,x = x₀ + v₀t + ½·a(t + t₀²),x = x₀ + v₀t + ½·a(t² + 2tt₀ + t₀²),x = x₀ + v₀t + ½·a(2t² + t₀²),x = x₀ + v₀t + ½·a(t² + t₀²),B,"Expand (t + t₀)² as t² + 2tt₀ + t₀², then distribute ½a."
+Expand the rotational kinetic energy KEₜₒₜ = ½·I(ω₀ + αt)².,KEₜₒₜ = ½·I(ω₀ + αt²),KEₜₒₜ = ½·I(ω₀² + 2αt),KEₜₒₜ = ½·I(ω₀² + α²t²),KEₜₒₜ = ½·I(ω₀² + 2ω₀αt + α²t²),D,Expand (ω₀ + αt)² properly before multiplying by ½I.
+Expand the work expression W = (F₀ + ma)(x₀ + v₀t).,W = F₀x₀ + mav₀t,W = F₀x₀ + F₀v₀t + max₀ + mav₀t,W = (F₀ + ma)(x₀ + t),W = F₀x₀ + max₀ + v₀t,B,Use distribution: (F₀)(x₀) + (F₀)(v₀t) + (ma)(x₀) + (ma)(v₀t).
+Factor the net force F_net = m·a + m·Δa.,F_net = m(a - Δa),F_net = m·a + Δa,F_net = m(a + Δa),F_net = a(m + Δa),C,Factor out m: F_net = m(a + Δa).
+Expand the momentum expression p = m(v₀ + at).,p = m·v₀ + m·a·t,p = m·v₀ + a·t,p = m(v₀t + a),p = m(v₀ + a)·t,A,Distribute m over (v₀ + at): p = m·v₀ + m·a·t.
+Factor the gravitational potential energy U = -Gm₁m₂/r₀ + -Gm₁m₂/Δr.,U = Gm₁m₂(r₀ + Δr),U = -Gm₁m₂(r₀ + Δr),U = -Gm₁m₂(1/(r₀ + Δr)),U = -Gm₁m₂(1/r₀ + 1/Δr),D,Factor out -Gm₁m₂: U = -Gm₁m₂(1/r₀ + 1/Δr).
+Factor the net momentum p_net = m₁v + m₂v.,p_net = v(m₁ - m₂),p_net = (m₁ + m₂)/v,p_net = v(m₁ + m₂),p_net = m₁v - m₂v,C,Factor out v: p_net = v(m₁ + m₂).
+Factor the expanded kinetic energy expression KE = ½·m(v₀² + 2v₀at + a²t²).,KE = ½·m(v₀ + at)²,KE = ½·m(v₀ + at),KE = ½·m(v₀² + at²),KE = ½·m(v₀ + a²t²),A,Recognize perfect square trinomial: (v₀ + at)².
+Expand the force equation F = m(a₀ + Δa)².,F = m(a₀² + 2Δa),F = m(a₀² + Δa²),F = m(a₀ + Δa²),F = m(a₀² + 2a₀Δa + Δa²),D,"Expand (a₀ + Δa)² as a₀² + 2a₀Δa + Δa², then multiply by m."
+Expand the displacement expression Δx = v₀(t + Δt) + ½·a(t + Δt)².,Δx = v₀t + v₀Δt + ½·a(t² + 2tΔt + Δt²),Δx = v₀t + v₀Δt + ½·a(t² + Δt²),Δx = v₀t + Δt + ½·a(t + Δt)²,Δx = v₀(t + Δt) + ½·a(t + Δt),A,Distribute v₀ and expand (t + Δt)² correctly: t² + 2tΔt + Δt².
+Factor the displacement expression x = v₀t + ½at².,x = ½a(v₀ + t),x = t(v₀ + ½at),x = v₀t + a(t²/2),x = v₀(t + ½at),B,Factor out t: x = t(v₀ + ½at).
+Expand the kinetic energy for a particle with v = v₀ + Δv: KE = ½·m(v)².,KE = ½·m(v₀² + Δv²),KE = ½·m(v₀² + 2Δv),KE = ½·m(v₀² + 2v₀Δv + Δv²),KE = ½·m(v₀ + Δv²),C,Expand (v₀ + Δv)² properly as v₀² + 2v₀Δv + Δv² before applying ½m.
+Factor the torque expression τ = r·F + Δr·F.,τ = F(r - Δr),τ = r·F + Δr,τ = F(r + Δr),τ = r(F + Δr),C,Factor out F: τ = F(r + Δr).
+Expand the torque expression τ = (r₀ + Δr)(F₀ + ΔF).,τ = r₀F₀ + r₀ΔF + ΔrF₀ + ΔrΔF,τ = r₀F₀ + ΔFΔr,τ = r₀F₀ + ΔrΔF,τ = r₀F₀ + r₀ΔF + Δr,A,"FOIL the binomials: first, outer, inner, last."
+Factor the expression W = F·d + F·Δd.,W = F·d + Δd,W = F(d - Δd),W = F(d + Δd),W = d(F + Δd),C,Factor out F: W = F(d + Δd).
+Factor the expression Δx = v₀t + ½·a·t².,Δx = t(v₀ + a·t),Δx = t(v₀ + ½·a·t),Δx = (v₀t + ½a)t,Δx = v₀(t + ½·a),B,Factor out t: Δx = t(v₀ + ½·a·t).
+Expand the force expression F_net = (m₁ + m₂)(a₀ + Δa).,F_net = m₁a₀ + m₂a₀,F_net = m₁a₀ + m₂Δa,F_net = (m₁ + m₂)(a₀ + a),F_net = m₁a₀ + m₁Δa + m₂a₀ + m₂Δa,D,Distribute (m₁ + m₂) over (a₀ + Δa) carefully: each mass times each acceleration term.

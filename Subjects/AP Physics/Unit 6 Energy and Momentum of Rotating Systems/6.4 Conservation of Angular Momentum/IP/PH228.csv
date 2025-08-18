@@ -1,0 +1,11 @@
+Question,Choice A,Choice B,Choice C,Choice D,Correct Answer,Explanation
+What can change angular momentum in a closed system?,External torque,Energy loss,Speed change only,Mass redistribution relative to axis,D,"Redistributing mass changes moment of inertia (I), which alters angular momentum or speed."
+A skater pulls in their arms and spins faster. Why?,Mass increases,Torque increases,Moment of inertia decreases,Friction increases,C,"Pulling in mass decreases I; since L = I·ω is conserved, ω must increase."
+What happens to angular velocity if I increases and L is conserved?,It decreases,It stays the same,It increases,It becomes infinite,A,"If L is constant and I increases, ω must decrease: L = I·ω."
+What variable changes when a rotating body pulls mass closer to the axis?,Mass,Angular velocity,Friction,Torque,B,"Moment of inertia decreases, so angular velocity increases to conserve L."
+A student says angular momentum changes only from speed. What’s the fix?,Mass distribution also matters,Only energy affects it,Only mass matters,Speed doesn’t exist,A,"Changing how mass is arranged changes I, which affects angular momentum."
+Which expression defines angular momentum for rotation?,L = m·v·r,L = I·ω,L = F·d,L = τ·θ,B,Angular momentum for rotating bodies is L = I·ω.
+Which system shows angular momentum conservation through mass redistribution?,Biker braking,Rocket in vacuum,Car turning a corner,Ice skater spinning with arms in,D,Pulling arms in changes I — ω increases to conserve angular momentum.
+What does pulling mass toward the axis do?,Increases I,Keeps I the same,Decreases I,Stops motion,C,Bringing mass inward decreases moment of inertia.
+Why does ω increase when I decreases in a closed system?,Because torque increases,To keep angular momentum constant,To conserve energy,Because friction is less,B,L = I·ω must stay constant without external torque — reducing I increases ω.
+Which of the following will change angular velocity without using torque?,Changing direction,Changing height,Changing radius of mass,Changing gravity,C,"Changing how mass is distributed changes I, altering ω if L is conserved."

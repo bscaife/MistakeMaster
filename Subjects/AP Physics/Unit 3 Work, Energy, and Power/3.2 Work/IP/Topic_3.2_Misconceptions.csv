@@ -1,0 +1,8 @@
+Code,Misconception,Explanation
+PH106,Work is always positive,"Assumes any work done adds energy, not realizing work can also remove energy if force opposes motion."
+PH107,Work depends only on force,"Ignores displacement in calculating work, thinking applying force alone does work regardless of motion."
+PH108,No motion means no work is possible,"Fails to understand that work is zero if there’s no displacement, even if a large force is applied."
+PH109,All forces do work,Does not recognize that forces perpendicular to displacement (like centripetal force) do no work.
+PH110,Work and energy are separate concepts,"Treats work and energy as unrelated ideas, missing that work transfers energy."
+PH111,Path doesn’t matter for nonconservative forces,Misunderstands that forces like friction do more work over longer paths and are not path-independent.
+PH112,Work can be stored,"Confuses work (a process of energy transfer) with energy itself, which can be stored."

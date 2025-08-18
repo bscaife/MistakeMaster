@@ -1,0 +1,8 @@
+Code,Misconception,Explanation
+PH197,Torque and angular acceleration are unrelated,"Fails to apply Newton’s second law for rotation (τ = I·α), ignoring the proportional relationship."
+PH198,More torque always means faster rotation,Does not consider the role of rotational inertia in determining angular acceleration from torque.
+PH199,Only moving objects can have torque,"Assumes that torque cannot exist if the object is not rotating, overlooking that torque causes, not requires, rotation."
+PH200,Inertia doesn’t matter for angular motion,Overlooks the influence of rotational inertia on how much angular acceleration results from a given torque.
+PH201,Angular acceleration must always match the direction of rotation,"Fails to recognize that angular acceleration can oppose motion, slowing an object down just like linear acceleration."
+PH202,Angular motion equations apply even with variable torque,Incorrectly applies constant-acceleration angular formulas to situations with non-uniform torque.
+PH203,Torque and force are interchangeable in calculations,Tries to substitute torque directly into linear formulas without adjusting for the rotational context or dimensions.

@@ -1,0 +1,21 @@
+Question,Choice A,Choice B,Choice C,Choice D,Correct Answer,Explanation
+Combine like terms: p_total = m₁v + m₂v.,p_total = m₁m₂v,p_total = (m₁ + m₂)v,p_total = (m₁ + m₂)v²,p_total = (m₁ - m₂)v,B,Factor v and combine the masses: p_total = (m₁ + m₂)v.
+Combine like terms: τ_total = r₀F₀ + ΔrF₀ + r₀ΔF + ΔrΔF.,τ_total = (r₀F₀ + ΔrΔF),τ_total = (r₀ + Δr)(F₀ - ΔF),τ_total = r₀(F₀ + ΔF) + Δr(F₀ + ΔF),τ_total = (r₀ + Δr)(F₀ + ΔF),D,Factor using binomial structure: (r₀ + Δr)(F₀ + ΔF).
+Combine like terms: KE_total = ½m₁v₀² + m₁Δv² + ½m₂v₀².,KE_total = ½m₁(v₀² + Δv²) + ½m₂v₀²,KE_total = ½(m₁ + m₂)v₀² + m₁Δv²,KE_total = (m₁ + m₂)(v₀² + Δv²),KE_total = v₀²(½m₁ + ½m₂) + m₁Δv²,D,"Group v₀² terms carefully, factoring (½m₁ + ½m₂), and leave m₁Δv² separate."
+Combine like terms: F_total = ma + ma.,F_total = 2ma,F_total = ma,F_total = m²a,F_total = ma²,A,ma + ma = 2ma — add like terms directly.
+Combine like terms: τ_total = r₀F₀ + 2r₀ΔF + 3ΔrF₀.,τ_total = (r₀ + 2Δr)(F₀ + ΔF),τ_total = (r₀ + Δr)(F₀ + ΔF),τ_total = (r₀ + 3Δr)(F₀ + 2ΔF),τ_total = r₀(F₀ + 2ΔF) + 3ΔrF₀,D,"Group terms sharing r₀ together, but Δr must remain with F₀ separately."
+Combine like terms: KE_total = ½m₁v₁² + m₁v₂².,KE_total = ½m₁(v₁² + v₂²),KE_total = ½m₁(v₁² + ½v₂²),KE_total = ½m₁(v₁² + 2v₂²),KE_total = m₁(v₁² + v₂²),C,"Factor out ½m₁: adjust m₁v₂² to 2(½m₁v₂²) to maintain equivalence, giving ½m₁(v₁² + 2v₂²)."
+Combine like terms: F_net = 3ma₁ + 2ma₂ + ma₃.,F_net = m(3a₁ + 2a₂ + a₃),F_net = (ma₁ + ma₂ + ma₃)³,F_net = m(3a₁ + a₂ + 2a₃),F_net = 3m(a₁ + a₂ + a₃),A,Factor out m across all terms and preserve coefficients properly.
+Combine like terms: KE_total = ½mv₁² + ½mv₂².,KE_total = ½m(v₁² + v₂²),KE_total = ½m(v₁ + v₂)²,KE_total = m(v₁² + v₂²),KE_total = ½m(v₁²v₂²),A,"Factor out ½m, leaving (v₁² + v₂²) inside."
+Combine like terms: Δx = v₀t + 2v₀Δt + ½at² + ½aΔt².,Δx = v₀(t + 2Δt) + ½a(t² + Δt²),Δx = v₀(t + Δt) + ½a(t² + Δt²),Δx = ½(v₀t + at² + Δt²),Δx = (v₀ + 2Δt)(t + ½a),A,Group v₀ terms together and a terms together carefully.
+Combine like terms: F_net = ½ma₀ + 2ma₀ + 3mΔa.,F_net = m(a₀ + 3Δa),F_net = (½m + 2m + 3m)(a₀ + Δa),F_net = m(2.5a₀ + 3Δa),F_net = m(½a₀ + 2a₀ + 3Δa),D,Factor out m across all terms; add carefully inside parentheses.
+Combine like terms: Δx = v₀t + ½at² + v₀Δt.,Δx = v₀(t + ½a)t²,Δx = v₀(t + Δt) + ½at²,Δx = ½(v₀ + a)t²,Δx = v₀(t + Δt + at²),B,"Group v₀ terms factoring v₀: v₀(t + Δt), leaving ½at² separate."
+Combine like terms: W = Fd + Fd.,W = Fd²,W = F²d,W = 2Fd,W = Fd,C,Fd + Fd = 2Fd — add identical terms.
+Combine like terms: p_total = m₁v₀ + 2m₁Δv + 3m₂v₀.,p_total = v₀(m₁ + 3m₂) + 2m₁Δv,p_total = (m₁ + 3m₂)(v₀ + Δv),p_total = v₀(m₁ + m₂) + 2m₁Δv,p_total = (m₁ + m₂)(v₀ + Δv),A,"Group v₀ terms together factoring v₀, then leave 2m₁Δv separate."
+Combine like terms: p_total = m₁v₀ + m₂v₀ + 2m₁Δv + 3m₂Δv.,p_total = (m₁ + m₂)(v₀ + Δv),p_total = v₀(m₁ + m₂) + Δv(2m₁ + 3m₂),p_total = (m₁ + 2m₂)(v₀ + Δv),p_total = v₀(m₁ + 2m₁) + Δv(m₂ + 3m₂),B,"Group v₀ terms factoring v₀, group Δv terms factoring Δv separately."
+Combine like terms: τ_total = r₁F + r₂F.,τ_total = (r₁ + r₂)F²,τ_total = r₁ + r₂ + F,τ_total = (r₁r₂)F,τ_total = (r₁ + r₂)F,D,Factor out F: τ_total = (r₁ + r₂)F.
+Combine like terms: τ_total = 2r₀F₀ + r₀ΔF + 3ΔrF₀.,τ_total = (2r₀ + Δr)(F₀ + ΔF),τ_total = (2r₀ + 3Δr)(F₀ + ΔF),τ_total = (r₀ + Δr)(2F₀ + ΔF),τ_total = r₀(2F₀ + ΔF) + 3ΔrF₀,D,Group r₀ terms together carefully: r₀(2F₀ + ΔF).
+Combine like terms: Δx = v₀t + 2v₀Δt.,Δx = v₀(t + 2Δt),Δx = (v₀ + 2v₀)(t + Δt),Δx = v₀(2t + Δt),Δx = v₀(t + Δt),A,"Factor v₀, carefully preserving the 2 multiplier on Δt only."
+Combine like terms: KE_total = ½m₁v₁² + m₂v₁² + ½m₁v₂².,KE_total = (½m₁ + v₂²)(m₂ + v₁²),KE_total = ½(m₁ + m₂)(v₁² + v₂²),KE_total = (m₁ + m₂)v₁² + ½m₁v₂²,KE_total = v₁²(½m₁ + m₂) + ½m₁v₂²,D,Group terms with v₁² together: ½m₁v₁² + m₂v₁² = v₁²(½m₁ + m₂).
+Combine like terms: p_total = m₁(v₀ + Δv) + m₂(v₀ + Δv).,p_total = (m₁ + m₂)(v₀ + Δv²),p_total = (m₁v₀ + m₂v₀) + (m₁Δv + m₂Δv),p_total = (m₁v₀ + m₂Δv),p_total = (m₁ + m₂)(v₀ + Δv),D,Factor out (v₀ + Δv): p_total = (m₁ + m₂)(v₀ + Δv).
+Combine like terms: F_net = 2ma₁ + 3ma₂.,F_net = m(2a₁ + a₂),F_net = (2m + 3m)(a₁ + a₂),F_net = 5ma₁a₂,F_net = m(2a₁ + 3a₂),D,"Factor out m, keeping the coefficients attached to a₁ and a₂."

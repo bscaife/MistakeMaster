@@ -1,0 +1,11 @@
+Question,Choice A,Choice B,Choice C,Choice D,Correct Answer,Explanation
+A ball is dropped from rest. What is its displacement after 2 s?,4.9 m down,0 m,19.6 m down,9.8 m up,C,Using x = ½·a·t² = ½·(9.8)·(2²) = 19.6 m downward.
+An object moves at constant velocity. What is its acceleration?,a = −9.8 m/s²,a = 0,a = v²/r,a = v/t,B,Constant velocity implies zero acceleration.
+A car accelerates from 4 m/s to 12 m/s in 4 s. What is its acceleration?,2 m/s²,0 m/s²,16 m/s²,4 m/s²,A,a = (v₍f₎ − vᵢ)/t = (12 − 4)/4 = 2 m/s².
+An object thrown straight up has 𝑣ᵧ = 0 at the top. What is 𝑎ᵧ?,0 m/s²,−9.8 m/s²,Depends on mass,+9.8 m/s²,B,Gravity always acts downward: 𝑎ᵧ = −9.8 m/s².
+Which motion has negative displacement but positive velocity?,Moving left and slowing,Stopping at origin,Returning past the origin,Moving right past start,C,"Displacement can be negative if final position is behind start, even if velocity is positive."
+"At 𝑡 = 0, a runner starts at 𝑥₀ = 0 m with 𝑣₍ₓ₎ = 6 m/s. After 5 s, 𝑥 = ?",11 m,6 m,30 m,0 m,C,x = x₀ + v₍ₓ₎·t = 0 + 6·5 = 30 m.
+A velocity-time graph shows a straight horizontal line. What does this mean?,Velocity changes linearly,Object is at rest,Acceleration is zero,Object slows down,C,A horizontal v–t graph means constant velocity → zero acceleration.
+"A car accelerates from rest with 𝑎 = 4 m/s². After 3 s, 𝑣 = ?",4 m/s,3 m/s,12 m/s,7 m/s,C,v = v₀ + a·t = 0 + 4·3 = 12 m/s.
+"If displacement is zero after 10 s, which could be true?",It accelerated forward,It returned to start,It didn’t move,Motion was constant,B,Zero net displacement means the object returned to its starting point.
+Acceleration is defined as:,Speed × time,Distance/time,Change in speed,Change in velocity,D,Acceleration = change in velocity over time.

@@ -1,0 +1,12 @@
+Code,Error,Explanation
+MA1,Sign Error,"Misinterpreting positive and negative directions in vector quantities like velocity, acceleration, or displacement."
+MA2,Equation Misapplication,Plugging numbers into an equation without verifying if it matches the physical situation.
+MA3,Missing or Incorrect Units,"Failing to include units in calculations, or incorrectly converting units (e.g., cm to m)."
+MA4,Graph Interpretation Error,"Misreading slope, area, or shape on motion graphs; confusing constant slope with constant velocity or acceleration."
+MA5,Dropping Variables,Accidentally omitting terms during algebraic rearrangement or simplification.
+MA6,Incorrect Isolation,Failing to correctly isolate the desired variable when solving equations.
+MA7,Exponent Mistakes,"Forgetting to square, square root, or incorrectly applying exponents while manipulating equations."
+MA8,Factoring/Expanding Errors,"Incorrectly factoring or expanding algebraic expressions, leading to wrong final forms."
+MA9,Combining Like Terms Incorrectly,"Improperly adding or subtracting terms, especially confusing variables with coefficients."
+MA10,Oversimplification of Relationships,Assuming all relationships are linear; failing to recognize inverse square or quadratic relationships.
+MA11,Failure to Check Limiting Cases,"Not verifying if an equation or answer makes sense when applying extreme or boundary conditions (e.g., t → 0)."

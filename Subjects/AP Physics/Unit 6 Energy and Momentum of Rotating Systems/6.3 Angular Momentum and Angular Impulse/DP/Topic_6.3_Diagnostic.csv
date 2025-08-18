@@ -1,0 +1,11 @@
+Question,Correct Answer,Choice A,Correct? A,Code A,Choice B,Correct? B,Code B,Choice C,Correct? C,Code C,Choice D,Correct? D,Code D,Explanation
+Which expression defines angular momentum L for a point mass?,C,L = m · v,FALSE,PH218,L = I / ω,FALSE,PH219,L = r · m · v · sin(θ),TRUE,,L = m / r,FALSE,PH218,Angular momentum = r × p = r·m·v·sin(θ)
+An object of mass m travels tangentially at v around radius r. What is L?,A,L = m · v · r,TRUE,,L = m · v / r,FALSE,PH218,L = m / v,FALSE,PH218,L = r² / m,FALSE,PH218,When θ = 90°— L = r·m·v
+Angular impulse equals what quantity?,C,Torque,FALSE,PH221,Angular acceleration,FALSE,PH222,Change in angular momentum,TRUE,,Kinetic energy,FALSE,PH221,Just like linear: τ·∆t = ∆L
+If torque is constant— what is angular impulse?,D,τ / ∆t,FALSE,PH221,τ² · ∆t,FALSE,PH221,∆L / t,FALSE,PH221,J = τ · ∆t,TRUE,,Impulse is torque times time
+An object with I = 3 kg·m² spins at 4 rad/s. What is L?,A,L = 12 kg·m²/s,TRUE,,L = I / ω,FALSE,PH219,L = 3 / 4 kg·m²/s,FALSE,PH222,L = 12 / I kg·m²/s,FALSE,PH219,Rotating body: L = I · ω
+Which condition must hold for angular momentum to be conserved?,C,Constant α,FALSE,PH220,Constant ω,FALSE,PH222,Net external torque is zero,TRUE,,Inertia must increase,FALSE,PH223,∑τₑₓₜ = 0 → ∆L = 0
+A spinning skater pulls in her arms. What happens to ω and L?,B,ω decreases; L stays the same,FALSE,PH223,ω increases; L stays the same,TRUE,,ω increases; L increases,FALSE,PH224,ω stays constant; L decreases,FALSE,PH224,I decreases → ω increases so L = I·ω constant
+A student says increasing torque increases L. What’s wrong?,D,That is always true,FALSE,PH224,L and τ are equivalent,FALSE,PH221,L increases with time only,FALSE,PH220,Torque increases L only if applied over time,TRUE,,L = ∆L = τ·t → torque alone doesn't cause change without time
+Which unit matches angular momentum?,A,kg·m²/s,TRUE,,N·m,FALSE,PH218,kg·m/s²,FALSE,PH218,Joules,FALSE,PH218,L = I·ω → kg·m² × rad/s = kg·m²/s
+Which expression calculates L from impulse?,C,L = τ / t,FALSE,PH222,L = ∆α / τ,FALSE,PH221,L = τ · ∆t,TRUE,,L = ½·I·ω²,FALSE,PH224,J = ∆L = τ·t → rearranged gives ∆L

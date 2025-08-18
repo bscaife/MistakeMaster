@@ -1,0 +1,11 @@
+Question,Choice A,Choice B,Choice C,Choice D,Correct Answer,Explanation
+Can work done on an object ever be negative?,"Yes, if the force is opposite the direction of displacement","No, work is always positive",Only when gravity is zero,Only in circular motion,A,Work = F·d·cosθ — it is negative if the angle between force and displacement is greater than 90°.
+What does negative work do to an object?,It removes kinetic energy,It adds energy,It reverses mass,It creates momentum,A,Negative work results in energy loss — slowing the object.
+Which of the following involves negative work?,Friction slowing down a sliding block,A lift raising a box,Gravity pulling down a falling ball,Tension accelerating a cart forward,A,Friction opposes motion → negative work → removes energy.
+Why is it incorrect to say all work adds energy?,Because opposing forces remove energy,Because energy has direction,Because forces cancel,Because mass stays constant,A,Forces against motion do negative work and reduce kinetic energy.
+What is the work done by gravity on a ball thrown upward?,Negative,Positive,Zero,It depends on speed,A,Displacement is upward; gravity points down → work is negative.
+"If an object moves left and a force acts right, the work done is:",Negative,Positive,Zero,Undefined,A,Force and displacement are in opposite directions → W < 0.
+What is true of total work if multiple forces act?,"It can be positive, negative, or zero depending on net force and direction",Always positive,Always zero,Only positive if motion exists,A,Work depends on force direction — not just presence of motion.
+"Force = 20 N left, object moves 5 m right. Work = ?",−100 J,100 J,0,20 J,A,W = F·d·cos(180°) = 20·5·(−1) = −100 J.
+Force of 15 N opposes 3 m of motion. Work = ?,−45 J,45 J,0,15 J,A,F opposes motion → W = −45 J.
+"Gravity acts down. Ball moves up 10 m, m = 1.5 kg. Work by gravity?",−147 J,147 J,0,15 J,A,W = m·g·(−h) = 1.5·9.8·(−10) = −147 J.

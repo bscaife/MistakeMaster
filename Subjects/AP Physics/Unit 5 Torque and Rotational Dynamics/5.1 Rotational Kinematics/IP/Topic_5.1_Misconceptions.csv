@@ -1,0 +1,8 @@
+Code,Misconception,Explanation
+PH162,Angular displacement and linear displacement are unrelated,"Fails to see angular displacement as the rotational analog of linear displacement, and misses their connection through radius."
+PH163,Only rotating objects have angular position,"Assumes an object must be spinning to have angular displacement, ignoring that any rotation from a reference orientation counts."
+PH164,Angular velocity and acceleration don’t follow consistent sign rules,"Thinks the direction (sign) of angular motion is arbitrary, not realizing clockwise and counterclockwise are mathematically defined."
+PH165,Average angular values equal instantaneous values,"Assumes average angular velocity or acceleration always represent values at every point, ignoring variations over time."
+PH166,All points on a rotating object move the same way,"Fails to recognize that linear velocity depends on radial distance, even though angular velocity is the same."
+PH167,Angular kinematic equations apply to all motion,"Applies angular motion formulas in cases of non-constant angular acceleration, where they are not valid."
+PH168,Direction of rotation has no effect on math,"Ignores sign conventions for angular displacement, velocity, and acceleration, which are essential for vector consistency."

@@ -1,0 +1,11 @@
+Question,Choice A,Choice B,Choice C,Choice D,Correct Answer,Explanation
+"In physics, what can a system include?",Only massless parts,Any group of interacting objects,Only forces,Only one object,B,"A system is defined by what the observer chooses to include, not limited to a single object."
+Why define a system in a problem?,To analyze internal and external forces,To eliminate acceleration,To measure gravity,To isolate a single mass,A,The system boundary determines which forces are considered external.
+Two blocks are tied together. Can they be treated as one system?,Only if friction is zero,"No, they must be separate",Only if they are the same mass,"Yes, they form a combined system",D,Multiple objects can be grouped and treated as one system.
+A system of objects can include:,Only one object,Only invisible forces,Only one direction,Multiple masses and their connections,D,Systems can contain several connected or interacting parts.
+How does defining a system help problem solving?,It reduces mass,It allows applying Newton’s laws to the whole group,It fixes velocity,It removes all forces,B,"By choosing a system, you determine how Newton’s second law applies."
+A cart and string are pulled. Which is a valid system?,Only the cart,Cart + string + mass,Only the string,Only external forces,B,You can group all components together into one system.
+What is internal force within a system?,Force between parts of the system,Force from ground,Gravitational pull only,Frictional force with air,A,Internal forces act between parts included in the defined system.
+Two blocks of 2 kg and 3 kg are pulled together. What is system mass?,1 kg,5 kg,3 kg,2 kg,B,Total system mass = sum of components: 2 + 3 = 5 kg.
+"Block A = 1 kg, Block B = 2 kg, connected by a rope. System acceleration from 9 N force?",9 m/s²,4.5 m/s²,3 m/s²,2 m/s²,C,a = F / total m = 9 / (1+2) = 3 m/s².
+Pulley lifts two equal masses. Total system mass?,One mass only,Sum of both masses,Mass of pulley only,Zero,B,System includes both masses if you define it that way.

@@ -1,0 +1,36 @@
+Code,Misconception,Explanation
+PH1,Scalars and vectors are interchangeable,"Confuses directionless quantities like speed with directional ones like velocity, not recognizing that vectors require both magnitude and direction."
+PH2,Vectors must always be shown with arrows,"Believes vector quantities are only vectors if physically represented by arrows, rather than recognizing it's the mathematical properties that define them."
+PH3,Negative numbers always mean slowing down,"Interprets negative velocity or acceleration as implying a reduction in speed, ignoring that the sign simply indicates direction in 1D motion."
+PH4,Distance and displacement are always equal,"Fails to recognize that distance is the total path length (scalar), while displacement is a net change in position (vector) that can be zero even with motion."
+PH5,Speed and velocity mean the same thing,"Equates the scalar (speed) with the vector (velocity), overlooking the directional component that defines velocity."
+PH6,Adding vectors is the same as adding numbers,"Ignores direction when combining vectors, especially in 1D problems involving opposite directions, leading to incorrect net quantities."
+PH7,All motion must be in the positive direction,"Assumes negative motion isn't real or possible, misunderstanding that directionality is relative and depends on chosen coordinate system."
+PH8,Displacement and distance are the same,"Confuses total ground covered (distance) with net change in position (displacement), especially in back-and-forth motion."
+PH9,Velocity and acceleration always point in same direction,"Assumes acceleration must always point in the direction of velocity, not realizing it can oppose motion (e.g., deceleration)."
+PH10,Acceleration means an object is speeding up,"Thinks acceleration always increases speed, ignoring that it can slow objects down if opposite to velocity."
+PH11,Negative velocity means slowing down,Misinterprets sign of velocity as indicating speed change rather than direction along a coordinate axis.
+PH12,Constant velocity implies acceleration,"Assumes any motion must include acceleration, even in cases of uniform motion with zero net force."
+PH13,Object at rest has no acceleration,"Believes a stationary object cannot be accelerating, ignoring cases like turning points or initial conditions in freefall."
+PH14,Speed and velocity graphs are identical,"Confuses speed (scalar) with velocity (vector), expecting identical graphs regardless of direction changes."
+PH15,Graphs always show position directly,"Confuses velocity or acceleration graphs with position graphs, assuming any curve represents the actual path of motion."
+PH16,Steep graph means faster acceleration,"Assumes steeper position-time graphs indicate greater acceleration, rather than understanding slope represents velocity and curvature represents acceleration."
+PH17,Flat velocity graph means object is stopped,"Interprets constant velocity graphs as indicating no motion, confusing flat lines with zero velocity instead of unchanging motion."
+PH18,Graph area has no meaning,Does not realize that area under a velocity-time graph gives displacement and area under acceleration-time gives change in velocity.
+PH19,Tangent slope is meaningless,"Fails to understand that instantaneous velocity and acceleration can be derived from the slope of tangent lines to position and velocity graphs, respectively."
+PH20,Only equations can describe motion,Overlooks the power of graphical and diagrammatic representations for interpreting and predicting physical motion.
+PH21,Graph axes don’t matter,"Ignores what variables are on graph axes, leading to misinterpretation of graphs (e.g., thinking a v-t graph is a position-time graph)."
+PH22,Motion is the same in all reference frames,"Fails to realize that velocity depends on the observer’s frame of reference, leading to incorrect interpretations of relative motion."
+PH23,All observers measure the same velocity,"Assumes velocities are absolute rather than relative to each observer’s motion, contradicting the principle of inertial reference frames."
+PH24,Observers moving together see different motion,Does not understand that observers moving at the same velocity relative to the same object will record the same motion.
+PH25,Acceleration changes between frames,"Incorrectly believes that an object’s acceleration is different for different observers, when it remains the same in all inertial frames."
+PH26,Reference frames are physical objects,Treats a reference frame like a physical structure rather than a conceptual coordinate system from which motion is described.
+PH27,Relative motion must involve physical contact,"Thinks relative motion can only exist if objects are touching or interacting, rather than recognizing it as a comparison of velocities."
+PH28,Zero velocity in one frame means zero in all,"Fails to see that an object can be stationary in one frame but moving in another, depending on the observer’s own motion."
+PH29,Vectors can't be broken into parts,"Assumes vectors are indivisible and cannot be analyzed through components, making it hard to connect motion in two dimensions to 1D kinematics."
+PH30,X and Y motion affect each other,"Believes that motion in the horizontal direction affects vertical motion (or vice versa), contradicting independence of perpendicular components."
+PH31,Projectile motion has horizontal acceleration,"Mistakenly assumes that projectiles accelerate horizontally as well as vertically, not recognizing that horizontal velocity remains constant without air resistance."
+PH32,Diagonal motion is a separate kind of motion,"Thinks diagonal motion follows its own rules, rather than being the result of simultaneous horizontal and vertical components."
+PH33,"Resultant vectors are chosen, not calculated","Assumes you pick the resultant rather than calculating it from component addition, often leading to directional or magnitude errors."
+PH34,Longer range means more time in air,"Believes that the farther something travels horizontally, the longer it must stay in the air, overlooking the role of vertical motion in determining time."
+PH35,Initial velocity equals final velocity in all directions,"Thinks the vertical component of velocity is the same at launch and landing for angled projectiles, not accounting for directional reversal in vertical motion."

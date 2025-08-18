@@ -1,0 +1,11 @@
+Question,Choice A,Choice B,Choice C,Choice D,Correct Answer,Explanation
+How does the angle of applied force affect rotational work?,It doesn’t matter,Work is maximized at 0°,Work is minimized at 45°,Work is maximized at 90°,D,Maximum torque — and therefore maximum work — occurs when force is perpendicular: sin(90°) = 1.
+Which torque angle produces the most work?,0°,90°,45°,180°,B,"Torque is τ = r·F·sin(θ), and sin(90°) gives the maximum value."
+What happens to torque — and therefore work — when the force is aligned with the radius (θ = 0°)?,It’s zero,It’s half as strong,It's maximized,It reverses,A,"When θ = 0°, sin(θ) = 0, so no torque is produced and no work is done."
+What is the rotational analog of W = F·d·cos(θ)?,W = τ·ω,W = I·α,W = r·F·sin(θ)·θ,W = m·g·h,C,"W = τ·θ, and τ = r·F·sin(θ), so W = r·F·sin(θ)·θ shows angle dependence."
+At which angle is no rotational work done?,60°,45°,90°,0°,D,"When the force is along the lever arm (θ = 0°), no torque or work occurs."
+Why does angle matter in torque and work?,It changes gravity,It determines effective force direction,It affects moment of inertia,It changes radius,B,Only the perpendicular component of force contributes to torque and work.
+Which equation includes angle’s effect on torque and work?,τ = r·F·cos(θ),W = F·d,W = m·a·d,τ = r·F·sin(θ),D,Torque uses the sine of the angle between force and lever arm: τ = r·F·sin(θ).
+A student says angle doesn’t affect work. What’s the fix?,Only speed affects it,Angle affects force’s effectiveness,Mass changes energy,It depends on temperature,B,The force’s angle affects the torque generated — only the perpendicular part matters.
+What is sin(90°) in torque calculations?,0,½,1,Undefined,C,"sin(90°) = 1, meaning full force is applied perpendicularly — max torque and work."
+Why is torque zero at θ = 0° or 180°?,No rotation exists,Radius disappears,Force is parallel to lever arm,Velocity is zero,C,"Torque = r·F·sin(θ); when θ = 0° or 180°, sin(θ) = 0 and no torque/work is done."

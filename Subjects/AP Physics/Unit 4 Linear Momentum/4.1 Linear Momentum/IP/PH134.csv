@@ -1,0 +1,11 @@
+Question,Choice A,Choice B,Choice C,Choice D,Correct Answer,Explanation
+Which equation defines momentum?,p = m·a,F = m·v,p = m·v,F = p·t,C,Momentum is defined as mass times velocity: p = m·v. It is not the same as force.
+Which of the following correctly shows how force and momentum are related?,Force and momentum are equal at all times.,Force creates momentum regardless of time.,Force changes momentum by acting over time.,Momentum turns into force when speed increases.,C,"Force changes momentum over time, but they are distinct quantities."
+An object moves at constant velocity. What is the net force acting on it?,Equal to its momentum,Equal to its mass,Zero,Increasing,C,"Constant velocity implies no acceleration, which means zero net force."
+"What are the SI units of momentum and force, respectively?",N·s and N,kg·m/s and kg·m/s²,J and J/s,kg/s and m/s²,B,Momentum has units kg·m/s; force has units kg·m/s².
+What does a nonzero force always imply?,The object has large momentum,The object is accelerating,The object is moving,The object has zero mass,B,A nonzero force causes acceleration according to Newton’s Second Law.
+A 2 kg object moves at 3 m/s. What is its momentum?,6 kg·m/s,5 N,0.67 kg·m/s²,9 N,A,Momentum = m·v = 2 kg × 3 m/s = 6 kg·m/s.
+A 4 kg cart is pushed with a net force of 8 N. What is its acceleration?,0.5 m/s²,2 m/s²,12 m/s²,32 m/s²,B,F = m·a → 8 N = 4 kg × a → a = 2 m/s².
+An object’s momentum changes from 10 to 30 kg·m/s in 5 seconds. What is the average force?,4 N,5 N,6 N,20 N,B,Change in momentum = 20 kg·m/s over 5 s → Force = 20 ÷ 5 = 4 N.
+Which change increases momentum the most?,"Doubling mass, velocity constant","Halving velocity, mass constant",Keeping mass and velocity constant,Reducing both mass and velocity,A,p = m·v; doubling m increases p. Halving v reduces p.
+Which situation shows an object with momentum but no force acting on it?,A falling rock,A gliding puck at constant velocity,A car speeding up,A ball at rest,B,Momentum exists due to motion. Constant velocity implies no net force.

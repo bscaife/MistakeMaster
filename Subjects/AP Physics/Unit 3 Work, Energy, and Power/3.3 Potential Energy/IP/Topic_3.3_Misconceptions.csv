@@ -1,0 +1,8 @@
+Code,Misconception,Explanation
+PH113,Potential energy is stored force,"Confuses energy with force, incorrectly thinking that energy is a physical push or pull."
+PH114,Only stretched springs have potential energy,Fails to recognize that compressed springs also store elastic potential energy.
+PH115,Potential energy is always positive,"Does not understand that potential energy can be defined as zero at a chosen point, and values can be negative."
+PH116,Objects have gravitational energy only when falling,"Thinks gravitational potential energy only exists during motion, not based on relative position in a field."
+PH117,Zero potential energy means no energy at all,"Believes that a zero PE implies the object has no energy, ignoring kinetic energy or other forms."
+PH118,Potential energy is absolute,Misunderstands that the zero point for potential energy is arbitrary and can be chosen for convenience.
+PH119,Two objects must be touching to have potential energy,"Overlooks that potential energy can exist due to fields acting at a distance, such as gravity or electrostatics."

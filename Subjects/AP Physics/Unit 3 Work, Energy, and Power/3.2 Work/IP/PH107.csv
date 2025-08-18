@@ -1,0 +1,11 @@
+Question,Choice A,Choice B,Choice C,Choice D,Correct Answer,Explanation
+Does applying a force always result in work being done?,"No, work requires both force and displacement in the direction of the force","Yes, force alone always does work",Only for moving objects,Only with friction,A,"Work = F·d·cosθ — zero displacement means zero work, even if force is present."
+Which of the following does zero work?,Pushing against a wall that doesn’t move,Lifting a box upward,Friction while slowing a cart,Gravity on a falling object,A,No displacement → W = 0.
+When is the work done by a force equal to zero?,When there is no displacement,When there is no acceleration,When the object is falling,When the mass is large,A,Force alone isn’t enough — the object must move.
+Why is it incorrect to say 'force always does work'?,Because displacement must also occur,Because friction cancels it,Because weight doesn’t count,Because energy is constant,A,"No displacement = no work, even with large force."
+A person holds a heavy box still. What is the work done by the person?,"Zero, because the box doesn’t move",Positive,Negative,Equal to weight,A,No displacement = no work.
+Which situation represents work being done?,Pulling a sled over snow,Holding a book still,Leaning on a wall,Standing with a backpack,A,Only pulling results in force + displacement.
+What two quantities must be present for mechanical work?,Force and displacement,Mass and weight,Acceleration and energy,Friction and motion,A,Work = F·d — both needed.
+Force = 100 N. No displacement. Work = ?,0 J,100 J,10 J,1000 J,A,"W = F·d = 100·0 = 0 J — no displacement, so no work."
+"Force = 40 N, d = 3 m. Work = ?",120 J,43 J,0,80 J,A,W = F·d = 40·3 = 120 J — work is done when there’s displacement.
+You push a crate with 50 N for 0 m. Work = ?,0,50,100,500,A,No motion = no work.

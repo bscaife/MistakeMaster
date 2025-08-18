@@ -1,0 +1,21 @@
+Question,Choice A,Choice B,Choice C,Choice D,Correct Answer,Explanation
+Solve for r from the equation F = G·(m₁·m₂)/r².,r = G·m₁·m₂/F,r = (F·G)/(m₁·m₂),r = √(G·m₁·m₂/F),r = √(F/G·m₁·m₂),C,"Multiply both sides by r², divide by F, then take the square root: r = √(G·m₁·m₂/F)."
+Solve for θ from the arc length formula s = r·θ.,θ = s·r,θ = s/r,θ = s/r²,θ = r/s,B,Divide both sides by r to isolate θ: θ = s/r.
+Solve for v₀ from the equation x = v₀·t + ½·a·t².,v₀ = (x - ½·a·t²)/t,v₀ = (x - a·t²)/t,v₀ = (x + ½·a·t²)/t,v₀ = x/(½·a·t²),A,Subtract ½a·t² and divide by t to solve for v₀.
+Solve for θ from the equation τ = r·F·sinθ.,θ = sin⁻¹(τ/(r·F)),θ = τ/(r·F),θ = (τ·r·F),θ = sin(τ/rF),A,"Divide both sides by r·F, then take the inverse sine: θ = sin⁻¹(τ/(r·F))."
+Solve for Δx from the equation v² = v₀² + 2aΔx.,Δx = (v² + v₀²)/(2a),Δx = (v² - v₀²)/(2a),Δx = (v - v₀)/(2a),Δx = (v² - v₀²)/(a),B,Subtract v₀² and divide by 2a to isolate Δx.
+Solve for g from the period of a pendulum equation T = 2π√(L/g).,g = T²/(4π²·L),g = L/(4π²·T²),g = (2π·L)/T,g = (4π²·L)/T²,D,"Square both sides, rearrange to isolate g: g = (4π²·L)/T²."
+Solve for m from the equation W = m·g.,m = W/g²,m = g/W,m = W·g,m = W/g,D,Divide both sides by g to isolate m: m = W/g.
+Solve for I from the rotational kinetic energy equation KEᵣₒₜ = ½·I·ω².,I = 2·KEᵣₒₜ/ω²,I = KEᵣₒₜ/2ω,I = ½·KEᵣₒₜ/ω²,I = KEᵣₒₜ/ω,A,"Multiply both sides by 2, divide by ω²: I = 2·KEᵣₒₜ/ω²."
+Solve for I from the equation τ = I·α.,I = τ/α²,I = α/τ,I = τ/α,I = τ·α,C,Divide both sides by α to isolate I: I = τ/α.
+Solve for P from the equation P = F·v.,P = F·v²,P = F·v,P = v/F,P = F/v,B,The equation is already solved for P: P = F·v.
+Solve for F from the equation W = F·d.,F = W/d²,F = W·d,F = d/W,F = W/d,D,Divide both sides by d to isolate F: F = W/d.
+Solve for v₀ from the range equation R = (v₀²·sin2θ)/g.,v₀ = (R·g)/sin2θ,v₀ = √(R·sin2θ/g),v₀ = √(R·g/sin2θ),v₀ = sin2θ/(R·g),C,"Multiply by g, divide by sin2θ, then take the square root: v₀ = √(R·g/sin2θ)."
+Solve for ω₀ from the rotational kinematic equation ω = ω₀ + αt.,ω₀ = ω/(αt),ω₀ = ω - αt,ω₀ = ω + αt,ω₀ = αt/ω,B,Subtract αt from ω to solve for ω₀: ω₀ = ω - αt.
+Solve for x from the spring force equation Fₛ = k·x.,x = Fₛ/k,x = k/Fₛ,x = Fₛ·k,x = Fₛ/k²,A,Divide both sides by k to isolate x: x = Fₛ/k.
+Solve for v₀ from the equation v² = v₀² + 2·a·Δx.,v₀ = √(v² - 2·a·Δx),v₀ = v - 2aΔx,v₀ = √(v² + 2aΔx),v₀ = (v² - 2·a·Δx),A,"Subtract 2aΔx from v², then take the square root: v₀ = √(v² - 2·a·Δx)."
+Solve for v from the equation p = m·v.,v = m/p,v = p²/m,v = p/m,v = p·m,C,Divide both sides by m to isolate v: v = p/m.
+Solve for m₁ from the gravitational force equation F = G·(m₁·m₂)/r².,m₁ = (F·r²)/(G·m₂),m₁ = (F·r)/(G·m₂),m₁ = (G·m₂)/F·r²,m₁ = (F·G)/(r²·m₂),A,"Multiply by r², divide by G·m₂ to solve for m₁."
+Solve for a from the equation F = m·a.,a = F/m,a = m/F,a = F·m,a = F/m²,A,Divide both sides by m to isolate a: a = F/m.
+Solve for t from the equation v = v₀ + a·t.,t = (v + v₀)/a,t = (v - v₀)/a,t = a/(v - v₀),t = (v₀ - v)/a,B,"Subtract v₀, then divide by a: t = (v - v₀)/a."
+Solve for L from the equation T = 2π√(L/g).,L = (T²)/(g·4π²),L = (g·T²)/(4π²),L = (g·4π²)/T²,L = (4π²)/(g·T²),B,Square both sides and rearrange to solve for L: L = (g·T²)/(4π²).

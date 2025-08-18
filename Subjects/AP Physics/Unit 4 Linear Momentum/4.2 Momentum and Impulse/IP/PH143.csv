@@ -1,0 +1,11 @@
+Question,Choice A,Choice B,Choice C,Choice D,Correct Answer,Explanation
+Which of the following situations involves impulse?,A skydiver falling at terminal velocity,A child pushing a sled for 2 seconds,A book resting on a shelf,A car with constant velocity,B,Impulse occurs when a force acts over a time interval. A push over 2 seconds delivers impulse.
+Why is it incorrect to say impulse only happens in collisions?,Because collisions are elastic,Because motion doesn't always involve force,Because impulse can occur during any change in momentum,Because collisions conserve energy,C,"Impulse is defined as F·t and applies any time there is a force over time, not just during collisions."
+Which action does NOT involve impulse?,Kicking a ball,Lifting a box upward,Holding a bag still,Pushing a door open,C,No motion and no time-varying force means no impulse is delivered.
+When does impulse apply?,Only in perfectly elastic collisions,Whenever a force acts over time,Only with high-speed impacts,Only when energy is conserved,B,"Impulse is force times time, so it applies in any scenario where force changes momentum."
+Which is the best indicator that impulse occurred?,Change in velocity,Constant speed,Equal and opposite force,Same direction of motion,A,"Impulse results in a change in momentum, which means a change in velocity."
+A student says 'impulse equals force.' What is the correction?,Impulse and force cancel out,Impulse is only force when time is zero,Impulse includes both force and time,Impulse is unrelated to motion,C,Impulse equals force multiplied by time: J = F·t.
+Which type of force application results in impulse?,An object hanging motionless,A hammer resting on a table,A person pulling a sled,A battery storing charge,C,Pulling applies a force over time → impulse causes a change in velocity.
+A force of 10 N is applied for 4 s. What impulse is delivered?,40 N·s,14 N·s,2.5 N·s,4 N·s,A,Impulse = F·t = 10 × 4 = 40 N·s.
+A 2 kg cart speeds up from 1 m/s to 5 m/s. What impulse was applied?,8 N·s,6 N·s,4 N·s,10 N·s,B,Δp = m·Δv = 2 × (5 - 1) = 2 × 4 = 8 N·s.
+A 0.5 kg object receives a 3 N·s impulse. What is its change in velocity?,6 m/s,3 m/s,1.5 m/s,0.5 m/s,A,Δv = J/m = 3 / 0.5 = 6 m/s.

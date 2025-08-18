@@ -1,0 +1,11 @@
+Question,Choice A,Choice B,Choice C,Choice D,Correct Answer,Explanation
+Is your apparent weight always equal to your actual weight?,"No, it changes if you are accelerating","Yes, they are always the same",Only in elevators,Only on Earth,A,Apparent weight is the normal force — it differs from actual weight when accelerating.
+What happens to your apparent weight in an accelerating elevator going upward?,It increases,It stays the same,It becomes zero,It decreases,A,Upward acceleration increases normal force — you feel heavier.
+What happens to your apparent weight in freefall?,It increases,It equals actual weight,It reverses direction,It becomes zero,D,No normal force acts during freefall — apparent weight is zero.
+What force do bathroom scales actually measure?,Friction,Gravitational weight,The normal force,Mass,C,Scales measure the upward normal force — not gravitational weight directly.
+"In a downward-accelerating elevator, how does your apparent weight change?",It decreases,It stays the same,It becomes negative,It increases,A,Downward acceleration reduces the normal force.
+When is apparent weight equal to actual weight?,Only when mass is large,Only in space,Always,When there is no vertical acceleration,D,"If net acceleration is zero, normal = weight."
+What does the normal force represent on a scale?,Inertia,Gravitational field,Actual weight,Apparent weight,D,Normal force is what you feel as 'weight' — it can vary.
+Mass = 50 kg. Elevator accelerates up at 2 m/s². What is apparent weight?,0 N,100 N,590 N,490 N,C,N = m(g + a) = 50(9.8 + 2) = 50(11.8) = 590 N.
+Mass = 60 kg. Elevator goes down at a = 1 m/s². What is apparent weight?,0 N,600 N,588 N,528 N,D,N = m(g − a) = 60(8.8) = 528 N.
+"Mass = 70 kg. In freefall, what is apparent weight?",700 N,0 N,686 N,70 N,B,In freefall → no normal force → apparent weight = 0.

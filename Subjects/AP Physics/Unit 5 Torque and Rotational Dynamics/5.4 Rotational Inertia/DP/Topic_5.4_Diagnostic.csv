@@ -1,0 +1,11 @@
+Question,Correct Answer,Choice A,Correct? A,Code A,Choice B,Correct? B,Code B,Choice C,Correct? C,Code C,Choice D,Correct? D,Code D,Explanation
+Which quantity resists changes in rotational motion?,C,Mass,FALSE,PH183,Angular speed,FALSE,PH184,Rotational inertia (I),TRUE,,Torque,FALSE,PH186,Moment of inertia I resists angular acceleration— just like mass resists linear a
+Which object has greater rotational inertia assuming equal mass and size?,A,A ring,TRUE,,A solid disc,FALSE,PH183,A point mass,FALSE,PH183,They are all equal,FALSE,PH183,More mass farther from axis → greater I
+An object with I = 3 kg·m² experiences τ = 6 N·m. What is its angular acceleration?,D,α = 3 rad/s²,FALSE,PH183,α = 4 rad/s²,FALSE,PH183,α = 18 rad/s²,FALSE,PH183,α = 2 rad/s²,TRUE,,Newton’s rotational analog: τ = I · α
+What is the rotational inertia of a point mass m at distance r?,B,I = m / r²,FALSE,PH183,I = m · r²,TRUE,,I = m · r,FALSE,PH183,I = m² · r,FALSE,PH183,Rotational inertia depends on both mass and radius squared
+What happens to I when all mass is moved twice as far from the axis?,C,It doubles,FALSE,PH184,It halves,FALSE,PH184,It quadruples,TRUE,,It becomes zero,FALSE,PH183,I ∝ r² → doubling r quadruples I
+Which system has lowest I for the same mass and radius?,A,Solid sphere,TRUE,,Solid disc,FALSE,PH184,Hollow sphere,FALSE,PH184,Thin hoop,FALSE,PH183,Mass closer to axis = lower I
+How is I calculated for extended objects?,C,I = m / r²,FALSE,PH183,I = τ / ω,FALSE,PH186,Sum or integral over m · r²,TRUE,,I = F · d,FALSE,PH183,I = ∑ mᵢ·rᵢ² for distributed masses
+A disc and a hoop of equal mass roll down a ramp. Which reaches bottom first and why?,D,Hoop— more inertia,FALSE,PH183,Disc— more mass,FALSE,PH184,Hoop— higher KE,FALSE,PH189,Disc— lower rotational inertia,TRUE,,Disc has smaller I → greater acceleration
+What is the effect of increasing I on angular acceleration with same torque?,A,α decreases,TRUE,,α increases,FALSE,PH185,α stays the same,FALSE,PH185,α = 0,FALSE,PH185,τ = I·α → if I increases— α must decrease for same τ
+Which expression is dimensionally correct for I?,B,kg / m²,FALSE,PH183,kg·m²,TRUE,,m / kg,FALSE,PH183,N·m,FALSE,PH183,I has units of mass × distance²

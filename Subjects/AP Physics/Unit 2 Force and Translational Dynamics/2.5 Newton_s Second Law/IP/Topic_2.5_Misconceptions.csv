@@ -1,0 +1,8 @@
+Code,Misconception Title,Misconception Description
+PH64,Net force means motion,"Believes that if there is a net force on an object, it must be moving (not just accelerating)."
+PH65,No motion means no force,"Assumes that stationary objects have no forces acting on them, ignoring the possibility of balanced forces."
+PH66,Heavier objects accelerate more,Believes that greater mass leads to greater acceleration under the same net force.
+PH67,Mass causes force,"Confuses mass with force, treating mass as something that directly “pushes” rather than resists acceleration."
+PH68,Constant force means constant velocity,"Fails to recognize that constant net force causes constant acceleration, not constant velocity."
+PH69,Net force is always in the direction of motion,"Assumes force must be in the same direction as the object’s motion, even during slowing or turning."
+PH70,All forces on an object add algebraically without direction,"Ignores vector nature of force, simply adds or subtracts magnitudes regardless of direction."

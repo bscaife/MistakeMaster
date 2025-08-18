@@ -1,0 +1,8 @@
+Code,Misconception,Explanation
+PH148,Momentum is only conserved when velocity is constant,"Mistakes momentum conservation for constant motion, not recognizing it depends on the absence of net external force."
+PH149,Momentum of the system equals the sum of speeds,"Adds scalar speeds rather than vector momenta, ignoring both mass and direction in system momentum calculations."
+PH150,Momentum is not conserved if objects move in different directions,Fails to account for vector nature of momentum and its conservation in multiple dimensions.
+PH151,Momentum is always zero before and after explosion,"Thinks internal explosions must cancel all motion, forgetting total momentum is conserved and may be nonzero."
+PH152,Momentum conservation requires equal mass,Mistakenly believes systems must contain equal-mass objects for momentum to be conserved.
+PH153,System momentum equals momentum of the largest object,"Assumes dominant objects determine total system momentum, ignoring contributions from all masses."
+PH154,Momentum conservation requires energy conservation,Fails to distinguish that momentum is conserved even in inelastic collisions where kinetic energy is lost.

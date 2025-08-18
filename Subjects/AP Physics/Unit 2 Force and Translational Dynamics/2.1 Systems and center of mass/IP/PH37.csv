@@ -1,0 +1,11 @@
+Question,Choice A,Choice B,Choice C,Choice D,Correct Answer,Explanation
+Do all parts of a system always behave the same as the whole?,Only in ideal systems,"Yes, they must match","No, different parts may experience different forces",Only when at rest,C,"Parts of a system can behave differently based on position, force, or interaction."
+"In a system of connected blocks, can tension differ between parts?","Yes, due to different internal forces",Only if air resistance is present,"No, it must be equal",Only with gravity,A,Tension can vary based on mass distribution and acceleration.
+How does Newton’s second law apply to systems?,It works only for 1 object,Mass is ignored,"It applies to the total system, not always to individual parts",Each part gets the same force,C,F = ma applies to the net external force on the system as a whole.
+Why might one part of a system accelerate differently than another?,Only ropes stretch,Gravity doesn’t act,It may experience different net forces,All parts always match,C,Internal differences can cause variations in acceleration.
+"In a rocket, why do different parts experience different effects?",Mass and force can vary by location,Only outer shell moves,Internal mass cancels,Everything is uniform,A,Force application and inertia vary across structure.
+Which statement is true about complex systems?,The smallest part defines motion,All parts always stay aligned,Parts can have different speeds or accelerations,Internal forces don’t exist,C,Different masses and forces can cause different behaviors across parts.
+When do all parts of a system act the same?,Only with friction,Only under uniform conditions,Never,Always,B,Only when forces and mass are distributed evenly does uniform behavior occur.
+Two blocks (2 kg and 4 kg) are pulled with 12 N. What is total acceleration?,3 m/s²,4 m/s²,6 m/s²,2 m/s²,D,a = F / m = 12 / (2+4) = 2 m/s².
+"In the same system, is tension on the lighter block higher or lower?",Lower,Higher,Zero,Same,A,The rope segment pulling the lighter block carries less force.
+3-block system pulled right. Block B is in the middle. Is force on B same as A or C?,Only B feels force,Only mass matters,"No, internal forces differ","Yes, same for all",C,Internal rope forces vary across different positions.

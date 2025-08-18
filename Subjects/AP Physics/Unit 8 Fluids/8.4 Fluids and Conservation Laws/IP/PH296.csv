@@ -1,0 +1,11 @@
+Question,Choice A,Choice B,Choice C,Choice D,Correct Answer,Explanation
+"In a narrowing pipe, what happens to the fluid speed?",It decreases,It stays the same,It increases,It fluctuates randomly,C,Fluid speed increases as pipe narrows to conserve flow rate.
+"In a narrowing pipe, what happens to the flow rate?",It increases,It decreases,It stays the same,It fluctuates randomly,C,Flow rate stays constant even if speed changes (continuity equation).
+The continuity equation for fluids states:,Area × speed is constant,Pressure × volume is constant,Density ÷ area is constant,Temperature × velocity is constant,A,Area × velocity remains constant for an incompressible fluid.
+Water flows from a wide pipe into a narrow pipe. What remains constant?,Flow rate increases,Speed decreases,Flow rate stays constant,Volume decreases,C,Flow rate remains constant even when pipe width changes.
+"If a pipe’s cross-sectional area decreases, fluid velocity:",Decreases,Stays the same,Increases,Fluctuates randomly,C,Velocity increases to maintain constant flow rate in a smaller area.
+Flow rate is defined as:,Area ÷ velocity,Volume × velocity,Volume per unit time,Mass per unit time,C,Flow rate is volume per unit time (m³/s).
+"If the velocity of water increases, what must happen to the area for constant flow rate?",Area must increase,Area stays the same,Area must decrease,Area does not matter,C,"To keep flow rate constant, if speed increases, area must decrease."
+A river narrows. What happens to the speed of water?,Slows down,Stays the same,Speeds up,Becomes turbulent,C,"As a river narrows, water speeds up to conserve flow rate."
+"If the width of a hose is reduced, what happens to the amount of water exiting per second?",It increases,It decreases,It stays the same,Stops flowing,C,The amount of water exiting per second stays the same even though speed increases.
+Which of the following best explains why speed changes in a narrowing pipe?,Pressure difference increases,Energy is lost,Fluid speeds up to maintain flow rate,Temperature change causes flow,C,"In a narrowing pipe, fluid speeds up to maintain the same flow rate."

@@ -1,0 +1,11 @@
+Question,Choice A,Choice B,Choice C,Choice D,Correct Answer,Explanation
+Do springs always exert an upward force?,Only if vertical,"No, they exert force in the direction that opposes stretch or compression","Yes, they push up only",Only when hanging,B,Springs obey Hooke’s Law and apply force opposite to the direction they are displaced — not always upward.
+How does a spring behave when stretched downward?,It pulls upward to restore its length,It stops acting,It acts with gravity,It pushes downward,A,Springs resist deformation — a stretched spring pulls back toward equilibrium.
+How does a spring act when compressed horizontally?,It turns sideways,It does nothing,It pulls inward,It pushes outward to restore length,D,A compressed spring pushes in the direction that tries to restore its original shape.
+What determines the direction of spring force?,Gravity,Mass only,The orientation of the spring,The direction of stretch or compression,D,Spring force is always opposite the displacement direction from its rest position.
+What kind of force is exerted by a stretched spring?,A constant force,A frictional force,An upward force only,A restoring force that pulls back toward equilibrium,D,Springs act to return to equilibrium — the direction depends on displacement.
+Which force is described by Hooke’s Law?,Spring force,Friction,Weight,Tension,A,Fₛ = −k·x — the force is proportional and opposite to displacement.
+"If a spring is attached horizontally between two walls and stretched, what direction is its force?",Downward,Upward,Away from the center,Toward the center,D,A stretched spring pulls inward on both ends.
+A spring with k = 200 N/m is compressed 0.1 m. What is the force it exerts?,20 N,0.5 N,200 N,2 N,A,F = k·x = 200 × 0.1 = 20 N.
+A spring stretches 0.05 m with a force of 10 N. What is its spring constant?,0.5 N/m,2 N/m,200 N/m,10 N/m,C,k = F/x = 10 / 0.05 = 200 N/m.
+A spring with k = 300 N/m is stretched 0.2 m. What is spring force?,0.6 N,300 N upward,60 N inward,60 N upward,C,F = k·x = 300 × 0.2 = 60 N (toward equilibrium).

@@ -1,0 +1,11 @@
+Question,Choice A,Choice B,Choice C,Choice D,Correct Answer,Explanation
+What variables are required to calculate rotational work?,Only torque,Only angular velocity,Torque and mass,Torque and angular displacement,D,Rotational work is W = τ·θ — both torque and angular displacement are needed.
+Which expression correctly describes rotational work?,W = F·r,W = τ·ω,W = I·α,W = τ·θ,D,Work is the product of torque and angular displacement: W = τ·θ.
+A student says torque alone determines work. What's missing?,Mass,Angular displacement,Friction,Velocity,B,"Without angular displacement (θ), torque does no work: W = τ·θ."
+"If torque is constant but θ = 0, what is W?",Maximum,Zero,Equal to τ,Equal to α,B,"Without any rotation (θ = 0), work done by torque is zero: W = τ·θ."
+Which scenario shows torque but no rotational work?,Torque increases θ steadily,Torque speeds up a wheel,Object turns with constant torque,"Torque is applied, but object doesn’t rotate",D,Work requires angular displacement. No motion means no work done.
+Why is θ necessary to compute rotational work?,It represents the distance torque moves through,It shows speed,It determines direction,It shows mass distribution,A,"Just like distance in F·d, θ is needed for work: W = τ·θ."
+What’s true if torque is applied but nothing spins?,Energy is stored,Work is maximum,No work is done,Speed is infinite,C,"Without rotation (θ = 0), torque doesn’t do work."
+What must change for torque to do work?,Torque value,Mass of object,Angular displacement,Angular momentum,C,Work requires a change in angular position (θ).
+What happens to work if θ increases while τ is constant?,Work increases,Work is zero,Work decreases,Work becomes torque,A,Work grows with angular displacement if torque is constant: W = τ·θ.
+Which concept explains why torque alone isn’t enough to do work?,Inertia,Rotational work formula,Force balance,Angular velocity,B,W = τ·θ shows that torque must cause angular displacement to result in work.

@@ -1,0 +1,11 @@
+Question,Choice A,Choice B,Choice C,Choice D,Correct Answer,Explanation
+Do all external forces change angular momentum?,"Yes, force always changes momentum","No, only forces that produce torque do",Only if rotation exists,Only with constant mass,B,Only external forces that create torque about a point can change angular momentum.
+Which type of force changes angular momentum?,Any contact force,Only a force that acts at a distance from a pivot,Only friction,Only weight,B,Only forces that cause torque can change L — torque = force × lever arm.
+A force acts through the center of mass. What happens to angular momentum?,It stays the same,It reverses,It increases,It becomes undefined,A,A force through the center causes no torque — no change in angular momentum.
+What is needed for a force to change L?,Force must create torque,Change in radius,Constant ω,Object must be spinning,A,Angular momentum changes when an external torque is applied — not just any force.
+Which equation connects torque to change in angular momentum?,τ = ΔL/t,F = m·a,W = τ·θ,L = m·v·r,A,Angular momentum changes when there is a net torque — τ = ΔL/t (no calculus form used).
+A student says all forces affect angular momentum. What’s the correction?,Angular velocity doesn’t matter,Friction cancels force,Mass is constant,Forces through the axis do not produce torque,D,"For a force to change L, it must cause torque — a force through the pivot has no lever arm."
+Which example shows angular momentum staying constant?,Torque applied for 5s,Force acts off-center,Force acts through pivot,Angular acceleration increases,C,A force through the axis causes no torque and doesn’t change angular momentum.
+When does an external force not affect angular momentum?,Always,If it causes rotation,If it has no lever arm,If it's friction,C,"If the force’s line of action passes through the axis, no torque — L stays constant."
+What causes change in L?,Force at any point,Higher speed,Energy increase,Torque from force not through center,D,L changes only if a force causes torque — not just any force.
+Which situation will not affect angular momentum?,Friction applied off-center,Thrust causing rotation,Force through pivot point,Gravity pulling on edge,C,No torque means no angular momentum change — even if a force is applied.

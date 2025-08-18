@@ -1,0 +1,11 @@
+Question,Choice A,Choice B,Choice C,Choice D,Correct Answer,Explanation
+Which condition shows an object slowing down?,𝑎 = 0,"𝑣 < 0, 𝑎 < 0","𝑣 > 0, 𝑎 > 0","𝑣 > 0, 𝑎 < 0",D,Opposite signs for 𝑣 and 𝑎 → deceleration (slowing down).
+"If 𝑣 < 0 and 𝑎 > 0, what is happening?",Object is slowing down,Object is speeding up,Object is at rest,Object is turning,A,Velocity and acceleration in opposite directions = slowing down.
+"If 𝑣 = 0 and 𝑎 ≠ 0, what happens next?",The object begins to move,The object slows to a stop,It stays motionless,Direction reverses,A,Acceleration causes motion from rest: object begins speeding up.
+"When 𝑎 = 0, what is true about speed?",It decreases,It increases,It reverses,It stays constant,D,No acceleration → no change in speed.
+An object moving left slows down. What must 𝑎 be?,𝑎 > 0,𝑎 = 0,𝑎 = v,𝑎 < 0,A,Moving left (𝑣 < 0) and slowing means 𝑎 > 0.
+Which pair implies speeding up motion?,"𝑣 = 0, 𝑎 = 0","𝑣 < 0, 𝑎 > 0","𝑣 > 0, 𝑎 > 0","𝑣 > 0, 𝑎 < 0",C,Same sign velocity and acceleration → speeding up.
+An object has constant acceleration but decreasing speed. What does this mean?,𝑎 and 𝑣 are aligned,𝑎 opposes 𝑣,𝑎 = 0,The object is at rest,B,Decreasing speed under constant acceleration means opposite directions for 𝑎 and 𝑣.
+An object goes from 6 m/s to 2 m/s in 2 s. What is 𝑎?,0 m/s²,2 m/s²,−2 m/s²,4 m/s²,C,"𝑎 = (2 − 6)/2 = −2 m/s², showing slowing down."
+A ball slows from 10 m/s to 0 in 5 s. What is the acceleration?,−10 m/s²,−2 m/s²,2 m/s²,0 m/s²,B,𝑎 = (0 − 10)/5 = −2 m/s² → deceleration.
+"If 𝑎 = −9.8 m/s² and 𝑣 = +5 m/s, what is happening?",It is moving backward,It is speeding up,It is falling faster,The object is slowing down,D,Acceleration opposite velocity → object is slowing down.

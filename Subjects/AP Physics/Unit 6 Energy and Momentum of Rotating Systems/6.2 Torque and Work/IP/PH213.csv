@@ -1,0 +1,11 @@
+Question,Choice A,Choice B,Choice C,Choice D,Correct Answer,Explanation
+When is rotational work negative?,When torque is large,When rotation is clockwise,When torque and angular displacement are opposite,When ω is constant,C,Rotational work W = τ·θ is negative when torque acts opposite to the angular displacement.
+A torque slows down a wheel. What is the sign of the work?,Positive,Negative,Zero,Undefined,B,"If torque opposes motion, work is negative: W = τ·θ < 0."
+Which scenario shows negative work done by torque?,Torque causes counterclockwise spin,Torque matches direction of motion,Torque increases ω,Torque opposes motion and reduces rotation,D,"When torque resists angular displacement, it removes energy (negative work)."
+What determines the sign of rotational work?,Angular velocity,Mass,Direction of τ relative to θ,Inertia,C,"If torque is in the same direction as angular displacement, work is positive — otherwise it's negative."
+Which expression includes directional information about work?,W = τ·ω,W = m·g·h,W = I·α,W = τ·θ,D,W = τ·θ reflects whether torque and angular displacement align or oppose.
+Can torque remove energy from a system?,"No, it always adds energy","Yes, through negative work",Only if velocity is zero,Only in frictionless cases,B,"If torque acts opposite rotation, it removes kinetic energy via negative work."
+What type of energy change results from negative rotational work?,Energy gain,No energy change,Potential energy increase,Energy loss,D,Negative work decreases the rotational kinetic energy of the system.
+Which variable must be opposite τ for work to be negative?,Inertia,Torque,Angular displacement,Mass,C,W = τ·θ is negative when θ and τ point in opposite directions.
+"If τ = 5 N·m and θ = -2 rad, what is the sign of work?",Negative,Positive,Zero,Can’t tell,A,W = τ·θ = 5×(-2) = -10 J → negative work.
+Why isn’t rotational work always positive?,Because torque sometimes decreases KE,Because inertia flips it,Because torque is sometimes zero,Because angle reverses mass,A,"When torque resists rotation, it removes energy — leading to negative work."

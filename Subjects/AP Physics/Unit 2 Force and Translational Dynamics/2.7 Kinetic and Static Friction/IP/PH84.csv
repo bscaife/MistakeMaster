@@ -1,0 +1,11 @@
+Question,Choice A,Choice B,Choice C,Choice D,Correct Answer,Explanation
+Where does the force of friction originate?,It acts separately from the surface,It comes from inertia,It is an external field force,It arises from the interaction between two surfaces in contact,D,Friction results from microscopic interactions between surfaces — it is not a separate or external force.
+Why does friction disappear when surfaces are not in contact?,Because gravity pulls it away,Because mass is too small,Because the air removes it,Because friction is caused by surface interactions,D,Friction only exists at the interface of two materials.
+What causes friction at the microscopic level?,Mass mismatch,Motion energy alone,Surface irregularities and electromagnetic forces,Temperature changes,C,Microscopic bumps and intermolecular forces resist relative motion.
+"If there is no normal force, can friction exist?",Only in space,"Yes, always","No, friction requires contact",Only for rubber,C,"Without a normal force (no contact), friction does not arise."
+How are normal force and friction related?,Friction depends on the normal force for its magnitude,They are unrelated,Friction is vertical,Normal causes gravity,A,Friction = μ·N — it comes from and scales with the normal contact force.
+Why is it incorrect to think of friction as a separate force acting from a distance?,Because it pulls upward,Because friction only acts through surface interaction,Because friction is a field,Because it reflects weight,B,Friction exists only due to contact — it’s not an independent entity.
+What best describes the nature of friction?,It is a reaction force,It acts at a distance,It is a contact force caused by surface resistance,It exists only in liquids,C,Friction is contact-based and opposes motion between touching surfaces.
+"μ = 0.4, N = 100 N. What is friction force?",40 N,4 N,0 N,140 N,A,f = μ·N = 0.4 × 100 = 40 N — friction comes from surface interaction.
+"If N = 0, what is friction force?",Equal to μ,0,Unknown,Equal to gravity,B,No normal force = no friction — no contact means no friction.
+"If μ = 0 and N = 300 N, what is friction?",0,600 N,300 N,0.3 N,A,"μ = 0 → no friction, regardless of normal force."

@@ -1,0 +1,11 @@
+Question,Choice A,Choice B,Choice C,Choice D,Correct Answer,Explanation
+Does a system need a visible center to have a center of mass?,Only for solids,"No, COM can be defined mathematically","Yes, it must be seen",Only for circles,B,"COM is calculated from mass distribution, not physical symmetry or visibility."
+Can asymmetric systems have a center of mass?,Yes,Only with equal mass parts,No,Only if spinning,A,"Every object or system has a defined COM, even if lopsided."
+How is center of mass determined?,By cutting the object,By choosing geometric center,Only visually,Using mass distribution and geometry,D,COM = average position of all mass elements weighted by mass.
+"If a system looks unbalanced, can it still have a COM?","No, it must be symmetrical",Only if spinning,Only if resting,"Yes, located based on mass, not appearance",D,COM is mathematical; symmetry is not required.
+A bumpy asteroid has no geometric center. COM?,Does not exist,"Exists, defined by mass layout",Must be center of image,Only near largest bump,B,Even irregular bodies have a COM found through integration.
+What makes COM unique?,It must be labeled,It represents the weighted balance point,It is center of color,It’s where all forces act,B,COM is the balance point determined by mass and position.
+Why is COM sometimes outside an object?,Because it’s invisible,Because it's imaginary,Because of rotation,Because it depends on how mass is distributed,D,COM is not tied to physical material boundaries.
+Object A: 1 kg at x = 0. Object B: 3 kg at x = 6. COM?,1.5 m,3 m,4.5 m,2 m,C,COM = (1·0 + 3·6)/(1+3) = 18/4 = 4.5 m.
+Two unequal masses at x = 2 and x = 6. Heavier mass at x = 6. COM lies:,Closer to x = 2,Closer to x = 6,Exactly in the middle,Outside the object,B,COM shifts toward more massive object.
+L-shaped system with equal masses. Where is COM?,At midpoint,At balance point of arms,At corner,At origin,B,COM found by averaging mass positions; may be in empty space.

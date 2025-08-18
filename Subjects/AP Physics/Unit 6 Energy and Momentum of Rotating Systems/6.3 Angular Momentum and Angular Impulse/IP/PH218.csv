@@ -1,0 +1,11 @@
+Question,Choice A,Choice B,Choice C,Choice D,Correct Answer,Explanation
+When is angular momentum conserved?,Whenever an object is spinning,When mass is constant,Only if net external torque is zero,Only in circular motion,C,Angular momentum is conserved only if there is no net external torque acting on the system.
+A skater pulls in their arms and spins faster. Why?,Their mass increases,"Moment of inertia decreases, so ω increases",Friction decreases,Torque increases,B,"With no external torque, angular momentum (L = I·ω) stays constant. A smaller I means a faster ω."
+Which condition is needed to apply L = I·ω = constant?,Constant radius,Increasing speed,Zero net external torque,Fixed mass,C,You can apply conservation of angular momentum only when no net external torque acts.
+Which system conserves angular momentum?,A skater on ice spinning in place,A rolling cart with brakes,A spinning fan slowing down,A wheel rolling uphill,A,The skater has no net external torque — angular momentum is conserved as I·ω stays constant.
+What causes angular momentum to change?,A decrease in ω,A change in mass,Change in inertia,An external torque,D,Only a net external torque can change the angular momentum of a system.
+Why isn’t angular momentum always conserved?,Because torque might act externally,Because mass fluctuates,Because speed changes,Because energy is lost,A,"External torques can change angular momentum, just like external forces change linear momentum."
+What happens to ω if I increases in a closed system?,ω increases,ω stays the same,It becomes undefined,ω decreases,D,"If angular momentum is conserved and I increases, ω must decrease to keep L = I·ω constant."
+Which formula describes angular momentum?,L = m·v,L = I·ω,L = F·t,L = τ·θ,B,L = I·ω describes angular momentum for rotating objects.
+Which situation breaks angular momentum conservation?,No net torque,Balanced forces,Friction on a rotating wheel,Uniform motion,C,Friction is an external torque that can reduce angular momentum.
+Why is angular momentum conserved in space?,No net external torques act,There’s no mass loss,There is no gravity,It spins slower,A,"In space, with no net external torque, angular momentum stays constant."

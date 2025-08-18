@@ -1,0 +1,8 @@
+Code,Misconception,Explanation
+PH43,Forces can act on an object without interaction,Does not understand that all forces arise from interactions between two objects or systems — no object can exert a net force on itself.
+PH44,"Forces come from motion, not interaction","Thinks moving objects generate force by moving, ignoring the requirement of an interaction with another object or system."
+PH45,Free-body diagrams include forces the object exerts,Incorrectly includes forces exerted *by* the object rather than only those exerted *on* the object in a free-body diagram.
+PH46,All forces are contact forces,"Overlooks non-contact forces like gravity, thinking only visible touching causes forces."
+PH47,Direction of force must match motion,"Thinks force always points in the same direction as the object’s velocity, ignoring that force can oppose or redirect motion."
+PH48,Center of mass has no role in diagrams,Does not understand that forces should be drawn from the object's center of mass in free-body diagrams.
+PH49,Force components must be shown on FBDs,"Draws components (e.g., Fᵧ, Fₓ) on free-body diagrams even though AP only requires full forces, not their trigonometric parts."

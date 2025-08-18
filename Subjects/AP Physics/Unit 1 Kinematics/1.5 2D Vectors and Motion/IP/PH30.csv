@@ -1,0 +1,11 @@
+Question,Choice A,Choice B,Choice C,Choice D,Correct Answer,Explanation
+What is true about x and y components of projectile motion?,Only x changes,They evolve independently,Only y changes,They directly affect each other,B,"In projectile motion, x and y components are independent."
+Why does horizontal motion not affect vertical motion?,Air resistance is zero,Gravity affects both equally,They cancel each other,They are perpendicular and governed by separate rules,D,"In 2D motion, horizontal and vertical directions are decoupled."
+What determines time of flight for a projectile?,Horizontal speed,Object's mass,Vertical motion only,Total speed,C,"Time in air depends only on vertical motion (height, gravity)."
+How is range affected by initial vertical velocity?,It shortens it,It is not directly affected,It increases mass,It doubles,B,Range is influenced by time in air and horizontal velocity; vertical component affects time.
+Which of the following is independent in projectile motion?,x and speed,x and y motion,x and acceleration,y and direction,B,x and y are treated separately; acceleration only acts vertically.
+Why do x and y motions not interfere in ideal projectile motion?,Mass is balanced,Motion has no direction,Gravity acts only vertically,Forces cancel in x,C,Horizontal motion proceeds at constant speed; only gravity affects vertical.
+"If vertical velocity changes, what happens to horizontal speed?",It stays constant,It accelerates,It also changes,It reverses,A,Horizontal velocity stays constant without horizontal forces.
+Object is launched at 10 m/s horizontally. Vertical drop = 5 m. Time to land?,~1.01 s,0.5 s,10 s,2.2 s,A,Use y = ½·g·t² → 5 = 4.9·t² → t ≈ 1.01 s.
+"Projectile hits ground in 2 s. If vₓ = 6 m/s, what is range?",6 m,9.8 m,12 m,2 m,C,Range = vₓ·t = 6 × 2 = 12 m.
+Projectile’s vᵧ = 0 at top. What happens to vₓ?,vₓ remains unchanged,vₓ reverses,vₓ becomes zero,vₓ increases,A,No horizontal force → vₓ is constant.

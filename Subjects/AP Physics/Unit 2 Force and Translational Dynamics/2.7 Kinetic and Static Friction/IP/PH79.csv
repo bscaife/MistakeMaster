@@ -1,0 +1,11 @@
+Question,Choice A,Choice B,Choice C,Choice D,Correct Answer,Explanation
+Is kinetic friction usually stronger than static friction?,"No, static friction has a higher maximum","Yes, once motion starts, friction increases",Only on smooth surfaces,Only when rolling,A,Static friction can adjust up to a maximum limit — kinetic friction is lower and constant.
+Why is it harder to start moving an object than to keep it moving?,Static friction is greater than kinetic friction,Air resistance rises,Mass increases during motion,Velocity adds force,A,"Static friction can be stronger — once in motion, friction decreases slightly."
+What changes when an object starts sliding?,Friction increases,Friction changes from static to kinetic and becomes weaker,Weight doubles,Mass drops,B,Kinetic friction is usually less than the max static friction that resisted motion.
+Which coefficient is typically larger?,μₖ (kinetic),They are equal,μₛ (static),Depends on mass,C,Static friction has a higher coefficient (μₛ > μₖ) for most surfaces.
+When does kinetic friction act?,While sitting still,At rest,After motion begins,During freefall,C,Kinetic friction only acts during sliding or movement.
+What is true of static friction just before motion starts?,It disappears,It matches kinetic friction,It reverses direction,It reaches a maximum,D,Static friction builds to oppose force — then gives way to kinetic friction.
+What happens if applied force just exceeds static friction?,Friction increases,The object begins to move and kinetic friction takes over,Motion stops,Static friction increases more,B,"As motion begins, the friction type changes and typically becomes slightly less."
+"μₛ = 0.5, μₖ = 0.3, N = 100 N. What is max static friction?",50 N,30 N,0.3 N,100 N,A,fₛ₍ₘₐₓ₎ = μₛ·N = 0.5·100 = 50 N.
+Same case: What is kinetic friction during sliding?,0 N,30 N,50 N,70 N,B,fₖ = μₖ·N = 0.3·100 = 30 N.
+"If applied force = 60 N and fₛ₍ₘₐₓ₎ = 50 N, what happens?",Motion reverses,Object starts sliding,It stays still,Force balances friction,B,Applied > max static friction → motion begins and kinetic friction takes over.

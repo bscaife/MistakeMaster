@@ -1,0 +1,11 @@
+Question,Correct Answer,Choice A,Correct? A,Code A,Choice B,Correct? B,Code B,Choice C,Correct? C,Code C,Choice D,Correct? D,Code D,Explanation
+Which expression defines torque τ?,B,τ = F / r,FALSE,PH176,τ = r · F · sin(θ),TRUE,,τ = r · cos(θ),FALSE,PH177,τ = r² / F,FALSE,PH176,Torque is r·F·sin(θ) — rotational analog to force
+A 10 N force is applied 0.3 m from a pivot at 60°. What is torque?,C,τ = 10 · 0.3,FALSE,PH177,τ = 10 N·m,FALSE,PH176,τ = 2.6 N·m,TRUE,,τ = 30 N·m,FALSE,PH177,Use τ = r · F · sin(θ) = 10 · 0.3 · 0.866 ≈ 2.6
+A door is pushed with F at the hinge. What is torque?,D,τ = r · F,FALSE,PH177,τ = F · sin(90°),FALSE,PH176,τ = F / r,FALSE,PH176,τ = 0,TRUE,,If r = 0— torque = 0 regardless of F
+What happens to torque if force is perpendicular and distance doubles?,A,Torque doubles.,TRUE,,Torque is halved.,FALSE,PH176,Torque stays the same.,FALSE,PH177,Torque becomes zero.,FALSE,PH176,τ = r · F · sin(θ) → doubling r doubles τ when θ = 90°
+A lever rotates when τ = 5 N·m and I = 2 kg·m². What is angular acceleration?,C,α = 10 rad/s²,FALSE,PH176,α = 5 kg·m²,FALSE,PH176,α = 2.5 rad/s²,TRUE,,α = I / τ,FALSE,PH176,τ = I · α → α = τ / I
+Torque depends most on which factor?,B,Angle of mass.,FALSE,PH177,Lever arm distance and angle of application.,TRUE,,Amount of angular speed.,FALSE,PH181,Linear speed of pivot.,FALSE,PH176,τ = r · F · sin(θ) → both r and θ matter
+A wrench applies 15 N at 0.2 m from pivot. Torque = 3 N·m. What is angle of force?,D,θ = 0°,FALSE,PH177,θ = 80°,FALSE,PH177,θ = 45°,FALSE,PH177,θ = sin⁻¹(3 / (15·0.2)) = sin⁻¹(1) = 90°,TRUE,,τ = r · F · sin(θ) → solve for θ
+Which direction of force gives maximum torque for fixed r and F?,A,Perpendicular to lever arm (90°),TRUE,,Parallel to lever arm (0°),FALSE,PH177,At random angle,FALSE,PH177,Along the axis,FALSE,PH177,sin(90°) = 1 → maximum torque
+A beam has torques +6 and −4 N·m on opposite ends. What is net torque?,B,−10 N·m,FALSE,PH176,+2 N·m,TRUE,,0 N·m,FALSE,PH176,4 N·m,FALSE,PH176,Net τ = sum of clockwise and counterclockwise values
+Which situation results in zero torque?,C,Large force at large angle.,FALSE,PH176,Small force far from axis.,FALSE,PH177,Force acts directly at the axis.,TRUE,,Force acts with large α.,FALSE,PH176,If r = 0— then τ = 0 regardless of other values

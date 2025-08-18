@@ -1,0 +1,11 @@
+Question,Choice A,Choice B,Choice C,Choice D,Correct Answer,Explanation
+A student says frequency and period are unrelated. What is the correct relationship?,They are opposites,They are unrelated quantities,They are reciprocals of each other,They both increase together,C,"Frequency (f) and period (T) are reciprocals: f = 1/T and T = 1/f. When one increases, the other decreases."
+Which of the following shows how period (T) relates to frequency (f)?,T = f,T = 1/f,T = f²,T = √f,B,"By definition, period is the time for one cycle and frequency is the number of cycles per second. So T = 1/f."
+"If the period of oscillation doubles, what happens to the frequency?",It doubles,It is cut in half,It stays the same,It becomes zero,B,"Since f = 1/T, if T doubles, frequency is halved."
+What happens to the period when frequency increases?,Period increases,Period decreases,Period stays the same,Period becomes negative,B,"Because T = 1/f, increasing frequency means shorter time per cycle, so period decreases."
+An object oscillates with a frequency of 5 Hz. What is its period?,0.2 s,5 s,2 s,10 s,A,T = 1/f = 1/5 = 0.2 seconds.
+Which of these quantities is the inverse of frequency?,Amplitude,Period,Mass,Energy,B,"Period is defined as T = 1/f, so it is the inverse of frequency."
+"If frequency is measured in hertz (Hz), what are the units of period?",Meters,Newtons,Seconds,Hertz,C,"Frequency in Hz is cycles per second, so period is the duration of one cycle, measured in seconds (s)."
+A pendulum swings with a period of 2 seconds. What is its frequency?,0.25 Hz,2 Hz,0.5 Hz,1 Hz,C,f = 1/T = 1/2 = 0.5 Hz.
+Why are period and frequency considered inversely related?,They have opposite signs,They measure different types of systems,Because T = 1/f and f = 1/T,Because they always cancel out,C,"The reciprocal relationship is mathematical: T = 1/f and f = 1/T, making them inversely related quantities."
+Which statement is true about the relationship between period and frequency?,"As frequency increases, period increases",Period and frequency are unrelated,"As period increases, frequency decreases","As frequency increases, period becomes infinite",C,"Since T = 1/f, if period increases, frequency must decrease."

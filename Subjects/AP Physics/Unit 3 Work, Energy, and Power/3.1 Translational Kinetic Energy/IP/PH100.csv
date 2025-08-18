@@ -1,0 +1,11 @@
+Question,Choice A,Choice B,Choice C,Choice D,Correct Answer,Explanation
+Does a faster object always have more kinetic energy than a slower object?,"No, because mass also affects kinetic energy","Yes, speed alone determines energy",Only in freefall,Only with gravity present,A,KE = ½·m·v² — both mass and speed matter. A heavier slow object can have more KE than a light fast one.
+Which factor besides speed affects kinetic energy?,Mass,Height,Temperature,Direction,A,Mass contributes directly to kinetic energy: KE = ½·m·v².
+Which of the following has the most kinetic energy?,A 10 kg object moving at 2 m/s,A 5 kg object at 3 m/s,A 1 kg object at 8 m/s,A 0.5 kg object at 10 m/s,A,KE = ½·10·4 = 20 J; the others are lower when computed.
+Why can a slower object sometimes have more kinetic energy than a faster one?,Because it has a larger mass,Because it is moving upward,Because of friction,Because of velocity direction,A,Mass is just as important in calculating kinetic energy as speed.
+What happens to kinetic energy if mass doubles and speed stays the same?,It doubles,It stays the same,It halves,It quadruples,A,KE ∝ m — doubling mass → doubles KE.
+Two identical objects move at different speeds. Which has more KE?,The faster one,The heavier one,The slower one,The one with higher momentum,A,"If mass is the same, KE depends only on v² — faster → more KE."
+What would be the mistake in comparing kinetic energies using only speed?,"Ignoring mass, which also affects KE",Forgetting about friction,Overestimating potential energy,Misusing gravity,A,Speed alone isn’t enough — mass contributes equally in the equation.
+"m = 4 kg, v = 3 m/s. KE = ?",18 J,12 J,24 J,9 J,A,KE = ½·4·9 = 18 J.
+Which object has more KE: 6 kg at 2 m/s or 2 kg at 4 m/s?,6 kg object,2 kg object,Both the same,Neither has KE,B,"KE₁ = ½·6·4 = 12 J, KE₂ = ½·2·16 = 16 J → 2 kg object wins."
+An object doubles its speed. KE becomes?,Four times larger,Twice as large,The same,Half as large,A,KE ∝ v² → doubling v means 4× KE.

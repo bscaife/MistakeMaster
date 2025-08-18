@@ -1,0 +1,8 @@
+Code,Misconception,Explanation
+PH218,Angular momentum is always conserved,Fails to consider the need for zero net external torque; assumes conservation without checking system conditions.
+PH219,Angular momentum depends only on spin,Ignores contributions from linear motion when calculating angular momentum about a point not on the object.
+PH220,Only rotating objects have angular momentum,Overlooks that any object with linear velocity and an offset from a reference point can have angular momentum.
+PH221,Angular impulse equals torque alone,"Doesn’t recognize angular impulse depends on torque and duration, not torque alone."
+PH222,Angular momentum is a scalar,Misunderstands that angular momentum has direction and follows vector rules like linear momentum.
+PH223,All angular momentum equations are interchangeable,Uses formulas for rotating rigid bodies in situations where linear/angular motion must be combined differently.
+PH224,More torque means more angular momentum instantly,"Fails to consider that angular momentum change depends on both torque and time (impulse), not instantaneous torque alone."

@@ -1,0 +1,8 @@
+Code,Misconception,Explanation
+PH267,Energy is not conserved in SHM,"Assumes energy is lost during oscillations even in ideal systems, ignoring conservation in undamped SHM."
+PH268,Kinetic and potential energy peak at the same time,"Fails to understand that in SHM, KE and PE trade off and are out of phase—one is max when the other is zero."
+PH269,Amplitude doesn't affect energy,Does not recognize that total energy in SHM depends on amplitude since potential energy is proportional to amplitude squared.
+PH270,Potential energy is zero during motion,"Thinks PE is only present at the endpoints, not realizing it continuously varies during the motion."
+PH271,Kinetic energy is constant in SHM,"Mistakes the periodic motion as having constant KE, ignoring that KE oscillates between zero and maximum."
+PH272,Total energy depends on mass only,Ignores the influence of both mass and amplitude (and spring constant) on total energy in a harmonic oscillator.
+PH273,Energy graphs for SHM are linear,"Draws incorrect energy-time graphs assuming linear change, rather than recognizing sinusoidal variation of KE and PE."

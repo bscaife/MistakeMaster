@@ -1,0 +1,11 @@
+Question,Choice A,Choice B,Choice C,Choice D,Correct Answer,Explanation
+Is angular momentum a vector or a scalar?,Scalar,It depends,Vector,Neither,C,Angular momentum has direction — it is a vector quantity just like linear momentum.
+What property of angular momentum makes it a vector?,Its magnitude,It points in a direction based on rotation,Its relationship to torque,Its dependence on radius,B,The direction of angular momentum depends on the rotation axis and direction.
+Which quantity is a vector?,Kinetic energy,Speed,Angular momentum,Mass,C,Angular momentum is directional and follows vector addition rules.
+Which situation proves angular momentum is not a scalar?,Two opposite spins cancel,It depends on mass,It increases with speed,It is based on energy,A,"If two angular momenta point in opposite directions, they cancel — a scalar couldn’t do that."
+What determines the direction of angular momentum?,Spin direction,Speed,Mass and radius,Kinetic energy,A,The direction of spin (clockwise or counterclockwise) defines the direction of angular momentum.
+Why can angular momenta cancel?,Because they are scalars,Because they are vectors,Because they store energy,Because they affect mass,B,Vectors cancel when pointed in opposite directions — this applies to angular momentum.
+Which of the following has directional angular momentum?,A block at rest,A falling ball,A spinning top,A non-moving spring,C,A spinning object has angular momentum with direction based on its axis of rotation.
+How is angular momentum similar to linear momentum?,They are both vectors,They both ignore direction,They are both conserved if mass is constant,They both use energy,A,Both are vector quantities — they have magnitude and direction.
+A student says angular momentum only has magnitude. What’s the fix?,It depends on radius,It’s a special kind of scalar,It's always clockwise,It has direction based on axis of spin,D,Angular momentum direction depends on the spin axis — not just size.
+What happens if two equal spins are in opposite directions?,They double,They square,They add as scalars,They cancel,D,Opposing angular momentum vectors cancel — this proves it's a vector.

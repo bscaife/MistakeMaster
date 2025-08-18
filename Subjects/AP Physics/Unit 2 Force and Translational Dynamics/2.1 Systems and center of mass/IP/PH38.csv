@@ -1,0 +1,11 @@
+Question,Choice A,Choice B,Choice C,Choice D,Correct Answer,Explanation
+Where can the center of mass be located?,Only at the center of shape,Only at the heaviest part,Inside or outside the object,Always at a material point,C,"Center of mass can lie outside the material, such as in hollow or irregular objects."
+Which object might have a center of mass outside its body?,Sphere,Boomerang,Cube,Ball,B,Asymmetrical or curved objects may have COM outside their structure.
+A hollow ring spins. Where is its center of mass?,On the rim,At the thickest point,At the geometric center,Inside the wall,C,"Even if no material is present at the center, the COM is at the geometric center."
+Can a center of mass lie in empty space?,"Yes, in systems like rings or L-shapes",Only when gravity acts,"No, it must be inside the object",Only if object is solid,A,"COM depends on mass distribution, not physical occupation of space."
+"When an object is irregular, its center of mass:",Changes with air resistance,May lie outside the material,Is always at midpoint,Does not exist,B,"COM reflects balance point, not necessarily a physical location."
+"In a system of two objects, COM lies:","Between them, weighted by mass",At heavier object,On the lighter object,At the midpoint,A,COM position reflects both location and mass of components.
+COM of a bent rod is:,At the center of bend,Only in the straight segment,Undefined,At a point based on shape and mass,D,"COM is calculated from mass distribution, not shape alone."
+Two equal masses at x = 0 and x = 6 m. COM?,0 m,6 m,1.5 m,3 m,D,COM = (0 + 6)/2 = 3 m (midpoint for equal masses).
+Mass A = 2 kg at x = 0. Mass B = 4 kg at x = 4. COM?,2.67 m,1.33 m,4 m,2 m,A,COM = (2·0 + 4·4)/(2+4) = 16/6 ≈ 2.67 m.
+Ring has radius 1 m. Where is COM?,At center (x = 0),On rim,Undefined,At x = 1 m,A,"For symmetrical hollow ring, COM is at center even if no mass is there."
