@@ -195,6 +195,8 @@ struct UnitSelectView: View {
     @EnvironmentObject var globalTimer: GlobalTimer
     @State var layer: Int = 0
     
+    @State var alert: AlertContext = .settings
+    
     var nullFunc: () -> Void = {}
     
     // I don't plan on using a similar thing for any other section and for this reason as well as time constraints I'm hardcoding all tutorial stuff instead of OOPing it
@@ -241,6 +243,7 @@ struct UnitSelectView: View {
                             .offset(x: 52, y: 10)
                             .buttonStyle(DefaultButtonStyle())
                             Button {
+                                alert = .settings
                                 showAlert = true
                             }
                             label: {
@@ -371,6 +374,10 @@ struct UnitSelectView: View {
                                         }
                                     }
                                 }
+                                else {
+                                    alert = .liteVersionAlert
+                                    showAlert = true
+                                }
                             } label: {
                                 // see comment at the top of the HStack addressing this abomination
                                 (Text(unitSelection == 0 ? "(Not available)" : (layer == 0 ? "Diagnostic Quiz" :
@@ -393,6 +400,10 @@ struct UnitSelectView: View {
                                     default:
                                         layer = 1
                                     }
+                                }
+                                else {
+                                    alert = .liteVersionAlert
+                                    showAlert = true
                                 }
                             } label: {
                                 // see comment at top of HStack addressing this abomination too
@@ -561,7 +572,7 @@ struct UnitSelectView: View {
             }
             .allowsHitTesting(onTutorial)
             
-            PopUpWindow(alert: .constant(AlertContext.settings), showAlert: $showAlert, viewPath: $viewPath, time: globalTimer.time, miscHeader: "", miscExpl: "", answerSelection: .constant(0), endRoundFunc: nullFunc, recordStatsFunc: nullRecordStatsFunc)
+            PopUpWindow(alert: $alert, showAlert: $showAlert, viewPath: $viewPath, time: globalTimer.time, miscHeader: "", miscExpl: "", answerSelection: .constant(0), endRoundFunc: nullFunc, recordStatsFunc: nullRecordStatsFunc)
 
         }
         .navigationBarBackButtonHidden(true)
@@ -607,6 +618,10 @@ struct UnitSelectView: View {
             default:
                 QuestionLoader.goToMisconceptionIntentional(i: info, unit: unitSelection, chapter: chapterSelection, misc: miscSelection, viewPath: $viewPath)
             }
+        }
+        else {
+            alert = .liteVersionAlert
+            showAlert = true
         }
     }
     

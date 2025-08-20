@@ -17,6 +17,7 @@ enum AlertContext: Hashable {
     case questionSelect
     case submitChallenge
     case challengeExplanation
+    case liteVersionAlert
 }
 
 enum QuizMode: Hashable {
@@ -345,7 +346,24 @@ struct PopUpWindow: View {
                             )
                     }
                     .buttonStyle(DefaultButtonStyle())
-                    
+                case .liteVersionAlert:
+                    Text("To practice with this unit, you must purchase the full version of MistakeMaster!")
+                    RoundedRectangle(cornerRadius: 3)
+                        .fill(AppGlobals.buttonCol2)
+                        .frame(width: 300, height: 4)
+                        .padding(-10)
+                    Text("You're currently using the free version. The full version is available on the App Store.")
+                    Button {
+                        showAlert = false
+                    }
+                    label: {
+                        Text("OK")
+                            .padding(5)
+                            .background(
+                                RoundedRectangle(cornerRadius: 11)
+                                    .fill(AppGlobals.buttonCol2)
+                            )
+                    }
                 }
                 
             }
