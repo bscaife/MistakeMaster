@@ -2,7 +2,7 @@
 //  UnitSelectView.swift
 //  MistakeMaster
 //
-//  Created by 3 Kings on 6/12/25.
+//  Created by Ben Scaife on 6/12/25 for MistakeMaster.
 //
 
 import SwiftUI
@@ -414,6 +414,7 @@ struct UnitSelectView: View {
                                 .labelMod(150, 110, globalTimer.time + AppGlobals.waveOffset * 1.8, isElim: !AppGlobals.isFullVersion && unitSelection > 2, amp: 0.5)
                         }
                         .buttonStyle(DefaultButtonStyle())
+//  MORE OLD BUTTON CODE
 //                        if layer == 0 {
 //                            Button {
 //                                layer = 1
@@ -560,7 +561,7 @@ struct UnitSelectView: View {
             }
             .allowsHitTesting(onTutorial)
             
-            PopUpWindow(alert: AlertContext.settings, showAlert: $showAlert, viewPath: $viewPath, time: globalTimer.time, miscHeader: "", miscExpl: "", answerSelection: .constant(0), endRoundFunc: nullFunc, recordStatsFunc: nullRecordStatsFunc)
+            PopUpWindow(alert: .constant(AlertContext.settings), showAlert: $showAlert, viewPath: $viewPath, time: globalTimer.time, miscHeader: "", miscExpl: "", answerSelection: .constant(0), endRoundFunc: nullFunc, recordStatsFunc: nullRecordStatsFunc)
 
         }
         .navigationBarBackButtonHidden(true)

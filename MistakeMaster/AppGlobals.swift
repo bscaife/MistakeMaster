@@ -1,3 +1,10 @@
+//
+//  Summary.swift
+//  MistakeMaster
+//
+//  Created by Ben Scaife on 7/26/25 for MistakeMaster.
+//
+
 import Foundation
 import SwiftUI
 
@@ -19,7 +26,7 @@ struct AppGlobals {
     static let fps = 60.0
     
     // change this variable to false to enable the lite version, and true to enable the full version
-    static let isFullVersion = true
+    static let isFullVersion = false
     
     @AppStorage("theme") static var theme: String = "classic"
     @AppStorage("animSpeed") static var animSpeed: String = "Normal"

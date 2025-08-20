@@ -2,7 +2,7 @@
 //  ChallengeView.swift
 //  MistakeMaster
 //
-//  Created by 3 Kings on 8/3/25.
+//  Created by Ben Scaife on 8/3/25 for MistakeMaster
 //
 
 import SwiftUI
@@ -74,6 +74,7 @@ struct ChallengeView: View {
     
     @EnvironmentObject var globalTimer: GlobalTimer
     @State var timeRef: Double = 0.0
+    @State var closeQuestionSelectTimeRef: Double = 0.0
     
     @Environment(\.dismiss) var dismiss
     
@@ -98,6 +99,10 @@ struct ChallengeView: View {
                                             Button {
                                                 if !answersElimedArray[q][i] && !showAlert {
                                                     answerSelectionArray[q] = i
+                                                }
+                                                // very temporary solution to remove long term lag for the 60 buttons menu, using a .onChange for selection did nothing
+                                                if alert == .questionSelect {
+                                                    alert = .settings
                                                 }
                                             } label: {
                                                 Text(question.answers[i])
@@ -191,7 +196,7 @@ struct ChallengeView: View {
             }
             .alertOverlayMod(showAlert)
             
-            PopUpWindow(alert: alert, showAlert: $showAlert, viewPath: $viewPath, time: globalTimer.time, answerArray: answerSelectionArray, answerSelection: $selection, questionsLeft: qSet.count - (answerSelectionArray.filter {$0 != -1 }).count, endRoundFunc: endRound, recordStatsFunc: recordStats, isOnChallenge: true)
+            PopUpWindow(alert: $alert, showAlert: $showAlert, viewPath: $viewPath, time: globalTimer.time, answerArray: answerSelectionArray, answerSelection: $selection, questionsLeft: qSet.count - (answerSelectionArray.filter {$0 != -1 }).count, endRoundFunc: endRound, recordStatsFunc: recordStats, isOnChallenge: true)
         }
         .tabViewStyle(PageTabViewStyle(indexDisplayMode: .never))
         .onAppear {
@@ -203,12 +208,6 @@ struct ChallengeView: View {
             }
             else {
                 showAlert = true
-            }
-        }
-        .onChange(of: selection) {
-            // very quick patch in short time to reduce lag from the 60 buttons in the question select
-            if alert == .questionSelect {
-                alert = .settings
             }
         }
         .navigationBarBackButtonHidden(true)

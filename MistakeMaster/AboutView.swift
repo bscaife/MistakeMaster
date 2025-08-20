@@ -2,7 +2,7 @@
 //  AboutView.swift
 //  MistakeMaster
 //
-//  Created by 3 Kings on 8/14/25.
+//  Created by Ben Scaife on 8/14/25 for MistakeMaster
 //
 
 import SwiftUI

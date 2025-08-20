@@ -2,7 +2,7 @@
 //  QuestionUnpacker.swift
 //  MistakeMaster
 //
-//  Created by 3 Kings on 6/3/25.
+//  Created by Ben Scaife on 6/3/25 for MistakeMaster
 //
 
 import Foundation

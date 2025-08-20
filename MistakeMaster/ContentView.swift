@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  MistakeMaster
 //
-//  Created by 3 Kings on 5/28/25.
+//  Created by Ben Scaife on 5/28/25 for MistakeMaster.
 //
 
 import SwiftUI
@@ -240,23 +240,25 @@ struct ContentView: View {
                             }
                             .padding(-5)
                         VStack(spacing: -20) {
-                            if !AppGlobals.isFullVersion {
-                                Rectangle()
-                                    .fill(.clear)
-                                    .frame(width: 10, height: 25)
-                            }
+                            Rectangle()
+                                .fill(.clear)
+                                .frame(width: 10, height: AppGlobals.isFullVersion ? 43 : 52)
                             Text("Mistake")
                                 .bold()
                                 .font(.custom("futura", size: 40))
                             Text("Master")
                                 .bold()
                                 .font(.custom("futura", size: 46))
+                            Text("AP Physics 1")
+                                .bold()
+                                .font(.custom("futura", size: 24))
+                                .padding(.vertical, 8)
                             if !AppGlobals.isFullVersion {
                                 Text("lite")
                                     .bold()
-                                    .font(.custom("futura", size: 22))
+                                    .font(.custom("futura", size: 18))
                                     .rotationEffect(Angle(degrees: -5))
-                                    .offset(x: 0, y: 10)
+                                    .offset(x: 0, y: 8)
                             }
                         }
                     }

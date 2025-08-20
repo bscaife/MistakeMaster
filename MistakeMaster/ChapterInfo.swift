@@ -2,7 +2,7 @@
 //  ChapterInfo.swift
 //  MistakeMaster
 //
-//  Created by 3 Kings on 8/2/25.
+//  Created by Ben Scaife on 7/27/25 for MistakeMaster.
 //
 
 import Foundation

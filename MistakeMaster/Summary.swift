@@ -2,7 +2,7 @@
 //  Summary.swift
 //  MistakeMaster
 //
-//  Created by 3 Kings on 7/29/25.
+//  Created by Ben Scaife on 7/29/25 for MistakeMaster.
 //
 
 import SwiftUI

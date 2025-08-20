@@ -2,7 +2,7 @@
 //  QuestionsView.swift
 //  MistakeMaster
 //
-//  Created by 3 Kings on 6/9/25.
+//  Created by Ben Scaife on 6/9/25 for MistakeMaster.
 //
 
 // jotting this down for later but INSANE UI IDEA:
@@ -81,7 +81,7 @@ struct CustomToolbar: View {
 }
 
 struct PopUpWindow: View {
-    var alert: AlertContext
+    @Binding var alert: AlertContext
     @Binding var showAlert: Bool
     @Binding var viewPath: NavigationPath
     var time: Double
@@ -271,6 +271,9 @@ struct PopUpWindow: View {
                             Button {
                                 answerSelection = i + 1
                                 showAlert = false
+                                DispatchQueue.main.asyncAfter(deadline: .now() + 0.5) {
+                                    alert = AlertContext.settings
+                                }
                             }
                             label: {
                                 Text("\(i + 1)")
@@ -646,7 +649,7 @@ struct QuestionsView: View {
 //                .animation(.easeOut(duration: AppGlobals.isFastAnim ? 0.15 : 0.3), value: explanationSlideTrigger)
             
             // alert
-            PopUpWindow(alert: alert, showAlert: $showAlert, viewPath: $viewPath, time: globalTimer.time, miscHeader: misconceptionHeader, miscExpl: misconceptionExplanation, answerSelection: .constant(0), endRoundFunc: nullFunc, recordStatsFunc: recordStats
+            PopUpWindow(alert: $alert, showAlert: $showAlert, viewPath: $viewPath, time: globalTimer.time, miscHeader: misconceptionHeader, miscExpl: misconceptionExplanation, answerSelection: .constant(0), endRoundFunc: nullFunc, recordStatsFunc: recordStats
             )
         }
         .onAppear {

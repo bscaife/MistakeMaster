@@ -2,7 +2,7 @@
 //  MainMenuView.swift
 //  MistakeMaster
 //
-//  Created by 3 Kings on 6/8/25.
+//  Created by Ben Scaife on 6/8/25 for MistakeMaster.
 //
 
 import SwiftUI
