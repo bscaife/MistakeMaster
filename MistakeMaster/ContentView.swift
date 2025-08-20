@@ -72,7 +72,10 @@ final class Store: ObservableObject {
                 await txn.finish()
                 await refreshEntitlements()
             }
-        } catch { print("purchase error:", error) }
+        }
+        catch {
+            print("purchase error:", error)
+        }
     }
 
     func refreshEntitlements() async {

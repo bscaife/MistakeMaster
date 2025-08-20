@@ -85,7 +85,7 @@ struct ChallengeView: View {
                     .blur(radius: 3)
                 VStack {
                     CustomToolbar(showAlert: $showAlert, alert: $alert, time: globalTimer.time, eventTime: -1.0)
-                        .padding(-10)
+                        .padding(3)
                     TabView(selection: $selection) {
                         ForEach(qSet.indices, id: \.self) { q in
                             let question = qSet[q]
@@ -151,7 +151,8 @@ struct ChallengeView: View {
                         .buttonStyle(DefaultButtonStyle())
                         .tag(qSet.count + 1)
                     }
-                    .frame(height: 750)
+                    .frame(height: 700)
+                    .padding(10)
                     ZStack {
                         ProgressBar(progressFac: CGFloat(selection) / CGFloat(qSet.count), col1: AppGlobals.buttonCol1, col2: AppGlobals.buttonCol2, col3: AppGlobals.isLighterTheme() ? AppGlobals.textColor : AppGlobals.buttonCol2, col4: AppGlobals.isLighterTheme() ? AppGlobals.buttonCol2 : AppGlobals.buttonOutlineColor)
                             .offset(y: 10)
@@ -191,7 +192,7 @@ struct ChallengeView: View {
                     }
                     .buttonStyle(DefaultButtonStyle())
                     .animation(.easeOut(duration: 0.5 * AppGlobals.getAnimSpeed()), value: selection)
-                    .padding(-20)
+                    .padding(-8)
                 }
             }
             .alertOverlayMod(showAlert)
