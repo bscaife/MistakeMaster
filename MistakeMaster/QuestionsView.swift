@@ -82,6 +82,8 @@ struct CustomToolbar: View {
 }
 
 struct PopUpWindow: View {
+    @EnvironmentObject var store: Store
+    
     @Binding var alert: AlertContext
     @Binding var showAlert: Bool
     @Binding var viewPath: NavigationPath
@@ -352,7 +354,7 @@ struct PopUpWindow: View {
                         .fill(AppGlobals.buttonCol2)
                         .frame(width: 300, height: 4)
                         .padding(-10)
-                    Text("You're currently using the free version. The full version is available on the App Store.")
+                    Text("You're currently using the free version. You can purchase the full version in the main menu.")
                     Button {
                         showAlert = false
                     }

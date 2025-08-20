@@ -9,9 +9,12 @@ import SwiftUI
 
 @main
 struct MistakeMasterApp: App {
+    @StateObject private var store = Store.shared
+    
     var body: some Scene {
         WindowGroup {
             ContentView()
+                .environmentObject(store)
         }
     }
 }

@@ -177,14 +177,13 @@ struct UnitSelectBackground: View {
 }
 
 struct UnitSelectView: View {
+    @EnvironmentObject var store: Store
+    
     @Binding var viewPath: NavigationPath
     
     @State var unitSelection: Int = 1
     @State var chapterSelection: Int = 1
     @State var miscSelection: Int = 1
-    
-    // !!!!! change this to switch between the lite and full version!
-    
     
     @State var showAlert = false
     
@@ -362,7 +361,7 @@ struct UnitSelectView: View {
                     HStack(spacing: 5) {
                         VStack {
                             Button {
-                                if (AppGlobals.isFullVersion || unitSelection <= 2) {
+                                if (store.isFullVersion || unitSelection <= 2) {
                                     if !(unitSelection == 0) {
                                         switch layer {
                                         case 0:
@@ -385,11 +384,11 @@ struct UnitSelectView: View {
                                             "- - - -"))) +
                                  Text((layer == 0 && unitSelection != 0) ? " (\(Int(info.getUnitArray()[unitSelection].getHighestScoreDiagnostic() * 100))%)" : "").bold())
                                     .animation(nil, value: layer)
-                                    .labelMod(195, 50, globalTimer.time + AppGlobals.waveOffset * 1.5, isElim: !AppGlobals.isFullVersion && unitSelection > 2, textPadding: 12, amp: 0.5)
+                                    .labelMod(195, 50, globalTimer.time + AppGlobals.waveOffset * 1.5, isElim: !store.isFullVersion && unitSelection > 2, textPadding: 12, amp: 0.5)
                             }
                             .buttonStyle(DefaultButtonStyle())
                             Button {
-                                if (AppGlobals.isFullVersion || unitSelection <= 2) {
+                                if (store.isFullVersion || unitSelection <= 2) {
                                     switch layer {
                                     case 0:
                                         if !(unitSelection == 0) {
@@ -412,7 +411,7 @@ struct UnitSelectView: View {
                                             "Return to Sections"))) +
                                  Text((layer == 0 && unitSelection != 0) ? " (\(Int(info.getUnitArray()[unitSelection].getHighestScoreTest() * 100))%)" : "").bold())
                                     .animation(nil, value: layer)
-                                    .labelMod(195, 50, globalTimer.time + AppGlobals.waveOffset * 2.5, isElim: !AppGlobals.isFullVersion && unitSelection > 2, textPadding: 12, amp: 0.5)
+                                    .labelMod(195, 50, globalTimer.time + AppGlobals.waveOffset * 2.5, isElim: !store.isFullVersion && unitSelection > 2, textPadding: 12, amp: 0.5)
                             }
                             .buttonStyle(DefaultButtonStyle())
                         }
@@ -422,7 +421,7 @@ struct UnitSelectView: View {
                             Text(layer == 0 ? "Go to Sections" : "Go!")
                                 .animation(nil, value: layer)
                                 .bold(layer != 0)
-                                .labelMod(150, 110, globalTimer.time + AppGlobals.waveOffset * 1.8, isElim: !AppGlobals.isFullVersion && unitSelection > 2, amp: 0.5)
+                                .labelMod(150, 110, globalTimer.time + AppGlobals.waveOffset * 1.8, isElim: !store.isFullVersion && unitSelection > 2, amp: 0.5)
                         }
                         .buttonStyle(DefaultButtonStyle())
 //  MORE OLD BUTTON CODE
@@ -554,6 +553,9 @@ struct UnitSelectView: View {
                 if tutorialSlide >= tutorialBGPositions.count - 1 {
                     onTutorial = false
                     tutorialSlide = 0
+                    if !store.isFullVersion {
+                        layer = 0
+                    }
                 }
                 else {
                     tutorialSlide += 1
@@ -561,7 +563,7 @@ struct UnitSelectView: View {
                         layer += 1
                     }
                     else if tutorialSlide == 14 {
-                        layer = AppGlobals.isFullVersion ? 1 : 0
+                        layer = 1
                     }
                 }
                 extraVarForSizeScaling = tutorialSlide
@@ -604,7 +606,7 @@ struct UnitSelectView: View {
     }
     
     func handleGoButton() {
-        if (AppGlobals.isFullVersion || unitSelection <= 2) {
+        if (store.isFullVersion || unitSelection <= 2) {
             switch layer {
             case 0:
                 layer = 1
@@ -704,6 +706,7 @@ struct QuestionLoader {
 #Preview {
     UnitSelectView(viewPath: .constant(NavigationPath()), info: .constant(InfoList()))
         .environmentObject(GlobalTimer())
+        .environmentObject(Store.shared)
 }
 
 // OLD CODE IN MAIN STRUCT:

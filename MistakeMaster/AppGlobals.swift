@@ -25,9 +25,6 @@ struct AppGlobals {
     static let waveOffset = 0.5
     static let fps = 60.0
     
-    // change this variable to false to enable the lite version, and true to enable the full version
-    static let isFullVersion = false
-    
     @AppStorage("theme") static var theme: String = "classic"
     @AppStorage("animSpeed") static var animSpeed: String = "Normal"
     @AppStorage("overrideDiagnostic") static var overrideDiagnostic = false

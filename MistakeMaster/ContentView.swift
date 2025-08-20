@@ -11,6 +11,7 @@ import UIKit
 import CoreLocation
 import Combine
 import AVFoundation
+import StoreKit
 
 
 enum Route: Hashable {
@@ -40,6 +41,61 @@ struct MainMenuGradientBackground: View {
                 MainMenuParticleView()
             )
             .blur(radius: 50)
+    }
+}
+
+@MainActor
+final class Store: ObservableObject {
+    static let shared = Store()
+    private let productIDs = ["com.MistakeMaster.FullUnlock"]
+    @Published var products: [Product] = []
+    @Published var isFullVersion = false
+
+    init() {
+        Task {
+            await listenForTransactions()
+            await refreshEntitlements()
+            try? await loadProducts()
+        }
+    }
+
+    func loadProducts() async throws {
+        products = try await Product.products(for: productIDs)
+    }
+
+    func buy(_ product: Product) async {
+        do {
+            let result = try await product.purchase()
+            if case .success(let verification) = result,
+               case .verified(let txn) = verification {
+                await txn.finish()
+                await refreshEntitlements()
+            }
+        } catch { print("purchase error:", error) }
+    }
+
+    func refreshEntitlements() async {
+        var pro = false
+        for await result in Transaction.currentEntitlements {
+            if case .verified(let t) = result, productIDs.contains(t.productID) {
+                pro = true
+            }
+        }
+        isFullVersion = pro
+    }
+
+    func listenForTransactions() async {
+        for await update in Transaction.updates {
+            if case .verified(let t) = update {
+                await t.finish()
+                await refreshEntitlements()
+            }
+        }
+    }
+
+    func restore() async {
+        try? await AppStore.sync()
+        await refreshEntitlements()
     }
 }
 
@@ -215,6 +271,8 @@ struct SoundManager {
 
 
 struct ContentView: View {
+    @EnvironmentObject var store: Store
+    
     @State var viewPath = NavigationPath()
     @State var time = 0.0
     @State var isFirstAppearance = true
@@ -223,6 +281,8 @@ struct ContentView: View {
     @StateObject var globalTimer = GlobalTimer()
     
     @State var info = InfoList()
+    
+    @State var isBuying = false
     
     var body: some View {
         NavigationStack(path: $viewPath){
@@ -242,7 +302,8 @@ struct ContentView: View {
                         VStack(spacing: -20) {
                             Rectangle()
                                 .fill(.clear)
-                                .frame(width: 10, height: AppGlobals.isFullVersion ? 43 : 52)
+                                .frame(width: 10, height: 43)
+//                                .frame(width: 10, height: store.isFullVersion ? 43 : 52)
                             Text("Mistake")
                                 .bold()
                                 .font(.custom("futura", size: 40))
@@ -253,13 +314,13 @@ struct ContentView: View {
                                 .bold()
                                 .font(.custom("futura", size: 24))
                                 .padding(.vertical, 8)
-                            if !AppGlobals.isFullVersion {
-                                Text("lite")
-                                    .bold()
-                                    .font(.custom("futura", size: 18))
-                                    .rotationEffect(Angle(degrees: -5))
-                                    .offset(x: 0, y: 8)
-                            }
+//                            if !store.isFullVersion {
+//                                Text("lite")
+//                                    .bold()
+//                                    .font(.custom("futura", size: 18))
+//                                    .rotationEffect(Angle(degrees: -5))
+//                                    .offset(x: 0, y: 8)
+//                            }
                         }
                     }
                         .labelMod(350, 200, globalTimer.time)
@@ -294,6 +355,40 @@ struct ContentView: View {
                             .labelMod(350, 80, globalTimer.time + AppGlobals.waveOffset)
                     }
                     .buttonStyle(DefaultButtonStyle())
+                    
+                    if store.isFullVersion {
+                        Text("Full version unlocked! :D")
+                            .labelMod(350, 80, globalTimer.time + AppGlobals.waveOffset)
+                    }
+                    else {
+                        let product = store.products.first
+                        
+                        Button {
+                            guard let p = product, !isBuying else { return }
+                            isBuying = true
+                            Task {
+                                await store.buy(p)
+                                isBuying = false
+                            }
+                        } label: {
+                            if let p = product {
+                                Text("Unlock Full Version (\(p.displayPrice))")
+                                .labelMod(350, 80, globalTimer.time + AppGlobals.waveOffset)
+                            } else {
+                                Text("Loading…")
+                                    .labelMod(350, 80, globalTimer.time + AppGlobals.waveOffset)
+                            }
+                        }
+                        .buttonStyle(DefaultButtonStyle())
+                        .disabled(product == nil || isBuying)
+                    }
+                    Button {
+                        Task { await store.restore() }
+                    } label: {
+                        Text("Restore Purchases")
+                            .labelMod(350, 80, globalTimer.time + AppGlobals.waveOffset)
+                    }
+                    .buttonStyle(DefaultButtonStyle())
                 }
             }
             .navigationDestination(for: Route.self) {route in
@@ -321,6 +416,10 @@ struct ContentView: View {
                         .environmentObject(globalTimer)
                 }
             }
+        }
+        .task {
+            await store.refreshEntitlements()
+            if store.products.isEmpty { try? await store.loadProducts() }
         }
         .onAppear {
             // load progress on launch
@@ -353,4 +452,5 @@ struct ContentView: View {
 
 #Preview {
     ContentView()
+        .environmentObject(Store.shared)
 }
