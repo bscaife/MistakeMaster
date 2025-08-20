@@ -271,7 +271,7 @@ struct PopUpWindow: View {
                             Button {
                                 answerSelection = i + 1
                                 showAlert = false
-                                DispatchQueue.main.asyncAfter(deadline: .now() + 0.5) {
+                                DispatchQueue.main.asyncAfter(deadline: .now() + 0.7 * AppGlobals.getAnimSpeed()) {
                                     alert = AlertContext.settings
                                 }
                             }
