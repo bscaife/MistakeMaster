@@ -44,6 +44,7 @@ struct MainMenuGradientBackground: View {
     }
 }
 
+// only works with async
 @MainActor
 final class Store: ObservableObject {
     static let shared = Store()
@@ -75,13 +76,13 @@ final class Store: ObservableObject {
     }
 
     func refreshEntitlements() async {
-        var pro = false
+        var full = false
         for await result in Transaction.currentEntitlements {
             if case .verified(let t) = result, productIDs.contains(t.productID) {
-                pro = true
+                full = true
             }
         }
-        isFullVersion = pro
+        isFullVersion = full
     }
 
     func listenForTransactions() async {
@@ -385,7 +386,7 @@ struct ContentView: View {
                     Button {
                         Task { await store.restore() }
                     } label: {
-                        Text("Restore Purchases")
+                        Text("Restore Purchase")
                             .labelMod(350, 80, globalTimer.time + AppGlobals.waveOffset)
                     }
                     .buttonStyle(DefaultButtonStyle())
