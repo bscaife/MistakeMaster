@@ -346,7 +346,7 @@ struct ContentView: View {
                     }
                     label: {
                         Text("Settings")
-                            .labelMod(350, 80, globalTimer.time + AppGlobals.waveOffset)
+                            .labelMod(350, 80, globalTimer.time + AppGlobals.waveOffset * 2)
                     }
                     .buttonStyle(DefaultButtonStyle())
                     Button {
@@ -356,13 +356,13 @@ struct ContentView: View {
                     }
                     label: {
                         Text("About")
-                            .labelMod(350, 80, globalTimer.time + AppGlobals.waveOffset)
+                            .labelMod(350, 80, globalTimer.time + AppGlobals.waveOffset * 3)
                     }
                     .buttonStyle(DefaultButtonStyle())
                     
                     if store.isFullVersion {
                         Text("Full version unlocked! :D")
-                            .labelMod(350, 80, globalTimer.time + AppGlobals.waveOffset)
+                            .labelMod(350, 80, globalTimer.time + AppGlobals.waveOffset * 4)
                     }
                     else {
                         let product = store.products.first
@@ -377,10 +377,10 @@ struct ContentView: View {
                         } label: {
                             if let p = product {
                                 Text("Unlock Full Version (\(p.displayPrice))")
-                                .labelMod(350, 80, globalTimer.time + AppGlobals.waveOffset)
+                                .labelMod(350, 80, globalTimer.time + AppGlobals.waveOffset * 4)
                             } else {
                                 Text("Loading…")
-                                    .labelMod(350, 80, globalTimer.time + AppGlobals.waveOffset)
+                                    .labelMod(350, 80, globalTimer.time + AppGlobals.waveOffset * 4)
                             }
                         }
                         .buttonStyle(DefaultButtonStyle())
@@ -390,7 +390,7 @@ struct ContentView: View {
                         Task { await store.restore() }
                     } label: {
                         Text("Restore Purchase")
-                            .labelMod(350, 80, globalTimer.time + AppGlobals.waveOffset)
+                            .labelMod(350, 80, globalTimer.time + AppGlobals.waveOffset * 5)
                     }
                     .buttonStyle(DefaultButtonStyle())
                 }

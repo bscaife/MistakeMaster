@@ -23,7 +23,6 @@
 		5E827F5E2E52C853002F4D9A /* select2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = select2.mp3; sourceTree = "<group>"; };
 		5E827F5F2E52C853002F4D9A /* whoosh.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = whoosh.mp3; sourceTree = "<group>"; };
 		5E827F602E52C853002F4D9A /* wrong2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = wrong2.mp3; sourceTree = "<group>"; };
-		5E82809F2E55B434002F4D9A /* IAPLocal.storekit */ = {isa = PBXFileReference; lastKnownFileType = text; name = IAPLocal.storekit; path = ../../Developer/StoreKitConfigs/IAPLocal.storekit; sourceTree = "<group>"; };
 		BE9F61E02E4FF002006CF4B5 /* Subjects */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Subjects; sourceTree = "<group>"; };
 		BE9F61E42E4FF7C5006CF4B5 /* MistakeMaster bg.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "MistakeMaster bg.mp3"; sourceTree = "<group>"; };
 		BEF34B922DE6F0E500F4F817 /* MistakeMaster.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MistakeMaster.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -52,7 +51,6 @@
 		BEF34B892DE6F0E500F4F817 = {
 			isa = PBXGroup;
 			children = (
-				5E82809F2E55B434002F4D9A /* IAPLocal.storekit */,
 				5E827F5C2E52C853002F4D9A /* right.mp3 */,
 				5E827F5D2E52C853002F4D9A /* select1.mp3 */,
 				5E827F5E2E52C853002F4D9A /* select2.mp3 */,

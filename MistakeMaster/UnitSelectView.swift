@@ -293,9 +293,13 @@ struct UnitSelectView: View {
                                     .scaleEffect(0.6)
                                     .offset(x: 1)
                             }
+                            .frame(width: 50, height: 30)
                         }
+                        .padding(.horizontal, 40)
+                        .padding(.vertical, 40)
+                        .contentShape(Rectangle())
+                        .background(Color.clear)
                         .hoverMod(globalTimer.time, 0.5)
-                        .frame(width: 50, height: 30)
                         .buttonStyle(DefaultButtonStyle())
                         .offset(x: -185)
                         .scaleEffect(layer > 0 ? 1 : 0)
@@ -380,7 +384,7 @@ struct UnitSelectView: View {
                             } label: {
                                 // see comment at the top of the HStack addressing this abomination
                                 (Text(unitSelection == 0 ? "(Not available)" : (layer == 0 ? "Diagnostic Quiz" :
-                                        (layer == 1 ? "Your Misconceptions" :
+                                        (layer == 1 ? "Misconceptions" :
                                             "- - - -"))) +
                                  Text((layer == 0 && unitSelection != 0) ? " (\(Int(info.getUnitArray()[unitSelection].getHighestScoreDiagnostic() * 100))%)" : "").bold())
                                     .animation(nil, value: layer)
